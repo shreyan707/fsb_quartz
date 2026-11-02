@@ -600,3 +600,44 @@ ul.tags a,
 .page > #quartz-body .center .page-header .flex-component {
   align-items: center;
 }
+
+// Director profile pages: label on top, photo left, facts right, biography below
+.director-label {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.director-profile {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+
+  img {
+    flex: 0 0 180px;
+    width: 180px;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+    margin: 0;
+    border-radius: 4px;
+    filter: grayscale(1);
+  }
+
+  .director-facts {
+    flex: 1;
+    min-width: 0;
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 1rem;
+    }
+  }
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+  }
+}

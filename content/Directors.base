@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.inFolder("Director Profiles")
+    - file.ext == "md"
+    - file.name != "index"
+properties:
+  note.films_screened:
+    displayName: Films screened
+views:
+  - type: cards
+    name: Portraits
+    image: note.photo
+    imageFit: cover
+    imageAspectRatio: 0.667
+    cardSize: 180
+    order:
+      - file.name
+      - note.films_screened
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: All directors
+    order:
+      - file.name
+      - note.films_screened
+    sort:
+      - property: file.name
+        direction: ASC

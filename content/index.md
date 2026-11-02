@@ -9,6 +9,7 @@ An archive of the films screened by the **Film Society Bhubaneswar**: world cine
 ## Start here
 
 - [[movies/index|Member Screenings]]: every film, organised by decade
+- [[Director Profiles/index|Director Profiles]]: profiles of the filmmakers, with photos and biographies
 - [[tags/index|Browse by tag]]: find films by genre, director or year
 - Use the search (`Ctrl/Cmd + K`) or the graph view to wander between films
 
