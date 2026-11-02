@@ -1,0 +1,57 @@
+---
+title: "The Wild Pear Tree"
+original_title: "Ahlat Ağacı"
+release_year: 2018
+director: "Nuri Bilge Ceylan"
+language: "Turkish"
+country: "Bosnia and Herzegovina, Bulgaria, France, Germany, Macedonia, Qatar, Sweden, Turkey"
+runtime: "188 min"
+genre:
+  - "Drama"
+source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
+scraped_at: "2026-11-02"
+tags:
+  - "drama"
+  - "nuri-bilge-ceylan"
+  - "2018"
+---
+
+# The Wild Pear Tree (2018)
+
+## Movie Information
+
+| Field | Details |
+|---|---|
+| Title | The Wild Pear Tree |
+| Original Title | Ahlat Ağacı |
+| Release Year | 2018 |
+| Director | Nuri Bilge Ceylan |
+| Language | Turkish |
+| Country | Bosnia and Herzegovina, Bulgaria, France, Germany, Macedonia, Qatar, Sweden, Turkey |
+| Runtime | 188 min |
+| Genre | Drama |
+
+## Description
+
+The second screening is of the movie The Wild Pear Tree, directed by Turkish director Nuri Bilge Ceylan. Spanning the last 25 years of Britain’s most revered painter JMW Turner (1775-1851), is a rich portrait of the artist whose personal life was as turbulent as the canvases he painted. Timothy Spall (playing Mr. Turner) won the best actor award at the Cannes film festival for his performance. Mike Leigh’s Secrets & Lies (1996), All or Nothing (2002) and Naked (1993) were screened earlier at FSB.
+
+## Additional Information
+
+**Cast:**
+- Doğu Demirkol
+- Murat Cemcir
+- Bennu Yıldırımlar
+
+**Production Company:** Zeyno Film
+
+**IMDb Rating:** 7.5
+
+## Source Information
+
+- **Source:** Film Society Bhubaneswar
+- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
+- **Date Scraped:** 2026-11-02
+
+## Tags
+
+#Drama #Nuri-Bilge-Ceylan #2018

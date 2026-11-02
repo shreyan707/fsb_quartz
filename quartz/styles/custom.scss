@@ -1,5 +1,6 @@
 @use "./variables.scss" as *;
 @use "sass:math";
+@use "sass:list";
 
 // put your custom CSS here!
 
@@ -31,8 +32,8 @@ $starFallFast: 55s;
   @for $i from 1 through $n {
     $x: math.random(1000) * 0.1;
     $y: math.random(1000) * 0.1;
-    $shadows: append($shadows, #{$x}vw #{$y}vh 0 0 currentColor, comma);
-    $shadows: append($shadows, #{$x}vw calc(#{$y}vh - 100vh) 0 0 currentColor, comma);
+    $shadows: list.append($shadows, #{$x}vw #{$y}vh 0 0 currentColor, comma);
+    $shadows: list.append($shadows, #{$x}vw calc(#{$y}vh - 100vh) 0 0 currentColor, comma);
   }
   @return $shadows;
 }
@@ -152,9 +153,13 @@ body {
   }
 }
 
-:root[saved-theme="light"] .page > #quartz-body .center::after {
-  opacity: $grainOpacity * 0.8;
-  mix-blend-mode: multiply;
+:root[saved-theme="light"] {
+  .page > #quartz-body .center::after,
+  .explorer::after,
+  .toc::after {
+    opacity: $grainOpacity * 0.8;
+    mix-blend-mode: multiply;
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -266,4 +271,108 @@ ul.tags {
 .page-title,
 .page-title a {
   font-size: 1.7rem;
+}
+
+// ---------------------------------------------------------------------------
+// Tags, breadcrumbs, TOC and explorer
+// ---------------------------------------------------------------------------
+// Tags never wrap mid-name; smaller so long director names fit on one line
+a.tag-link,
+a.internal.tag-link,
+ul.tags a,
+.tags a {
+  font-family: $serifFont !important;
+  font-weight: 400 !important;
+  font-synthesis: none;
+  white-space: nowrap;
+  font-size: 0.85rem;
+}
+
+.breadcrumb-element,
+.breadcrumb-element a,
+.breadcrumbs,
+.breadcrumbs a {
+  font-family: $serifFont !important;
+  font-weight: 400 !important;
+  font-synthesis: none;
+}
+
+// Pull navigation up towards the top of the panel
+.page > #quartz-body .center {
+  margin-top: 0.75rem;
+  padding-top: 0;
+}
+
+.breadcrumb-container,
+.breadcrumbs {
+  margin: 0.4rem 0 0;
+}
+
+.toc,
+.toc-header,
+.toc-content,
+.toc a {
+  font-family: $serifFont !important;
+  font-weight: 400 !important;
+  font-synthesis: none;
+}
+
+// Grainy, translucent bounding boxes for explorer and table of contents (no outer outline border)
+.explorer,
+.toc {
+  border: none;
+  border-radius: 2px;
+  padding: 0.65rem 0.9rem;
+  box-sizing: border-box;
+  background: color-mix(in srgb, var(--light) $panelOpacity, transparent);
+  backdrop-filter: blur(1.5px);
+  -webkit-backdrop-filter: blur(1.5px);
+  position: relative;
+  isolation: isolate;
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 5;
+    pointer-events: none;
+    border-radius: inherit;
+    background-image: $grainImage;
+    background-size: 200px 200px;
+    opacity: $grainOpacity;
+    mix-blend-mode: overlay;
+  }
+}
+
+// Underline divider directly below the header text ("Explorer" / "Table of Contents")
+.explorer button.desktop-explorer,
+.toc .toc-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 50%, transparent);
+  padding: 0 0 0.45rem 0;
+  margin: 0 0 0.5rem 0;
+  cursor: pointer;
+  background: transparent;
+
+  &:focus,
+  &:focus-visible {
+    outline: none;
+  }
+}
+
+.explorer-content {
+  margin-top: 0.2rem;
+}
+
+// Mobile toggle must stay hidden on desktop, or the explorer auto-collapses
+.explorer button.mobile-explorer {
+  display: none;
+  @media all and ($mobile) {
+    display: flex;
+    width: auto;
+  }
 }

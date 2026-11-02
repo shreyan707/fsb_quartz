@@ -16,8 +16,8 @@ configuration:
     fontOrigin: local
     cdnCaching: true
     typography:
-      header: Broadsheet
-      body: SF Pro Display
+      header: Playfair Display
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:

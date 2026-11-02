@@ -1,0 +1,61 @@
+---
+title: "A band of Outsiders"
+original_title: "Bande à part"
+release_year: 1964
+director: "Jean-Luc Godard"
+language: "French"
+country: "France"
+runtime: "97 min"
+genre:
+  - "Crime"
+  - "Drama"
+  - "Comedy"
+source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
+scraped_at: "2026-11-02"
+tags:
+  - "crime"
+  - "drama"
+  - "comedy"
+  - "jean-luc-godard"
+  - "1964"
+---
+
+# A band of Outsiders (1964)
+
+## Movie Information
+
+| Field | Details |
+|---|---|
+| Title | A band of Outsiders |
+| Original Title | Bande à part |
+| Release Year | 1964 |
+| Director | Jean-Luc Godard |
+| Language | French |
+| Country | France |
+| Runtime | 97 min |
+| Genre | Crime, Drama, Comedy |
+
+## Description
+
+The second film of the evening is “A band of Outsiders” made in the year 1964, directed by French filmmaker Jean Luc Godard. Four years after Breathless, Jean-Luc Godard reimagined the gangster film even more radically with Band of Outsiders (Bande à part). In it, two restless young men (Sami Frey and Claude Brasseur) enlist the object of both of their fancies (Anna Karina) to help them commit a robbery—in her own home. This audacious and wildly entertaining French New Wave gem is at once sentimental and insouciant, effervescently romantic and melancholy, and it features some of Godard’s most memorable set pieces, including the headlong race through the Louvre and the unshakably cool Madison dance sequence. Screening followed by Interview/Video Essays: i) Archival Interview with director Jean-Luc Godard (6 mins) ii) Visual Glossary of references and quotations in the film (18 mins)
+
+## Additional Information
+
+**Cast:**
+- Anna Karina
+- Claude Brasseur
+- Sami Frey
+
+**Production Company:** Orsay Films
+
+**IMDb Rating:** 7.5
+
+## Source Information
+
+- **Source:** Film Society Bhubaneswar
+- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
+- **Date Scraped:** 2026-11-02
+
+## Tags
+
+#Crime #Drama #Comedy #Jean-Luc-Godard #1964
