@@ -193,7 +193,13 @@ body {
 }
 
 $serifFont: "Broadsheet", Georgia, serif;
-$sansFont: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+$sansFont:
+  "SF Pro Display",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  system-ui,
+  sans-serif;
 
 :root {
   --headerFont: #{$serifFont};
@@ -398,7 +404,9 @@ ul.tags a,
     object-fit: contain;
     flex-shrink: 0;
     display: block;
-    transition: opacity 0.2s ease, filter 0.2s ease;
+    transition:
+      opacity 0.2s ease,
+      filter 0.2s ease;
 
     &:hover {
       opacity: 0.8;
@@ -428,6 +436,27 @@ ul.tags a,
 
 :root:not([saved-theme="dark"]) .page-title-logo {
   visibility: hidden;
+}
+
+// The stock page-title plugin only renders a text link (the <img> used to be a
+// local node_modules patch, which CI doesn't have). Draw the logo as the link's
+// background instead; light mode overrides background-image above.
+.page-title a {
+  display: block;
+  width: 156px;
+  height: 46px;
+  max-width: 100%;
+  font-size: 0 !important;
+  color: transparent;
+  background-image: url("static/fsb_logo.avif");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left center;
+
+  @media all and ($mobile) {
+    width: 129px;
+    height: 38px;
+  }
 }
 
 // Collapsed explorer / table of contents: size to the header, don't clip it
@@ -639,5 +668,75 @@ ul.tags a,
 
   @media (max-width: 600px) {
     flex-direction: column;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Mobile explorer: floating menu button (bottom right) + full-screen drawer.
+// The stock drawer was absolutely positioned inside the top bar and rendered
+// empty; fixed positioning with a solid background keeps it reliable.
+// ---------------------------------------------------------------------------
+@media all and ($mobile) {
+  .explorer button.desktop-explorer {
+    display: none !important;
+  }
+
+  .explorer button.mobile-explorer {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 1rem;
+    bottom: 1.25rem;
+    z-index: 1001;
+    width: 3.25rem;
+    height: 3.25rem;
+    padding: 0;
+    border-radius: 50%;
+    background: var(--secondary);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.45);
+
+    & svg,
+    & .lucide-menu {
+      stroke: var(--light);
+    }
+  }
+
+  .explorer .explorer-content {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    box-sizing: border-box;
+    width: 100vw;
+    max-width: 100vw;
+    height: 100dvh;
+    max-height: 100dvh;
+    margin: 0;
+    padding: 1.5rem 1.25rem 6rem;
+    overflow-y: auto;
+    background: var(--light);
+    transition:
+      transform 0.2s,
+      visibility 0.2s;
+
+    & a,
+    & .folder-title,
+    & .file-title {
+      display: inline-block;
+      padding: 0.35rem 0;
+      font-size: 1.1rem;
+    }
+  }
+
+  .explorer.collapsed .explorer-content {
+    display: block;
+    visibility: hidden;
+    transform: translateX(-100vw);
+  }
+
+  .explorer:not(.collapsed) .explorer-content {
+    display: block;
+    visibility: visible;
+    transform: none;
   }
 }
