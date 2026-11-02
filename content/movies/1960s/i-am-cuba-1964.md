@@ -8,12 +8,6 @@ country: "Cuba, Soviet Union"
 runtime: "141 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "mikhail-kalatozov"
-  - "1964"
 ---
 
 # I am Cuba (1964)
@@ -45,12 +39,6 @@ The first film to be screened is I am Cuba directed by Soviet director Mikhail K
 **Production Company:** ICAIC
 
 **IMDb Rating:** 7.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

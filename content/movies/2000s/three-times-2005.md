@@ -9,13 +9,6 @@ runtime: "130 min"
 genre:
   - "Romance"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "romance"
-  - "drama"
-  - "hou-hsiao-hsien"
-  - "2005"
 ---
 
 # Three Times (2005)
@@ -47,12 +40,6 @@ tags:
 **Production Company:** Sino Movie
 
 **IMDb Rating:** 6.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

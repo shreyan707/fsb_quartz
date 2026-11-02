@@ -8,12 +8,6 @@ country: "Chile, France, Germany"
 runtime: "93 min"
 genre:
   - "Documentary"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "patricio-guzman"
-  - "2010"
 ---
 
 # Nostalgia for the Light (2010)
@@ -45,12 +39,6 @@ The Atacama Desert is one of the driest places in the world, it’s a high-altit
 **Production Company:** Blinker Filmproduktion
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

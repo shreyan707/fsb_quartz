@@ -9,13 +9,6 @@ runtime: "102 min"
 genre:
   - "Drama"
   - "Comedy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "comedy"
-  - "lasse-hallstrom"
-  - "1985"
 ---
 
 # My Life as a Dog (1985)
@@ -47,12 +40,6 @@ The first film of the evening is “My Life as a Dog” (Mitt liv som hund), mad
 **Production Company:** SF Studios
 
 **IMDb Rating:** 7.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

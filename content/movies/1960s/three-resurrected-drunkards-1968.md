@@ -9,13 +9,6 @@ runtime: "80 min"
 genre:
   - "Drama"
   - "Comedy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "comedy"
-  - "nagisa-oshima"
-  - "1968"
 ---
 
 # Three Resurrected Drunkards (1968)
@@ -47,12 +40,6 @@ The first screening of the evening is Three Resurrected Drunkards by Nagisa Oshi
 **Production Company:** Sozosha
 
 **IMDb Rating:** 5.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -10,14 +10,6 @@ genre:
   - "Romance"
   - "Drama"
   - "War"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "romance"
-  - "drama"
-  - "war"
-  - "luchino-visconti"
-  - "1954"
 ---
 
 # Senso (1954)
@@ -49,12 +41,6 @@ The story of a nineteenth-century Italian countess, during the Austrian occupati
 **Production Company:** Lux Film
 
 **IMDb Rating:** 7.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

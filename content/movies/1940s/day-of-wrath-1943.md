@@ -9,13 +9,6 @@ runtime: "97 min"
 genre:
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "history"
-  - "carl-t-dreyer"
-  - "1943"
 ---
 
 # Day of Wrath (1943)
@@ -47,12 +40,6 @@ The first film of the evening will be Day of Wrath, made in the year 1943, by Ca
 **Production Company:** Palladium
 
 **IMDb Rating:** 8.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

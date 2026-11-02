@@ -9,13 +9,6 @@ runtime: "96 min"
 genre:
   - "Drama"
   - "War"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "war"
-  - "abderrahmane-sissako"
-  - "2014"
 ---
 
 # Timbuktu (2014)
@@ -47,12 +40,6 @@ In the acclaimed new film by Abderrahmane Sissako (Bamako) the people of the Mal
 **Production Company:** Les films du Worso
 
 **IMDb Rating:** 7.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -8,12 +8,6 @@ country: "Senegal, France"
 runtime: "117 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "ousmane-sembene"
-  - "1977"
 ---
 
 # Ceddo (1977)
@@ -45,12 +39,6 @@ In precolonial Senegal, members of the Ceddo (or “outsiders”) kidnap Princes
 **Production Company:** Filmi Domirev
 
 **IMDb Rating:** 6.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

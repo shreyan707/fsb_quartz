@@ -8,12 +8,6 @@ country: "South Korea"
 runtime: "139 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "lee-chang-dong"
-  - "2010"
 ---
 
 # Poetry (2010)
@@ -45,12 +39,6 @@ The first screening of the evening is the South Korean film Poetry (2010) by Lee
 **Production Company:** UniKorea Pictures
 
 **IMDb Rating:** 7.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

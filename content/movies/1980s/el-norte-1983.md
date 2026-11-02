@@ -9,13 +9,6 @@ runtime: "141 min"
 genre:
   - "Adventure"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "adventure"
-  - "drama"
-  - "gregory-nava-kiche"
-  - "1983"
 ---
 
 # El Norte (1983)
@@ -47,12 +40,6 @@ Brother and sister Enrique and Rosa flee persecution at home in Guatemala and jo
 **Production Company:** Independent Productions
 
 **IMDb Rating:** 7.1
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

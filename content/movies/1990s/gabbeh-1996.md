@@ -10,14 +10,6 @@ genre:
   - "Drama"
   - "Mystery"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "mystery"
-  - "romance"
-  - "mohsen-makhmalbaf"
-  - "1996"
 ---
 
 # Gabbeh (1996)
@@ -49,12 +41,6 @@ The first film of the evening is “Gabbeh” made in the year 1996, directed by
 **Production Company:** Sanaye Dasti
 
 **IMDb Rating:** 6.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -9,13 +9,6 @@ runtime: "91 min"
 genre:
   - "Comedy"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "comedy"
-  - "drama"
-  - "hou-hsiao-hsien"
-  - "1982"
 ---
 
 # The Green, Green Grass of Home (1982)
@@ -47,12 +40,6 @@ The second film of the evening is The Green, Green Grass of Home, directed by Ho
 **Production Company:** Tung Tai Film Company
 
 **IMDb Rating:** 6.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

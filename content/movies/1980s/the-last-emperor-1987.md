@@ -9,13 +9,6 @@ runtime: "163 min"
 genre:
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "history"
-  - "bernardo-bertolucci"
-  - "1987"
 ---
 
 # The Last Emperor (1987)
@@ -47,12 +40,6 @@ The first film of the evening will be The Last Emperor (1987) by the Italian dir
 **Production Company:** Soprofilms
 
 **IMDb Rating:** 7.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

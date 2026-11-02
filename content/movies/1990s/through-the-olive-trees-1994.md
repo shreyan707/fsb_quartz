@@ -8,12 +8,6 @@ country: "Iran, France"
 runtime: "104 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "abbas-kiarostami"
-  - "1994"
 ---
 
 # Through the Olive Trees (1994)
@@ -45,12 +39,6 @@ The second film of the evening will be Through the Olive Trees, made in the year
 **Production Company:** CiBy 2000
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

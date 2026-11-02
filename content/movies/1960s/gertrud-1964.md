@@ -9,13 +9,6 @@ runtime: "119 min"
 genre:
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "carl-t-dreyer"
-  - "1964"
 ---
 
 # Gertrud (1964)
@@ -47,12 +40,6 @@ Our retrospective of Carl Dreyer ends with his last film of his career, Gertrud.
 **Production Company:** Palladium
 
 **IMDb Rating:** 7.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

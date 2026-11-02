@@ -8,12 +8,6 @@ country: "Ethiopia, United States of America"
 runtime: "120 min"
 genre:
   - "Documentary"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "jessica-beshir"
-  - "2021"
 ---
 
 # Fayadayi (2021)
@@ -45,12 +39,6 @@ A debut feature of Ethiopian Filmmaker Jessica Beshir, set in rural Ethiopia, is
 **Production Company:** XTR
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

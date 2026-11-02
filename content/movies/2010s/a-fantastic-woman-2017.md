@@ -8,12 +8,6 @@ country: "Chile, Germany, Spain, United States of America"
 runtime: "104 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "sebastian-lelio"
-  - "2017"
 ---
 
 # A Fantastic Woman (2017)
@@ -45,12 +39,6 @@ The second film of the evening is A Fantastic Woman, directed by Sebastian Lelio
 **Production Company:** Komplizen Film
 
 **IMDb Rating:** 7.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

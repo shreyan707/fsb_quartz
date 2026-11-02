@@ -9,13 +9,6 @@ runtime: "114 min"
 genre:
   - "Drama"
   - "Fantasy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "fantasy"
-  - "apichatpong-weerasethakul"
-  - "2010"
 ---
 
 # Uncle Boonme (2010)
@@ -47,12 +40,6 @@ The first film of the evening is Uncle Boonme who can recall his past lives by t
 **Production Company:** Illuminations Films
 
 **IMDb Rating:** 6.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

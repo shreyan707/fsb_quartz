@@ -8,12 +8,6 @@ country: "Italy"
 runtime: "88 min"
 genre:
   - "Documentary"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "pier-paolo-pasolini"
-  - "1964"
 ---
 
 # Love Meetings (Comizi D'Amore) (1964)
@@ -45,12 +39,6 @@ The first screening of the evening belongs to our classics section and presents 
 **Production Company:** Arco Film
 
 **IMDb Rating:** 8.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

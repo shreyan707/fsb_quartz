@@ -8,12 +8,6 @@ country: "France"
 runtime: "81 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "robert-bresson"
-  - "1967"
 ---
 
 # Mouchette (1967)
@@ -45,12 +39,6 @@ Introducing a major film maker, Robert Bresson, a major figure in the history of
 **Production Company:** Argos films
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

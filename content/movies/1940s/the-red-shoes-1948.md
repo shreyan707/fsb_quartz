@@ -9,14 +9,6 @@ runtime: "133 min"
 genre:
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "michael-powell"
-  - "emeric-pressburger"
-  - "1948"
 ---
 
 # The Red Shoes (1948)
@@ -48,12 +40,6 @@ The second screening of the evening is a film by Powell & Pressburger, the life 
 **Production Company:** The Archers
 
 **IMDb Rating:** 8.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

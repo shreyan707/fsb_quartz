@@ -8,12 +8,6 @@ country: "France, Sweden"
 runtime: "96 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "robert-bresson"
-  - "1966"
 ---
 
 # Au Hasard Balthazar (1966)
@@ -45,12 +39,6 @@ A profound masterpiece from one of the most revered filmmakers in the history of
 **Production Company:** Argos films
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

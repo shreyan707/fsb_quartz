@@ -10,14 +10,6 @@ genre:
   - "Drama"
   - "Romance"
   - "Mystery"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "mystery"
-  - "juan-bustillo-oro"
-  - "1934"
 ---
 
 # Dos Monjes (Two Monks) (1934)
@@ -49,12 +41,6 @@ The first film to be screened is Dos Monjes (Two Monks) directed by Mexican dire
 **Production Company:** Proa Films
 
 **IMDb Rating:** 6.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

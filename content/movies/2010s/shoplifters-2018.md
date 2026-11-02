@@ -10,14 +10,6 @@ genre:
   - "Drama"
   - "Crime"
   - "Thriller"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "crime"
-  - "thriller"
-  - "hirokazu-koreeda"
-  - "2018"
 ---
 
 # Shoplifters (2018)
@@ -49,12 +41,6 @@ The second film of the evening is Shoplifters, directed by Hirokazu Koreeda, mad
 **Production Company:** Fuji Television Network
 
 **IMDb Rating:** 7.8
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

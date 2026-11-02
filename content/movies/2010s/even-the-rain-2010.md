@@ -9,13 +9,6 @@ runtime: "103 min"
 genre:
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "history"
-  - "iciar-bollain"
-  - "2010"
 ---
 
 # Even The Rain (2010)
@@ -47,12 +40,6 @@ The second film of the evening is by Iciar Bollain. The film is set in and aroun
 **Production Company:** Vaca Films
 
 **IMDb Rating:** 7.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

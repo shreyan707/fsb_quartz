@@ -8,12 +8,6 @@ country: "Spain, France"
 runtime: "94 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "victor-erice"
-  - "1983"
 ---
 
 # El Sur (1983)
@@ -45,12 +39,6 @@ In the North of Spain, Estrella grows up captivated by her father, a doctor with
 **Production Company:** Elías Querejeta PC
 
 **IMDb Rating:** 7.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -8,12 +8,6 @@ country: "Bosnia and Herzegovina, Bulgaria, France, Germany, Macedonia, Qatar, S
 runtime: "188 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "nuri-bilge-ceylan"
-  - "2018"
 ---
 
 # The Wild Pear Tree (2018)
@@ -45,12 +39,6 @@ The second screening is of the movie The Wild Pear Tree, directed by Turkish dir
 **Production Company:** Zeyno Film
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -9,13 +9,6 @@ runtime: "150 min"
 genre:
   - "History"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "history"
-  - "drama"
-  - "mike-leigh"
-  - "2014"
 ---
 
 # Mr. Turner (2014)
@@ -47,12 +40,6 @@ The second screening is of the movie Mr. Turner, directed by UK-based director M
 **Production Company:** Film4 Productions
 
 **IMDb Rating:** 6.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

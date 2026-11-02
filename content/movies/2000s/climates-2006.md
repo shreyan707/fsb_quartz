@@ -8,12 +8,6 @@ country: "France, Turkey, Netherlands"
 runtime: "98 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "nuri-bilge-ceylan"
-  - "2006"
 ---
 
 # Climates (2006)
@@ -45,12 +39,6 @@ The first film of the evening is “Climates” made in the year 2006, directed 
 **Production Company:** Pyramide Films
 
 **IMDb Rating:** 6.8
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

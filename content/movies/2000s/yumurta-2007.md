@@ -8,12 +8,6 @@ country: "Turkey, Greece"
 runtime: "97 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "semih-kaplanoglu"
-  - "2007"
 ---
 
 # Yumurta (2007)
@@ -45,12 +39,6 @@ Writer/Director Semih Kaplanoglu is one of the leading figures in contemporary T
 **Production Company:** PPV Athens
 
 **IMDb Rating:** 5.8
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

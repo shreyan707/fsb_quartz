@@ -8,12 +8,6 @@ country: "Japan"
 runtime: "111 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "masaki-kobayashi"
-  - "1956"
 ---
 
 # I Will Buy You (1956)
@@ -45,12 +39,6 @@ The first film of the evening, I Will Buy You, made in 1956, examines the corrup
 **Production Company:** Shochiku
 
 **IMDb Rating:** 7.1
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

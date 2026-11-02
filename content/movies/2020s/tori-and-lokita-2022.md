@@ -8,13 +8,6 @@ country: "Belgium, France"
 runtime: "88 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "jean-pierre"
-  - "luc-dardenne"
-  - "2022"
 ---
 
 # Tori and Lokita (2022)
@@ -46,12 +39,6 @@ The Dardenne brothers bring the story of seventeen-year-old Lokita and twelve-ye
 **Production Company:** Les Films du Fleuve
 
 **IMDb Rating:** 6.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

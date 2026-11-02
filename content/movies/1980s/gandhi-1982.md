@@ -9,13 +9,6 @@ runtime: "192 min"
 genre:
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "history"
-  - "richard-attenborough"
-  - "1982"
 ---
 
 # Gandhi (1982)
@@ -47,12 +40,6 @@ The first film of the evening will be Gandhi, made in the year 1982, by Richard 
 **Production Company:** Goldcrest Films International
 
 **IMDb Rating:** 7.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -9,13 +9,6 @@ runtime: "100 min"
 genre:
   - "Drama"
   - "Music"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "music"
-  - "satyajit-ray"
-  - "1958"
 ---
 
 # Jalsaghar (1958)
@@ -47,12 +40,6 @@ The second film, Jalsaghar directed by Satyajit Ray, is based on a short story â
 **Production Company:** Arora
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

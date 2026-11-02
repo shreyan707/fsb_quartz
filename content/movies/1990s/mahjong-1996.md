@@ -10,14 +10,6 @@ genre:
   - "Comedy"
   - "Drama"
   - "Crime"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "comedy"
-  - "drama"
-  - "crime"
-  - "edward-yang"
-  - "1996"
 ---
 
 # Mahjong (1996)
@@ -49,12 +41,6 @@ Edward Yang’s follow-up to A Confucian Confusion is another dizzying comedy se
 **Production Company:** Atom Films
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

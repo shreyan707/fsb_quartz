@@ -8,12 +8,6 @@ country: "Denmark"
 runtime: "125 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "carl-t-dreyer"
-  - "1955"
 ---
 
 # Ordet (1955)
@@ -45,12 +39,6 @@ The first film of the evening is “Ordet” made in the year 1955, directed by 
 **Production Company:** Palladium
 
 **IMDb Rating:** 7.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

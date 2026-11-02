@@ -8,12 +8,6 @@ country: "United States of America"
 runtime: "120 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "spike-lee"
-  - "1989"
 ---
 
 # Do the Right Thing (1989)
@@ -45,12 +39,6 @@ The film is set in the hottest day of summer, when racial tensions reach a boili
 **Production Company:** Universal Pictures
 
 **IMDb Rating:** 7.8
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

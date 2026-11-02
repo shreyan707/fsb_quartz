@@ -8,12 +8,6 @@ country: "Germany"
 runtime: "82 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "wener-herzog"
-  - "1979"
 ---
 
 # Woyczek (1979)
@@ -45,12 +39,6 @@ The first film of the evening will be Woyczek, made in the year 1979, directed b
 **Production Company:** Werner Herzog Filmproduktion
 
 **IMDb Rating:** 6.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -10,14 +10,6 @@ genre:
   - "Drama"
   - "Romance"
   - "Crime"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "crime"
-  - "luchino-visconti"
-  - "1960"
 ---
 
 # Rocco and his Brothers (1960)
@@ -49,12 +41,6 @@ The first film of the evening is from Italy. A tight-knit family moves from Ital
 **Production Company:** Titanus
 
 **IMDb Rating:** 8.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

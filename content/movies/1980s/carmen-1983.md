@@ -11,15 +11,6 @@ genre:
   - "Drama"
   - "Comedy"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "crime"
-  - "drama"
-  - "comedy"
-  - "romance"
-  - "carlos-saura"
-  - "1983"
 ---
 
 # Carmen (1983)
@@ -51,12 +42,6 @@ The second film of the evening will be Carmen directed by Carlos Saura. Spanish 
 **Production Company:** Sara Films
 
 **IMDb Rating:** 6.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -8,12 +8,6 @@ country: "Germany, France, Italy"
 runtime: "93 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "michelangelo-frammartino"
-  - "2021"
 ---
 
 # il buco (2021)
@@ -45,12 +39,6 @@ The second film of the evening is il buco, directed by Michelangelo Frammartino,
 **Production Company:** Doppio Nodo Double Bind
 
 **IMDb Rating:** 6.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

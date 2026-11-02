@@ -10,14 +10,6 @@ genre:
   - "Fantasy"
   - "Drama"
   - "Mystery"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "fantasy"
-  - "drama"
-  - "mystery"
-  - "kenji-mizoguchi"
-  - "1953"
 ---
 
 # Ugetsu (1953)
@@ -49,12 +41,6 @@ The second film of the evening is Ugetsu by Japanese director Kenji Mizoguchi. M
 **Production Company:** Daiei Film
 
 **IMDb Rating:** 8.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

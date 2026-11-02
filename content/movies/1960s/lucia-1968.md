@@ -8,12 +8,6 @@ country: "Cuba"
 runtime: "161 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "humberto-solas"
-  - "1968"
 ---
 
 # Lucia (1968)
@@ -45,12 +39,6 @@ tags:
 **Production Company:** ICAIC
 
 **IMDb Rating:** 6.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

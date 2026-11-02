@@ -10,14 +10,6 @@ genre:
   - "Crime"
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "crime"
-  - "drama"
-  - "history"
-  - "francesco-rosi"
-  - "1962"
 ---
 
 # Salvatore Giuliano (1962)
@@ -49,12 +41,6 @@ A bullet-riddled corpse is found facedown in a courtyard in Castelvetrano, a han
 **Production Company:** Vides Cinematografica
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -9,13 +9,6 @@ runtime: "74 min"
 genre:
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "aki-kaurismaki"
-  - "1986"
 ---
 
 # Shadows in Paradise (1986)
@@ -47,12 +40,6 @@ The first film of the evening will be Shadows in Paradise, made in the year 1986
 **Production Company:** Villealfa Filmproductions
 
 **IMDb Rating:** 7.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

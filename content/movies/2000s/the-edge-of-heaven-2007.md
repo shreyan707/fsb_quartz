@@ -8,12 +8,6 @@ country: "Germany, Turkey"
 runtime: "122 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "fatih-akin"
-  - "2007"
 ---
 
 # The Edge of Heaven (2007)
@@ -45,12 +39,6 @@ The second film of the evening “The Edge of Heaven” is from the year 2007, d
 **Production Company:** Filmstiftung Nordrhein-Westfalen
 
 **IMDb Rating:** 7.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

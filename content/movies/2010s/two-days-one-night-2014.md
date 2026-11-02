@@ -8,13 +8,6 @@ country: "Belgium, France, Italy"
 runtime: "95 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "jean-pierre-dardenne"
-  - "luc-dardenne"
-  - "2014"
 ---
 
 # Two Days, One Night (2014)
@@ -46,12 +39,6 @@ Oscar winner Marion Cotillard received another nomination for her searing, deepl
 **Production Company:** Les Films du Fleuve
 
 **IMDb Rating:** 6.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -9,13 +9,6 @@ runtime: "127 min"
 genre:
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "jia-zhang-ke"
-  - "2015"
 ---
 
 # Mountains May Depart (2015)
@@ -47,12 +40,6 @@ The second film of the evening will be Mountains May Depart, made in the year 20
 **Production Company:** Shanghai Film Group
 
 **IMDb Rating:** 7.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

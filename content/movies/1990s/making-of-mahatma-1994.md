@@ -8,12 +8,6 @@ country: "South Africa, India"
 runtime: "144 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "shyam-benegal"
-  - "1994"
 ---
 
 # Making of Mahatma (1994)
@@ -45,12 +39,6 @@ The second film of the evening will be The Making of the Mahatma, made in the ye
 **Production Company:** National Film Development Corporation of India
 
 **IMDb Rating:** 6.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

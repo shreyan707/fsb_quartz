@@ -8,13 +8,6 @@ country: "United Kingdom"
 runtime: "100 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "michael-powell"
-  - "emeric-pressburger"
-  - "1947"
 ---
 
 # Black Narcissus (1947)
@@ -46,12 +39,6 @@ Based on Rumer Godden’s 1939 novel, Black Narcissus tells the story of five An
 **Production Company:** The Archers
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

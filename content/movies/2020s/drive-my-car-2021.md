@@ -8,12 +8,6 @@ country: "Japan"
 runtime: "179 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "ryusuke-hamaguchi"
-  - "2021"
 ---
 
 # Drive My Car (2021)
@@ -45,12 +39,6 @@ The second film of the evening is Drive my Car, directed by Ryusuke Hamaguchi, m
 **Production Company:** Bitters End
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -9,13 +9,6 @@ runtime: "80 min"
 genre:
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "history"
-  - "sergei-parajanov"
-  - "1969"
 ---
 
 # The Colour of Pomegranates (1969)
@@ -47,12 +40,6 @@ The first movie to be screened is The Colour of Pomegranates, directed by Russia
 **Production Company:** Armenia Studio
 
 **IMDb Rating:** 7.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

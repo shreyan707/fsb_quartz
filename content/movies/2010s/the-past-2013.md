@@ -9,13 +9,6 @@ runtime: "130 min"
 genre:
   - "Drama"
   - "Mystery"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "mystery"
-  - "asghar-farhadi"
-  - "2013"
 ---
 
 # The Past (2013)
@@ -47,12 +40,6 @@ The Past is directed by one of the major contemporary Iranian director Asghar Fa
 **Production Company:** Memento Production
 
 **IMDb Rating:** 7.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

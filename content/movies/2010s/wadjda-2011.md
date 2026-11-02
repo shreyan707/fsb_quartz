@@ -8,12 +8,6 @@ country: "Germany, Saudi Arabia"
 runtime: "98 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "haifaa-al-mansour"
-  - "2011"
 ---
 
 # Wadjda (2011)
@@ -45,12 +39,6 @@ The second film is Wadjda, directed by Haifaa Al- Mansour. Young Wadjda dreams o
 **Production Company:** Razor Film Produktion
 
 **IMDb Rating:** 7.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -8,12 +8,6 @@ country: "France, Italy"
 runtime: "142 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "paolo-sorrentino"
-  - "2013"
 ---
 
 # The Great Beauty (La Grande Bellezza) (2013)
@@ -45,12 +39,6 @@ tags:
 **Production Company:** France 2 Cinéma
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

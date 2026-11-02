@@ -8,12 +8,6 @@ country: "Iran"
 runtime: "78 min"
 genre:
   - "Documentary"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "abbas-kiarostami"
-  - "1989"
 ---
 
 # Homework (1989)
@@ -45,12 +39,6 @@ The first film of the evening will be Homework, made in the year 1989 by Iranian
 **Production Company:** Kanoon
 
 **IMDb Rating:** 7.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

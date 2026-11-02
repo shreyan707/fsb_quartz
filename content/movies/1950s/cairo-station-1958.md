@@ -10,14 +10,6 @@ genre:
   - "Crime"
   - "Drama"
   - "Thriller"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "crime"
-  - "drama"
-  - "thriller"
-  - "youssef-chahine"
-  - "1958"
 ---
 
 # Cairo Station (1958)
@@ -49,12 +41,6 @@ Youssef Chahine established his international reputation with this masterpiece, 
 **Production Company:** ستديو الأهرام (ستديوهات الأهرام)
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

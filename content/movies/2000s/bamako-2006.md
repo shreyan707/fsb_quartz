@@ -8,12 +8,6 @@ country: "France, Mali, United States of America"
 runtime: "115 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "abderrahmane-sissako"
-  - "2006"
 ---
 
 # Bamako (2006)
@@ -45,12 +39,6 @@ The first film of the evening is Bamako directed by Abderrahmane Sissako, releas
 **Production Company:** Archipel 33>35
 
 **IMDb Rating:** 7.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

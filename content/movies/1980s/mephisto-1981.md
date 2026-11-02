@@ -8,12 +8,6 @@ country: "Germany, Hungary"
 runtime: "145 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "istvan-szabo"
-  - "1981"
 ---
 
 # Mephisto (1981)
@@ -45,12 +39,6 @@ The first film of the evening will be Mephisto, made in the year 1981, by Istvan
 **Production Company:** Mafilm
 
 **IMDb Rating:** 7.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -8,12 +8,6 @@ country: "Finland, Sweden"
 runtime: "69 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "aki-kaurismaki"
-  - "1990"
 ---
 
 # The Match Factory Girl (1990)
@@ -45,12 +39,6 @@ The first film of the evening will be The Match Factory Girl, made in the year 1
 **Production Company:** Villealfa Filmproductions
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

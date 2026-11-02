@@ -9,13 +9,6 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "wong-kar-wai"
-  - "2000"
 ---
 
 # In the Mood for Love (2000)
@@ -47,12 +40,6 @@ The breakthrough sophomore feature by Wong Kar Wai represents the first full flo
 **Production Company:** Block 2 Pictures
 
 **IMDb Rating:** 8.1
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

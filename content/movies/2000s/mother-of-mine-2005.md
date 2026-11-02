@@ -9,13 +9,6 @@ runtime: "111 min"
 genre:
   - "Drama"
   - "War"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "war"
-  - "klaus-haro"
-  - "2005"
 ---
 
 # Mother of Mine (2005)
@@ -47,12 +40,6 @@ The second film of the evening is “Mother of Mine” (Äideistä parhain), mad
 **Production Company:** Film i Skåne
 
 **IMDb Rating:** 6.8
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

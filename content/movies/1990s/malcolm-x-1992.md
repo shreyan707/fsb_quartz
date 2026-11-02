@@ -9,13 +9,6 @@ runtime: "202 min"
 genre:
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "history"
-  - "spike-lee"
-  - "1992"
 ---
 
 # Malcolm X (1992)
@@ -47,12 +40,6 @@ One of the major public figures of the 20th Century - Malcolm X- is brought to t
 **Production Company:** Warner Bros. Pictures
 
 **IMDb Rating:** 7.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

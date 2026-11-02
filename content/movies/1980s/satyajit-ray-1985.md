@@ -8,12 +8,6 @@ country: "India"
 runtime: "131 min"
 genre:
   - "Documentary"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "shyam-benegal"
-  - "1985"
 ---
 
 # Satyajit Ray (1985)
@@ -45,12 +39,6 @@ The first film is a feature documentary by Shyam Benegal that chronicles Ray’s
 **Production Company:** Aurora Film Corporation Private Limited
 
 **IMDb Rating:** 6.8
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

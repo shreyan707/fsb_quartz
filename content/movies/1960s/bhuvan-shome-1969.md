@@ -8,12 +8,6 @@ country: "India"
 runtime: "96 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "mrinal-sen"
-  - "1969"
 ---
 
 # Bhuvan Shome (1969)
@@ -45,12 +39,6 @@ The second film of the evening will be Bhuvan Shome, made in the year 1969 by Mr
 **Production Company:** Mrinal Sen Productions
 
 **IMDb Rating:** 6.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

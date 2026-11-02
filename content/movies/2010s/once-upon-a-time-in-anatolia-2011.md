@@ -9,13 +9,6 @@ runtime: "163 min"
 genre:
   - "Drama"
   - "Crime"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "crime"
-  - "nuri-bilge-ceylan"
-  - "2011"
 ---
 
 # Once Upon A Time In Anatolia (2011)
@@ -47,12 +40,6 @@ The second film of the evening is “Once Upon A Time In Anatolia” made in the
 **Production Company:** 1000 Volt
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

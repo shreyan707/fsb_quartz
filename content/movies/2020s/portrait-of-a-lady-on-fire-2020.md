@@ -9,13 +9,6 @@ runtime: "121 min"
 genre:
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "celine-sciamma"
-  - "2020"
 ---
 
 # Portrait of a Lady on Fire (2020)
@@ -47,12 +40,6 @@ The second film of the evening is Portrait of a Lady on Fire, directed by Celine
 **Production Company:** Lilies Films
 
 **IMDb Rating:** 8.1
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

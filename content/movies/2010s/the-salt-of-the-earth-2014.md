@@ -8,13 +8,6 @@ country: "Italy, France, Brazil"
 runtime: "110 min"
 genre:
   - "Documentary"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "wim-wenders"
-  - "julian-r-salgado"
-  - "2014"
 ---
 
 # The Salt of the Earth (2014)
@@ -46,12 +39,6 @@ The first film of the evening, The Salt of the Earth, directed by Wim Wenders & 
 **Production Company:** Secretaria de Estado de Cultura do Espírito Santo
 
 **IMDb Rating:** 8.1
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

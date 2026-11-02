@@ -8,12 +8,6 @@ country: "Turkey, France, Germany"
 runtime: "97 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "deniz-gamze-erguven"
-  - "2015"
 ---
 
 # Mustang (2015)
@@ -45,12 +39,6 @@ The first film of the evening is “Mustang” made in the year 2015, directed b
 **Production Company:** CG Cinéma
 
 **IMDb Rating:** 7.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

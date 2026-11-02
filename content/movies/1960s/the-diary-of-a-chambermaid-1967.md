@@ -10,14 +10,6 @@ genre:
   - "Drama"
   - "Romance"
   - "Comedy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "comedy"
-  - "luis-bunuel"
-  - "1967"
 ---
 
 # The Diary of a Chambermaid (1967)
@@ -49,12 +41,6 @@ The second film of the evening will be The Diary of a Chambermaid, made in the y
 **Production Company:** Benedict Bogeaus Production
 
 **IMDb Rating:** 6.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

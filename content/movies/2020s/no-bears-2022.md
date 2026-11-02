@@ -9,13 +9,6 @@ runtime: "107 min"
 genre:
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "jafar-panahi"
-  - "2022"
 ---
 
 # No Bears (2022)
@@ -47,12 +40,6 @@ The second film of the evening brings to you, One of the world’s great cinema 
 **Production Company:** Jafar Panahi Productions
 
 **IMDb Rating:** 6.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

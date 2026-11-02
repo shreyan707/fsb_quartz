@@ -10,14 +10,6 @@ genre:
   - "Drama"
   - "Romance"
   - "Crime"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "crime"
-  - "aki-kaurismaki"
-  - "1988"
 ---
 
 # Ariel (1988)
@@ -49,12 +41,6 @@ The first film of the evening will be Ariel, made in the year 1988 by Aki Kauris
 **Production Company:** Villealfa Filmproductions
 
 **IMDb Rating:** 7.1
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

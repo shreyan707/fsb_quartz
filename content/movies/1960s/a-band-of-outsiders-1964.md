@@ -10,14 +10,6 @@ genre:
   - "Crime"
   - "Drama"
   - "Comedy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "crime"
-  - "drama"
-  - "comedy"
-  - "jean-luc-godard"
-  - "1964"
 ---
 
 # A band of Outsiders (1964)
@@ -49,12 +41,6 @@ The second film of the evening is “A band of Outsiders” made in the year 196
 **Production Company:** Orsay Films
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

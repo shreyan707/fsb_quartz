@@ -10,14 +10,6 @@ genre:
   - "Horror"
   - "Fantasy"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "horror"
-  - "fantasy"
-  - "drama"
-  - "masaki-kobayashi"
-  - "1965"
 ---
 
 # Kwaidan (1965)
@@ -49,12 +41,6 @@ The second film of the evening is Kwaidan, by Masaki Kobayashi, will be screened
 **Production Company:** Ninjin Club
 
 **IMDb Rating:** 7.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

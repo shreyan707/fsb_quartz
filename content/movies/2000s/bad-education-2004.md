@@ -9,13 +9,6 @@ runtime: "105 min"
 genre:
   - "Drama"
   - "Crime"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "crime"
-  - "pedro-almodovar"
-  - "2004"
 ---
 
 # Bad Education (2004)
@@ -47,12 +40,6 @@ The second film of the evening is “Bad Education” made in the year 2004, dir
 **Production Company:** El Deseo
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

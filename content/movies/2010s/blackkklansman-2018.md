@@ -10,14 +10,6 @@ genre:
   - "Crime"
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "crime"
-  - "drama"
-  - "history"
-  - "spike-lee"
-  - "2018"
 ---
 
 # BlacKkKlansman (2018)
@@ -49,12 +41,6 @@ Spike Lee’s "BlacKkKlansman" (2018) is set in the early 1970s, when Ron Stallw
 **Production Company:** Legendary Pictures
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

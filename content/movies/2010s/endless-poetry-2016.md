@@ -9,14 +9,6 @@ runtime: "128 min"
 genre:
   - "Fantasy"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "fantasy"
-  - "drama"
-  - "alej"
-  - "ro-jodorowsky"
-  - "2016"
 ---
 
 # Endless Poetry (2016)
@@ -48,12 +40,6 @@ The second film of the evening is Endless Poetry by Chilean director Alejandro J
 **Production Company:** Openvizor
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

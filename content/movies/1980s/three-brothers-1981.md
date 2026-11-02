@@ -8,12 +8,6 @@ country: "France, Italy"
 runtime: "113 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "francesco-rosi"
-  - "1981"
 ---
 
 # Three Brothers (1981)
@@ -45,12 +39,6 @@ Three Brothers (Tre Fratelli) explores complex social and political issues throu
 **Production Company:** Gaumont
 
 **IMDb Rating:** 6.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

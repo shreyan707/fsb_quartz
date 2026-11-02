@@ -8,12 +8,6 @@ country: "Taiwan"
 runtime: "98 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "hou-hsiao-hsien"
-  - "1983"
 ---
 
 # The Boys from Fengkuei (1983)
@@ -45,12 +39,6 @@ The second film of the evening is The Boys from Fengkuei, directed by Hou Hsiao-
 **Production Company:** Evergreen Film Company
 
 **IMDb Rating:** 7.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -10,14 +10,6 @@ genre:
   - "Comedy"
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "comedy"
-  - "drama"
-  - "romance"
-  - "claire-denis"
-  - "2017"
 ---
 
 # Let the Sunshine In (2017)
@@ -49,12 +41,6 @@ The second screening is of the movie Let the Sunshine In, directed by French dir
 **Production Company:** Ad Vitam Production
 
 **IMDb Rating:** 5.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

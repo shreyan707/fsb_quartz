@@ -9,13 +9,6 @@ runtime: "108 min"
 genre:
   - "Drama"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "history"
-  - "radu-jude"
-  - "2015"
 ---
 
 # Aferim (2015)
@@ -47,12 +40,6 @@ The first film of the evening is“Aferim” made in the year 2015, directed by 
 **Production Company:** Hi Film Productions
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

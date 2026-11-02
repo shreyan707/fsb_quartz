@@ -8,12 +8,6 @@ country: "Italy, France"
 runtime: "137 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "pier-paolo-pasolini"
-  - "1964"
 ---
 
 # The Gospel According To Matthew (1964)
@@ -45,12 +39,6 @@ The Gospel According to Matthew (1964) is directed by one the great filmmakers i
 **Production Company:** Arco Film
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

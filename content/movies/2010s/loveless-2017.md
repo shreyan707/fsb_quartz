@@ -8,12 +8,6 @@ country: "Belgium, France, Germany, Russia"
 runtime: "122 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "andrey-zvyagintsev"
-  - "2017"
 ---
 
 # Loveless (2017)
@@ -45,12 +39,6 @@ Zhenya and Boris are going through a vicious divorce marked by resentment, frust
 **Production Company:** ARTE France Cinéma
 
 **IMDb Rating:** 7.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

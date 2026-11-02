@@ -9,13 +9,6 @@ runtime: "112 min"
 genre:
   - "Crime"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "crime"
-  - "drama"
-  - "kim-ki-young"
-  - "1960"
 ---
 
 # The Housemaid (1960)
@@ -47,12 +40,6 @@ The first film to be screened is The Housemaid directed by Kim Ki Young. Middle-
 **Production Company:** Kim Ki-young Production
 
 **IMDb Rating:** 7.1
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

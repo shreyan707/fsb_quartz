@@ -9,13 +9,6 @@ runtime: "139 min"
 genre:
   - "Drama"
   - "War"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "war"
-  - "jiang-wen"
-  - "2000"
 ---
 
 # Devils on the Doorstep (2000)
@@ -47,12 +40,6 @@ The second film of the evening will be Devils on the Doorstep by Jiang Wen relea
 **Production Company:** Huayi Brothers Advertising
 
 **IMDb Rating:** 8.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

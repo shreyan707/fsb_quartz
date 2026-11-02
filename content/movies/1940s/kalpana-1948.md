@@ -9,13 +9,6 @@ runtime: "154 min"
 genre:
   - "Music"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "music"
-  - "drama"
-  - "uday-shankar"
-  - "1948"
 ---
 
 # Kalpana (1948)
@@ -47,12 +40,6 @@ The first screening of the evening is Kalpana directed by Uday Shankar, released
 **Production Company:** Gemini Studios
 
 **IMDb Rating:** 6.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

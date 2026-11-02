@@ -9,13 +9,6 @@ runtime: "131 min"
 genre:
   - "Crime"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "crime"
-  - "drama"
-  - "jia-zhang-ke"
-  - "2013"
 ---
 
 # A Touch of Sin (2013)
@@ -47,12 +40,6 @@ Lee Chang-Dong directed his first film in his forties, born in 1954, he was a su
 **Production Company:** Office Kitano
 
 **IMDb Rating:** 7.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

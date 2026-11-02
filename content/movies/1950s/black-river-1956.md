@@ -9,13 +9,6 @@ runtime: "114 min"
 genre:
   - "Crime"
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "crime"
-  - "drama"
-  - "masaki-kobayashi"
-  - "1956"
 ---
 
 # Black River (1956)
@@ -47,12 +40,6 @@ The first film of the evening, Black River, made in 1956, examines the moral cor
 **Production Company:** Shochiku
 
 **IMDb Rating:** 7.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

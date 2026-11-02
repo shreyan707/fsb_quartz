@@ -8,12 +8,6 @@ country: "France, Italy"
 runtime: "186 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "luchino-visconti"
-  - "1963"
 ---
 
 # The Leopard (1963)
@@ -45,12 +39,6 @@ The Leopard (Il Gattopardo) is an epic on the grandest possible scale. The film 
 **Production Company:** Titanus
 
 **IMDb Rating:** 7.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

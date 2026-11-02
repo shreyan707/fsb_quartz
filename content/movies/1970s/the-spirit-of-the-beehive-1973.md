@@ -9,13 +9,6 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Fantasy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "fantasy"
-  - "victor-erice"
-  - "1973"
 ---
 
 # The spirit of the beehive (1973)
@@ -47,12 +40,6 @@ The second screening of the evening is a film in our Classics Revisited section.
 **Production Company:** Elías Querejeta PC
 
 **IMDb Rating:** 7.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

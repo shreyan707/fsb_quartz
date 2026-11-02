@@ -10,14 +10,6 @@ genre:
   - "Comedy"
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "comedy"
-  - "drama"
-  - "romance"
-  - "edward-yang"
-  - "1994"
 ---
 
 # A Confucian Confusion (1994)
@@ -49,12 +41,6 @@ The film is set in the world of Young Taipei Professionals, who are rich and fam
 **Production Company:** AtomFilms
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -8,12 +8,6 @@ country: "Italy"
 runtime: "187 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "ermanno-olmi"
-  - "1978"
 ---
 
 # The Tree of Wooden Clogs (1978)
@@ -45,12 +39,6 @@ The film focusses on four families working for one landowner on an estate in the
 **Production Company:** Ital-Noleggio Cinematografico
 
 **IMDb Rating:** 7.6
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

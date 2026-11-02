@@ -9,13 +9,6 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Romance"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "jean-renoir"
-  - "1951"
 ---
 
 # The River (1951)
@@ -47,12 +40,6 @@ The second screening of the evening is a film from the master French film maker 
 **Production Company:** Oriental International Films
 
 **IMDb Rating:** 7.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

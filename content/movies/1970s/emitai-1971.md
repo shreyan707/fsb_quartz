@@ -8,12 +8,6 @@ country: "Senegal"
 runtime: "101 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "ousmane-sembene"
-  - "1971"
 ---
 
 # Emitai (1971)
@@ -45,12 +39,6 @@ Ousmane Sembène chronicles a period during World War II when French colonial fo
 **Production Company:** Filmi Domirev
 
 **IMDb Rating:** 7.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

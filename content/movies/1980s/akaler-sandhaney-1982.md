@@ -8,12 +8,6 @@ country: "India"
 runtime: "128 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "mrinal-sen"
-  - "1982"
 ---
 
 # Akaler Sandhaney (1982)
@@ -45,12 +39,6 @@ The first film of the evening will be Akaler Sandhaney (In Search of a Famine), 
 **Production Company:** N/A
 
 **IMDb Rating:** 7.2
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

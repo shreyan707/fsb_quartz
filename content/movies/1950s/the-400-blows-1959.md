@@ -8,12 +8,6 @@ country: "France"
 runtime: "99 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "francois-truffaut"
-  - "1959"
 ---
 
 # The 400 Blows (1959)
@@ -45,12 +39,6 @@ The film is in our Classics Revisited section. Tuffaut’s debut is also his mos
 **Production Company:** Les Films du Carrosse
 
 **IMDb Rating:** 8.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -10,14 +10,6 @@ genre:
   - "Action"
   - "Adventure"
   - "History"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "action"
-  - "adventure"
-  - "history"
-  - "hou-hsiao-hsien"
-  - "2015"
 ---
 
 # The Assassin (2015)
@@ -49,12 +41,6 @@ Set in 9th-century China, "The Assassin" follows 10-year-old general’s daughte
 **Production Company:** Sil-Metropole Organisation
 
 **IMDb Rating:** 6.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

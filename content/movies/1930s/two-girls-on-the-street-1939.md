@@ -9,13 +9,6 @@ runtime: "84 min"
 genre:
   - "Drama"
   - "Comedy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "comedy"
-  - "andre-de-toth"
-  - "1939"
 ---
 
 # Two Girls on the Street (1939)
@@ -47,12 +40,6 @@ The first movie to be screened is Two Girls on the Street, directed by Hungarian
 **Production Company:** Photophon Film Kft.
 
 **IMDb Rating:** 7.0
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

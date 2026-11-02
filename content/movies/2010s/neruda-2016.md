@@ -8,12 +8,6 @@ country: "United States of America, Argentina, Chile, France, Spain"
 runtime: "108 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "pablo-larrain"
-  - "2016"
 ---
 
 # Neruda (2016)
@@ -45,12 +39,6 @@ The second screening is of the movie Neruda, directed by Pablo Larrain. Chile, 1
 **Production Company:** Participant
 
 **IMDb Rating:** 6.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

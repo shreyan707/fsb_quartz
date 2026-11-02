@@ -9,13 +9,6 @@ runtime: "83 min"
 genre:
   - "Drama"
   - "Adventure"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "adventure"
-  - "abbas-kiarostami"
-  - "1987"
 ---
 
 # Where is the Friend's House? (1987)
@@ -47,12 +40,6 @@ The second film of the evening will be Where is the Friend's House?, made in the
 **Production Company:** Kanoon
 
 **IMDb Rating:** 7.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

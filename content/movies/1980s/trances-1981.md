@@ -9,13 +9,6 @@ runtime: "90 min"
 genre:
   - "Documentary"
   - "Music"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "music"
-  - "ahmed-el-maanouni"
-  - "1981"
 ---
 
 # Trances (1981)
@@ -47,12 +40,6 @@ The first film to be screened is Trances, directed by Ahmed El Maanouni. The Mor
 **Production Company:** Ohra-Sogeav
 
 **IMDb Rating:** 6.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

@@ -8,12 +8,6 @@ country: "Italy"
 runtime: "101 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "francesco-rosi"
-  - "1963"
 ---
 
 # Hands Over the City (1963)
@@ -45,12 +39,6 @@ Francesco Rosi's Hands over the City is an expose of the politically driven real
 **Production Company:** Galatea Film
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

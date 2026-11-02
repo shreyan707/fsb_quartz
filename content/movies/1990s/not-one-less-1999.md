@@ -8,12 +8,6 @@ country: "China, Hong Kong, United States of America"
 runtime: "106 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "zhang-yimou"
-  - "1999"
 ---
 
 # Not one Less (1999)
@@ -45,12 +39,6 @@ The second film of the evening is the mandarin film, Not one Less by Zhang Yimou
 **Production Company:** 广西电影制片厂
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

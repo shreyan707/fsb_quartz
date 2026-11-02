@@ -10,14 +10,6 @@ genre:
   - "Drama"
   - "Romance"
   - "War"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "romance"
-  - "war"
-  - "mikhail-kalatozov"
-  - "1957"
 ---
 
 # The Cranes Are Flying (1957)
@@ -49,12 +41,6 @@ The first movie to be screened is The Cranes Are Flying, directed by Russian dir
 **Production Company:** Mosfilm
 
 **IMDb Rating:** 7.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

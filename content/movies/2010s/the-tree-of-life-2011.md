@@ -9,13 +9,6 @@ runtime: "139 min"
 genre:
   - "Drama"
   - "Fantasy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "fantasy"
-  - "terrence-mallick"
-  - "2011"
 ---
 
 # The Tree of Life (2011)
@@ -47,12 +40,6 @@ The second film of the evening “The Tree of Life”made in the year 2011, dire
 **Production Company:** River Road Entertainment
 
 **IMDb Rating:** 6.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

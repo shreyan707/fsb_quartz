@@ -8,13 +8,6 @@ country: "Germany, Russia"
 runtime: "44 min"
 genre:
   - "Documentary"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "alex"
-  - "er-sokurov"
-  - "2022"
 ---
 
 # Russian Ark (2022)
@@ -46,12 +39,6 @@ The first movie to be screened is Russian Ark, directed by Russian director Alex
 **Production Company:** Egoli Tossell Pictures
 
 **IMDb Rating:** 6.8
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

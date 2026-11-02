@@ -8,12 +8,6 @@ country: "Chile, France, Spain, Switzerland"
 runtime: "82 min"
 genre:
   - "Documentary"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "patricio-guzman"
-  - "2015"
 ---
 
 # The Pearl Button (2015)
@@ -45,12 +39,6 @@ The Pearl Button (2015) is by the Chilean documentary filmmaker Patricio Guzmán
 **Production Company:** France 3 Cinéma
 
 **IMDb Rating:** 6.9
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

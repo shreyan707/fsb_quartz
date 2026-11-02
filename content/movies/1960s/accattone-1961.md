@@ -8,12 +8,6 @@ country: "Italy"
 runtime: "117 min"
 genre:
   - "Drama"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "pier-paolo-pasolini"
-  - "1961"
 ---
 
 # Accattone (1961)
@@ -45,12 +39,6 @@ The first screening of the evening belongs to our classics section and presents 
 **Production Company:** Cino del Duca
 
 **IMDb Rating:** 7.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

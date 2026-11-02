@@ -11,15 +11,6 @@ genre:
   - "Drama"
   - "Horror"
   - "Thriller"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "fantasy"
-  - "drama"
-  - "horror"
-  - "thriller"
-  - "guillermo-del-toro"
-  - "2001"
 ---
 
 # Devil’s Backbone (2001)
@@ -51,12 +42,6 @@ The first film of the evening is Devil’s Backbone (El espinazo del diablo) dir
 **Production Company:** Tequila Gang
 
 **IMDb Rating:** 7.3
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

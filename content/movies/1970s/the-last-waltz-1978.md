@@ -9,13 +9,6 @@ runtime: "117 min"
 genre:
   - "Documentary"
   - "Music"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "music"
-  - "martin-scorsese"
-  - "1978"
 ---
 
 # The Last Waltz (1978)
@@ -47,12 +40,6 @@ One of the greatest concert films ever made, The Last Waltz is an at once ecstat
 **Production Company:** FM Productions
 
 **IMDb Rating:** 7.7
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

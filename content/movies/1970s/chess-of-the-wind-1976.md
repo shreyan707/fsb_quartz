@@ -10,14 +10,6 @@ genre:
   - "Drama"
   - "Mystery"
   - "Thriller"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "drama"
-  - "mystery"
-  - "thriller"
-  - "mohammad-reza-aslani"
-  - "1976"
 ---
 
 # Chess of the Wind (1976)
@@ -49,12 +41,6 @@ The second film of the evening is the farsi film, Chess of the Wind by Mohammad 
 **Production Company:** Iranian Cinematographic Development Society
 
 **IMDb Rating:** 7.1
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

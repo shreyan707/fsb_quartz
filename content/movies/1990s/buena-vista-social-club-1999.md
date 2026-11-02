@@ -9,13 +9,6 @@ runtime: "105 min"
 genre:
   - "Documentary"
   - "Music"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "documentary"
-  - "music"
-  - "wim-wenders"
-  - "1999"
 ---
 
 # Buena Vista Social Club (1999)
@@ -47,12 +40,6 @@ The second film to be screened is Buena Vista Social Club, directed by Wim Wende
 **Production Company:** Kintop Pictures
 
 **IMDb Rating:** 7.5
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 

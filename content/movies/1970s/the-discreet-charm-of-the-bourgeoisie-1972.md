@@ -9,13 +9,6 @@ runtime: "101 min"
 genre:
   - "Comedy"
   - "Fantasy"
-source_url: "https://www.filmsocietybhubaneswar.com/member-screening"
-scraped_at: "2026-11-02"
-tags:
-  - "comedy"
-  - "fantasy"
-  - "luis-bunuel"
-  - "1972"
 ---
 
 # The Discreet Charm of the Bourgeoisie (1972)
@@ -47,12 +40,6 @@ The second film of the evening will be The Discreet Charm of the Bourgeoisie, ma
 **Production Company:** Greenwich Film Production
 
 **IMDb Rating:** 7.4
-
-## Source Information
-
-- **Source:** Film Society Bhubaneswar
-- **URL:** https://www.filmsocietybhubaneswar.com/member-screening
-- **Date Scraped:** 2026-11-02
 
 ## Tags
 
