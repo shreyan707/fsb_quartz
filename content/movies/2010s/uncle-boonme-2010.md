@@ -9,6 +9,7 @@ runtime: "114 min"
 genre:
   - "Drama"
   - "Fantasy"
+poster: "assets/posters/uncle-boonme-2010.jpg"
 ---
 
 # Uncle Boonme (2010)

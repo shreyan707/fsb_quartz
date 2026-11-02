@@ -9,6 +9,7 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Romance"
+poster: "assets/posters/in-the-mood-for-love-2000.jpg"
 ---
 
 # In the Mood for Love (2000)

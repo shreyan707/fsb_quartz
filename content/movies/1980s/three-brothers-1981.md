@@ -8,6 +8,7 @@ country: "France, Italy"
 runtime: "113 min"
 genre:
   - "Drama"
+poster: "assets/posters/three-brothers-1981.jpg"
 ---
 
 # Three Brothers (1981)

@@ -8,6 +8,7 @@ country: "Japan"
 runtime: "179 min"
 genre:
   - "Drama"
+poster: "assets/posters/drive-my-car-2021.jpg"
 ---
 
 # Drive My Car (2021)

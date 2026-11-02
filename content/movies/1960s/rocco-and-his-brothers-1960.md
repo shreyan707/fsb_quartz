@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Romance"
   - "Crime"
+poster: "assets/posters/rocco-and-his-brothers-1960.jpg"
 ---
 
 # Rocco and his Brothers (1960)

@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Romance"
   - "Mystery"
+poster: "assets/posters/dos-monjes-two-monks-1934.jpg"
 ---
 
 # Dos Monjes (Two Monks) (1934)

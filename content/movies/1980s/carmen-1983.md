@@ -11,6 +11,7 @@ genre:
   - "Drama"
   - "Comedy"
   - "Romance"
+poster: "assets/posters/carmen-1983.jpg"
 ---
 
 # Carmen (1983)

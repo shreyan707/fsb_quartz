@@ -9,6 +9,7 @@ runtime: "105 min"
 genre:
   - "Documentary"
   - "Music"
+poster: "assets/posters/buena-vista-social-club-1999.jpg"
 ---
 
 # Buena Vista Social Club (1999)

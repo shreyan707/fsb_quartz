@@ -10,6 +10,7 @@ genre:
   - "Crime"
   - "Drama"
   - "Thriller"
+poster: "assets/posters/cairo-station-1958.jpg"
 ---
 
 # Cairo Station (1958)

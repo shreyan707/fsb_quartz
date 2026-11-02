@@ -8,6 +8,7 @@ country: "France, Turkey, Netherlands"
 runtime: "98 min"
 genre:
   - "Drama"
+poster: "assets/posters/climates-2006.jpg"
 ---
 
 # Climates (2006)

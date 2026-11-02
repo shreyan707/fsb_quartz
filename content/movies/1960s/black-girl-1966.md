@@ -8,6 +8,7 @@ country: "France, Senegal"
 runtime: "65 min"
 genre:
   - "Drama"
+poster: "assets/posters/black-girl-1966.jpg"
 ---
 
 # Black Girl (1966)

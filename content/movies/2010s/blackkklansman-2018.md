@@ -10,6 +10,7 @@ genre:
   - "Crime"
   - "Drama"
   - "History"
+poster: "assets/posters/blackkklansman-2018.jpg"
 ---
 
 # BlacKkKlansman (2018)

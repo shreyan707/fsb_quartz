@@ -9,6 +9,7 @@ runtime: "154 min"
 genre:
   - "Music"
   - "Drama"
+poster: "assets/posters/kalpana-1948.jpg"
 ---
 
 # Kalpana (1948)

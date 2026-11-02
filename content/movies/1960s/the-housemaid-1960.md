@@ -9,6 +9,7 @@ runtime: "112 min"
 genre:
   - "Crime"
   - "Drama"
+poster: "assets/posters/the-housemaid-1960.jpg"
 ---
 
 # The Housemaid (1960)

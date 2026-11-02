@@ -8,6 +8,7 @@ country: "India"
 runtime: "131 min"
 genre:
   - "Documentary"
+poster: "assets/posters/satyajit-ray-1985.jpg"
 ---
 
 # Satyajit Ray (1985)

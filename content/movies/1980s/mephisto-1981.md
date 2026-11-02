@@ -8,6 +8,7 @@ country: "Germany, Hungary"
 runtime: "145 min"
 genre:
   - "Drama"
+poster: "assets/posters/mephisto-1981.jpg"
 ---
 
 # Mephisto (1981)

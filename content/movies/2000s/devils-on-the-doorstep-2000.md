@@ -9,6 +9,7 @@ runtime: "139 min"
 genre:
   - "Drama"
   - "War"
+poster: "assets/posters/devils-on-the-doorstep-2000.jpg"
 ---
 
 # Devils on the Doorstep (2000)

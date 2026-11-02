@@ -8,6 +8,7 @@ country: "Belgium, Luxembourg, Tunisia"
 runtime: "94 min"
 genre:
   - "Drama"
+poster: "assets/posters/la-promesse-1996.jpg"
 ---
 
 # La Promesse (1996)

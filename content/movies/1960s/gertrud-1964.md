@@ -9,6 +9,7 @@ runtime: "119 min"
 genre:
   - "Drama"
   - "Romance"
+poster: "assets/posters/gertrud-1964.jpg"
 ---
 
 # Gertrud (1964)

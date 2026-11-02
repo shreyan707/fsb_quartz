@@ -8,6 +8,7 @@ country: "Denmark"
 runtime: "125 min"
 genre:
   - "Drama"
+poster: "assets/posters/ordet-1955.jpg"
 ---
 
 # Ordet (1955)

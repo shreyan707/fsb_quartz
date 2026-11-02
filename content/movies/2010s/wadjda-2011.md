@@ -8,6 +8,7 @@ country: "Germany, Saudi Arabia"
 runtime: "98 min"
 genre:
   - "Drama"
+poster: "assets/posters/wadjda-2011.jpg"
 ---
 
 # Wadjda (2011)

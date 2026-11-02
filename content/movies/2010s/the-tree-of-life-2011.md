@@ -9,6 +9,7 @@ runtime: "139 min"
 genre:
   - "Drama"
   - "Fantasy"
+poster: "assets/posters/the-tree-of-life-2011.jpg"
 ---
 
 # The Tree of Life (2011)

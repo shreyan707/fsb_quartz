@@ -8,6 +8,7 @@ country: "Italy, France, Brazil"
 runtime: "110 min"
 genre:
   - "Documentary"
+poster: "assets/posters/the-salt-of-the-earth-2014.jpg"
 ---
 
 # The Salt of the Earth (2014)

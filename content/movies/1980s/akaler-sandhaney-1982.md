@@ -8,6 +8,7 @@ country: "India"
 runtime: "128 min"
 genre:
   - "Drama"
+poster: "assets/posters/akaler-sandhaney-1982.jpg"
 ---
 
 # Akaler Sandhaney (1982)

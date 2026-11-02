@@ -8,6 +8,7 @@ country: "Germany"
 runtime: "82 min"
 genre:
   - "Drama"
+poster: "assets/posters/woyczek-1979.jpg"
 ---
 
 # Woyczek (1979)

@@ -8,6 +8,7 @@ country: "Bosnia and Herzegovina, Bulgaria, France, Germany, Macedonia, Qatar, S
 runtime: "188 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-wild-pear-tree-2018.jpg"
 ---
 
 # The Wild Pear Tree (2018)

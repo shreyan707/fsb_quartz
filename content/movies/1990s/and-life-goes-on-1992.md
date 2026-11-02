@@ -8,6 +8,7 @@ country: "Iran"
 runtime: "95 min"
 genre:
   - "Drama"
+poster: "assets/posters/and-life-goes-on-1992.jpg"
 ---
 
 # And Life Goes On (1992)

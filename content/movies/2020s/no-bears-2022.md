@@ -9,6 +9,7 @@ runtime: "107 min"
 genre:
   - "Drama"
   - "Romance"
+poster: "assets/posters/no-bears-2022.jpg"
 ---
 
 # No Bears (2022)

@@ -8,6 +8,7 @@ country: "United Kingdom"
 runtime: "100 min"
 genre:
   - "Drama"
+poster: "assets/posters/black-narcissus-1947.jpg"
 ---
 
 # Black Narcissus (1947)

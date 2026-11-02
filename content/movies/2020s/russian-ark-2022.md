@@ -8,6 +8,7 @@ country: "Germany, Russia"
 runtime: "44 min"
 genre:
   - "Documentary"
+poster: "assets/posters/russian-ark-2022.jpg"
 ---
 
 # Russian Ark (2022)

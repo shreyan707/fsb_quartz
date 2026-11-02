@@ -9,6 +9,7 @@ runtime: "117 min"
 genre:
   - "Documentary"
   - "Music"
+poster: "assets/posters/the-last-waltz-1978.jpg"
 ---
 
 # The Last Waltz (1978)

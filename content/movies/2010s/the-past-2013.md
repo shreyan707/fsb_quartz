@@ -9,6 +9,7 @@ runtime: "130 min"
 genre:
   - "Drama"
   - "Mystery"
+poster: "assets/posters/the-past-2013.jpg"
 ---
 
 # The Past (2013)

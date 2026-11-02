@@ -8,6 +8,7 @@ country: "United Kingdom"
 runtime: "107 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-club-2015.jpg"
 ---
 
 # The Club (2015)

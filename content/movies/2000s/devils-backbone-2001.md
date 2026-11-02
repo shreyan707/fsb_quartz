@@ -11,6 +11,7 @@ genre:
   - "Drama"
   - "Horror"
   - "Thriller"
+poster: "assets/posters/devils-backbone-2001.jpg"
 ---
 
 # Devil’s Backbone (2001)

@@ -8,6 +8,7 @@ country: "France, Italy"
 runtime: "142 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-great-beauty-la-grande-bellezza-2013.jpg"
 ---
 
 # The Great Beauty (La Grande Bellezza) (2013)

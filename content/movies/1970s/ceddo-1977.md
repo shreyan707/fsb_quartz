@@ -8,6 +8,7 @@ country: "Senegal, France"
 runtime: "117 min"
 genre:
   - "Drama"
+poster: "assets/posters/ceddo-1977.jpg"
 ---
 
 # Ceddo (1977)

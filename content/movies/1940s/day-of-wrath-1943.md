@@ -9,6 +9,7 @@ runtime: "97 min"
 genre:
   - "Drama"
   - "History"
+poster: "assets/posters/day-of-wrath-1943.jpg"
 ---
 
 # Day of Wrath (1943)

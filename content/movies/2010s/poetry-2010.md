@@ -8,6 +8,7 @@ country: "South Korea"
 runtime: "139 min"
 genre:
   - "Drama"
+poster: "assets/posters/poetry-2010.jpg"
 ---
 
 # Poetry (2010)

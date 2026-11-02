@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Crime"
   - "Romance"
+poster: "assets/posters/breathless-1960.jpg"
 ---
 
 # Breathless (1960)

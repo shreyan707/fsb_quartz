@@ -8,6 +8,7 @@ country: "India"
 runtime: "96 min"
 genre:
   - "Drama"
+poster: "assets/posters/bhuvan-shome-1969.jpg"
 ---
 
 # Bhuvan Shome (1969)

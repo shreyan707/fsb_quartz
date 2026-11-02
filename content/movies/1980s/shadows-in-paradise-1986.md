@@ -9,6 +9,7 @@ runtime: "74 min"
 genre:
   - "Drama"
   - "Romance"
+poster: "assets/posters/shadows-in-paradise-1986.jpg"
 ---
 
 # Shadows in Paradise (1986)

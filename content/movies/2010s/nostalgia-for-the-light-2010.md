@@ -8,6 +8,7 @@ country: "Chile, France, Germany"
 runtime: "93 min"
 genre:
   - "Documentary"
+poster: "assets/posters/nostalgia-for-the-light-2010.jpg"
 ---
 
 # Nostalgia for the Light (2010)

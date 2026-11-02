@@ -8,6 +8,7 @@ country: "United States of America"
 runtime: "120 min"
 genre:
   - "Drama"
+poster: "assets/posters/do-the-right-thing-1989.jpg"
 ---
 
 # Do the Right Thing (1989)

@@ -8,6 +8,7 @@ country: "Italy"
 runtime: "101 min"
 genre:
   - "Drama"
+poster: "assets/posters/hands-over-the-city-1963.jpg"
 ---
 
 # Hands Over the City (1963)

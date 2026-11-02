@@ -9,6 +9,7 @@ runtime: "131 min"
 genre:
   - "Crime"
   - "Drama"
+poster: "assets/posters/a-touch-of-sin-2013.jpg"
 ---
 
 # A Touch of Sin (2013)

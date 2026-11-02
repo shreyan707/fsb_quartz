@@ -8,6 +8,7 @@ country: "Iran"
 runtime: "78 min"
 genre:
   - "Documentary"
+poster: "assets/posters/homework-1989.jpg"
 ---
 
 # Homework (1989)

@@ -9,6 +9,7 @@ runtime: "163 min"
 genre:
   - "Drama"
   - "Crime"
+poster: "assets/posters/once-upon-a-time-in-anatolia-2011.jpg"
 ---
 
 # Once Upon A Time In Anatolia (2011)

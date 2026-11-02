@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Mystery"
   - "Thriller"
+poster: "assets/posters/chess-of-the-wind-1976.jpg"
 ---
 
 # Chess of the Wind (1976)

@@ -8,6 +8,7 @@ country: "Italy, France"
 runtime: "137 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-gospel-according-to-matthew-1964.jpg"
 ---
 
 # The Gospel According To Matthew (1964)

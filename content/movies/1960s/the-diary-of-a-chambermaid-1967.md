@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Romance"
   - "Comedy"
+poster: "assets/posters/the-diary-of-a-chambermaid-1967.jpg"
 ---
 
 # The Diary of a Chambermaid (1967)

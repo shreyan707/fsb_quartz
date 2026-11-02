@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Romance"
   - "Crime"
+poster: "assets/posters/ariel-1988.jpg"
 ---
 
 # Ariel (1988)

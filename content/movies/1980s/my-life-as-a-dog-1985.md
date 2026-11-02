@@ -9,6 +9,7 @@ runtime: "102 min"
 genre:
   - "Drama"
   - "Comedy"
+poster: "assets/posters/my-life-as-a-dog-1985.jpg"
 ---
 
 # My Life as a Dog (1985)

@@ -9,6 +9,7 @@ runtime: "103 min"
 genre:
   - "Drama"
   - "History"
+poster: "assets/posters/even-the-rain-2010.jpg"
 ---
 
 # Even The Rain (2010)

@@ -9,6 +9,7 @@ runtime: "108 min"
 genre:
   - "Drama"
   - "History"
+poster: "assets/posters/aferim-2015.jpg"
 ---
 
 # Aferim (2015)

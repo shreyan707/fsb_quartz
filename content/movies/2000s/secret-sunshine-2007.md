@@ -8,6 +8,7 @@ country: "South Korea"
 runtime: "143 min"
 genre:
   - "Drama"
+poster: "assets/posters/secret-sunshine-2007.jpg"
 ---
 
 # Secret Sunshine (2007)

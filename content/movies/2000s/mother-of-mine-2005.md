@@ -9,6 +9,7 @@ runtime: "111 min"
 genre:
   - "Drama"
   - "War"
+poster: "assets/posters/mother-of-mine-2005.jpg"
 ---
 
 # Mother of Mine (2005)

@@ -9,6 +9,7 @@ runtime: "202 min"
 genre:
   - "Drama"
   - "History"
+poster: "assets/posters/malcolm-x-1992.jpg"
 ---
 
 # Malcolm X (1992)

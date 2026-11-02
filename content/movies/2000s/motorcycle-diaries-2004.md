@@ -8,6 +8,7 @@ country: "Argentina, France, United Kingdom, United States of America"
 runtime: "126 min"
 genre:
   - "Drama"
+poster: "assets/posters/motorcycle-diaries-2004.jpg"
 ---
 
 # Motorcycle Diaries (2004)

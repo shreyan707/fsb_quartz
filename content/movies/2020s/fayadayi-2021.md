@@ -8,6 +8,7 @@ country: "Ethiopia, United States of America"
 runtime: "120 min"
 genre:
   - "Documentary"
+poster: "assets/posters/fayadayi-2021.jpg"
 ---
 
 # Fayadayi (2021)

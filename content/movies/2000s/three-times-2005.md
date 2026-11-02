@@ -9,6 +9,7 @@ runtime: "130 min"
 genre:
   - "Romance"
   - "Drama"
+poster: "assets/posters/three-times-2005.jpg"
 ---
 
 # Three Times (2005)

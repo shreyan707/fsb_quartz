@@ -8,6 +8,7 @@ country: "Finland, Sweden"
 runtime: "69 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-match-factory-girl-1990.jpg"
 ---
 
 # The Match Factory Girl (1990)

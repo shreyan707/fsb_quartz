@@ -10,6 +10,7 @@ genre:
   - "Romance"
   - "Drama"
   - "War"
+poster: "assets/posters/senso-1954.jpg"
 ---
 
 # Senso (1954)

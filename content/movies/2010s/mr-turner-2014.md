@@ -9,6 +9,7 @@ runtime: "150 min"
 genre:
   - "History"
   - "Drama"
+poster: "assets/posters/mr-turner-2014.jpg"
 ---
 
 # Mr. Turner (2014)

@@ -9,6 +9,7 @@ runtime: "127 min"
 genre:
   - "Drama"
   - "Romance"
+poster: "assets/posters/mountains-may-depart-2015.jpg"
 ---
 
 # Mountains May Depart (2015)

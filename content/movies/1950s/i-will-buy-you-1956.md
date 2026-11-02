@@ -8,6 +8,7 @@ country: "Japan"
 runtime: "111 min"
 genre:
   - "Drama"
+poster: "assets/posters/i-will-buy-you-1956.jpg"
 ---
 
 # I Will Buy You (1956)

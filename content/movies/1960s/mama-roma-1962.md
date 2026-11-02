@@ -8,6 +8,7 @@ country: "Italy"
 runtime: "110 min"
 genre:
   - "Drama"
+poster: "assets/posters/mama-roma-1962.jpg"
 ---
 
 # Mama Roma (1962)

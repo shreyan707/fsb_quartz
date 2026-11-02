@@ -9,6 +9,7 @@ runtime: "80 min"
 genre:
   - "Drama"
   - "History"
+poster: "assets/posters/the-colour-of-pomegranates-1969.jpg"
 ---
 
 # The Colour of Pomegranates (1969)

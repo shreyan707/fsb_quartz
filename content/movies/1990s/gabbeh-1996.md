@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Mystery"
   - "Romance"
+poster: "assets/posters/gabbeh-1996.jpg"
 ---
 
 # Gabbeh (1996)

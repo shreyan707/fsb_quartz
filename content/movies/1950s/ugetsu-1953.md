@@ -10,6 +10,7 @@ genre:
   - "Fantasy"
   - "Drama"
   - "Mystery"
+poster: "assets/posters/ugetsu-1953.jpg"
 ---
 
 # Ugetsu (1953)

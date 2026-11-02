@@ -8,6 +8,7 @@ country: "China, Hong Kong, United States of America"
 runtime: "106 min"
 genre:
   - "Drama"
+poster: "assets/posters/not-one-less-1999.jpg"
 ---
 
 # Not one Less (1999)

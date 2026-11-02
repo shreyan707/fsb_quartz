@@ -10,6 +10,7 @@ genre:
   - "Comedy"
   - "Drama"
   - "Romance"
+poster: "assets/posters/let-the-sunshine-in-2017.jpg"
 ---
 
 # Let the Sunshine In (2017)

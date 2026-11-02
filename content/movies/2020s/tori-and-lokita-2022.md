@@ -8,6 +8,7 @@ country: "Belgium, France"
 runtime: "88 min"
 genre:
   - "Drama"
+poster: "assets/posters/tori-and-lokita-2022.jpg"
 ---
 
 # Tori and Lokita (2022)

@@ -8,6 +8,7 @@ country: "Germany, France, Italy"
 runtime: "93 min"
 genre:
   - "Drama"
+poster: "assets/posters/il-buco-2021.jpg"
 ---
 
 # il buco (2021)

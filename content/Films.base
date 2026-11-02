@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.inFolder("movies")
+    - file.ext == "md"
+    - file.name != "index"
+properties:
+  note.release_year:
+    displayName: Year
+  note.director:
+    displayName: Director
+  note.country:
+    displayName: Country
+views:
+  - type: cards
+    name: Posters
+    image: note.poster
+    imageFit: cover
+    imageAspectRatio: 0.667
+    cardSize: 180
+    order:
+      - file.name
+      - note.release_year
+      - note.director
+    sort:
+      - property: note.release_year
+        direction: ASC
+  - type: table
+    name: All films
+    order:
+      - file.name
+      - note.release_year
+      - note.director
+      - note.country
+    sort:
+      - property: note.release_year
+        direction: ASC

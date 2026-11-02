@@ -9,6 +9,7 @@ runtime: "91 min"
 genre:
   - "Comedy"
   - "Drama"
+poster: "assets/posters/the-green-green-grass-of-home-1982.jpg"
 ---
 
 # The Green, Green Grass of Home (1982)

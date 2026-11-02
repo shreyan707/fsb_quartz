@@ -8,6 +8,7 @@ country: "Chile, France, Spain, Switzerland"
 runtime: "82 min"
 genre:
   - "Documentary"
+poster: "assets/posters/the-pearl-button-2015.jpg"
 ---
 
 # The Pearl Button (2015)

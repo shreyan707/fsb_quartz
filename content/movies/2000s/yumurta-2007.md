@@ -8,6 +8,7 @@ country: "Turkey, Greece"
 runtime: "97 min"
 genre:
   - "Drama"
+poster: "assets/posters/yumurta-2007.jpg"
 ---
 
 # Yumurta (2007)

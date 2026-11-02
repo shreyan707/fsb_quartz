@@ -9,6 +9,7 @@ runtime: "96 min"
 genre:
   - "Drama"
   - "War"
+poster: "assets/posters/timbuktu-2014.jpg"
 ---
 
 # Timbuktu (2014)

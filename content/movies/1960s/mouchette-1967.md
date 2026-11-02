@@ -8,6 +8,7 @@ country: "France"
 runtime: "81 min"
 genre:
   - "Drama"
+poster: "assets/posters/mouchette-1967.jpg"
 ---
 
 # Mouchette (1967)

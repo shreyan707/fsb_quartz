@@ -8,6 +8,7 @@ country: "Italy"
 runtime: "88 min"
 genre:
   - "Documentary"
+poster: "assets/posters/love-meetings-comizi-d-amore-1964.jpg"
 ---
 
 # Love Meetings (Comizi D'Amore) (1964)

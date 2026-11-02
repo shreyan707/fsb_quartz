@@ -8,6 +8,7 @@ country: "France, Sweden"
 runtime: "96 min"
 genre:
   - "Drama"
+poster: "assets/posters/au-hasard-balthazar-1966.jpg"
 ---
 
 # Au Hasard Balthazar (1966)

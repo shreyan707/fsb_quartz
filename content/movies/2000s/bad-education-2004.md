@@ -9,6 +9,7 @@ runtime: "105 min"
 genre:
   - "Drama"
   - "Crime"
+poster: "assets/posters/bad-education-2004.jpg"
 ---
 
 # Bad Education (2004)

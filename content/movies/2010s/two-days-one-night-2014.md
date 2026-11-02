@@ -8,6 +8,7 @@ country: "Belgium, France, Italy"
 runtime: "95 min"
 genre:
   - "Drama"
+poster: "assets/posters/two-days-one-night-2014.jpg"
 ---
 
 # Two Days, One Night (2014)

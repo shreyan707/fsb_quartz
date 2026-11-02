@@ -9,6 +9,7 @@ runtime: "90 min"
 genre:
   - "Documentary"
   - "Music"
+poster: "assets/posters/trances-1981.jpg"
 ---
 
 # Trances (1981)

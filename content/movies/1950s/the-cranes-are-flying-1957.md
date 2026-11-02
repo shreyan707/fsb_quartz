@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Romance"
   - "War"
+poster: "assets/posters/the-cranes-are-flying-1957.jpg"
 ---
 
 # The Cranes Are Flying (1957)

@@ -9,6 +9,7 @@ runtime: "100 min"
 genre:
   - "Drama"
   - "Music"
+poster: "assets/posters/jalsaghar-1958.jpg"
 ---
 
 # Jalsaghar (1958)

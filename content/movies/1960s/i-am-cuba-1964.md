@@ -8,6 +8,7 @@ country: "Cuba, Soviet Union"
 runtime: "141 min"
 genre:
   - "Drama"
+poster: "assets/posters/i-am-cuba-1964.jpg"
 ---
 
 # I am Cuba (1964)

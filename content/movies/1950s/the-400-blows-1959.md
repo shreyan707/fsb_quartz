@@ -8,6 +8,7 @@ country: "France"
 runtime: "99 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-400-blows-1959.jpg"
 ---
 
 # The 400 Blows (1959)

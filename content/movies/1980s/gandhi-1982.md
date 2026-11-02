@@ -9,6 +9,7 @@ runtime: "192 min"
 genre:
   - "Drama"
   - "History"
+poster: "assets/posters/gandhi-1982.jpg"
 ---
 
 # Gandhi (1982)

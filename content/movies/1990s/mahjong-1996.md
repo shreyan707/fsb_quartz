@@ -10,6 +10,7 @@ genre:
   - "Comedy"
   - "Drama"
   - "Crime"
+poster: "assets/posters/mahjong-1996.jpg"
 ---
 
 # Mahjong (1996)

@@ -10,6 +10,7 @@ genre:
   - "Crime"
   - "Drama"
   - "Comedy"
+poster: "assets/posters/a-band-of-outsiders-1964.jpg"
 ---
 
 # A band of Outsiders (1964)

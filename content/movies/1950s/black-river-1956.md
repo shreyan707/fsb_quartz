@@ -9,6 +9,7 @@ runtime: "114 min"
 genre:
   - "Crime"
   - "Drama"
+poster: "assets/posters/black-river-1956.jpg"
 ---
 
 # Black River (1956)

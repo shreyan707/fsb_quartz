@@ -10,6 +10,7 @@ genre:
   - "Action"
   - "Adventure"
   - "History"
+poster: "assets/posters/the-assassin-2015.jpg"
 ---
 
 # The Assassin (2015)

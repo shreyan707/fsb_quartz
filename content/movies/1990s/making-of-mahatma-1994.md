@@ -8,6 +8,7 @@ country: "South Africa, India"
 runtime: "144 min"
 genre:
   - "Drama"
+poster: "assets/posters/making-of-mahatma-1994.jpg"
 ---
 
 # Making of Mahatma (1994)

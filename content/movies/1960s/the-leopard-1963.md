@@ -8,6 +8,7 @@ country: "France, Italy"
 runtime: "186 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-leopard-1963.jpg"
 ---
 
 # The Leopard (1963)

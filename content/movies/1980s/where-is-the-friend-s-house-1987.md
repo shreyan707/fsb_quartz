@@ -9,6 +9,7 @@ runtime: "83 min"
 genre:
   - "Drama"
   - "Adventure"
+poster: "assets/posters/where-is-the-friend-s-house-1987.jpg"
 ---
 
 # Where is the Friend's House? (1987)

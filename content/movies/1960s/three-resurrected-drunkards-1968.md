@@ -9,6 +9,7 @@ runtime: "80 min"
 genre:
   - "Drama"
   - "Comedy"
+poster: "assets/posters/three-resurrected-drunkards-1968.jpg"
 ---
 
 # Three Resurrected Drunkards (1968)

@@ -9,6 +9,7 @@ runtime: "141 min"
 genre:
   - "Adventure"
   - "Drama"
+poster: "assets/posters/el-norte-1983.jpg"
 ---
 
 # El Norte (1983)

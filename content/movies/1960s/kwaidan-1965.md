@@ -10,6 +10,7 @@ genre:
   - "Horror"
   - "Fantasy"
   - "Drama"
+poster: "assets/posters/kwaidan-1965.jpg"
 ---
 
 # Kwaidan (1965)

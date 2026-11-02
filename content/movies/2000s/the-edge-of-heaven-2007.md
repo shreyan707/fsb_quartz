@@ -8,6 +8,7 @@ country: "Germany, Turkey"
 runtime: "122 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-edge-of-heaven-2007.jpg"
 ---
 
 # The Edge of Heaven (2007)

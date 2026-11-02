@@ -8,6 +8,7 @@ country: "Senegal"
 runtime: "101 min"
 genre:
   - "Drama"
+poster: "assets/posters/emitai-1971.jpg"
 ---
 
 # Emitai (1971)

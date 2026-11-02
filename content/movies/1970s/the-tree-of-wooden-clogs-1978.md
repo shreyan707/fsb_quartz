@@ -8,6 +8,7 @@ country: "Italy"
 runtime: "187 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-tree-of-wooden-clogs-1978.jpg"
 ---
 
 # The Tree of Wooden Clogs (1978)

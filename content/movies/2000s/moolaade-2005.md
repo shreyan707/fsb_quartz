@@ -8,6 +8,7 @@ country: "Burkina Faso, Cameroon, France, Morocco, Senegal, Tunisia"
 runtime: "124 min"
 genre:
   - "Drama"
+poster: "assets/posters/moolaade-2005.jpg"
 ---
 
 # Moolaade (2005)

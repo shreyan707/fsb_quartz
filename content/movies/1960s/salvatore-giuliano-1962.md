@@ -10,6 +10,7 @@ genre:
   - "Crime"
   - "Drama"
   - "History"
+poster: "assets/posters/salvatore-giuliano-1962.jpg"
 ---
 
 # Salvatore Giuliano (1962)

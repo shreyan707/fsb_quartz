@@ -9,6 +9,7 @@ runtime: "163 min"
 genre:
   - "Drama"
   - "History"
+poster: "assets/posters/the-last-emperor-1987.jpg"
 ---
 
 # The Last Emperor (1987)

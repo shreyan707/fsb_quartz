@@ -9,6 +9,7 @@ runtime: "140 min"
 genre:
   - "Drama"
   - "Romance"
+poster: "assets/posters/the-makioka-sisters-1983.jpg"
 ---
 
 # The Makioka Sisters (1983)

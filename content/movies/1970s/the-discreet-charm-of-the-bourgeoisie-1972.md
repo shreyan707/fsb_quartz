@@ -9,6 +9,7 @@ runtime: "101 min"
 genre:
   - "Comedy"
   - "Fantasy"
+poster: "assets/posters/the-discreet-charm-of-the-bourgeoisie-1972.jpg"
 ---
 
 # The Discreet Charm of the Bourgeoisie (1972)

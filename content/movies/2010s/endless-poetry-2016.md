@@ -9,6 +9,7 @@ runtime: "128 min"
 genre:
   - "Fantasy"
   - "Drama"
+poster: "assets/posters/endless-poetry-2016.jpg"
 ---
 
 # Endless Poetry (2016)

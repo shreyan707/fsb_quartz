@@ -10,6 +10,7 @@ genre:
   - "Comedy"
   - "Drama"
   - "Romance"
+poster: "assets/posters/a-confucian-confusion-1994.jpg"
 ---
 
 # A Confucian Confusion (1994)

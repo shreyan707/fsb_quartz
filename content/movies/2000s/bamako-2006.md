@@ -8,6 +8,7 @@ country: "France, Mali, United States of America"
 runtime: "115 min"
 genre:
   - "Drama"
+poster: "assets/posters/bamako-2006.jpg"
 ---
 
 # Bamako (2006)

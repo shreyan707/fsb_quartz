@@ -8,6 +8,7 @@ country: "Cuba"
 runtime: "161 min"
 genre:
   - "Drama"
+poster: "assets/posters/lucia-1968.jpg"
 ---
 
 # Lucia (1968)

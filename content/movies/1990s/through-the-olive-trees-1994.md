@@ -8,6 +8,7 @@ country: "Iran, France"
 runtime: "104 min"
 genre:
   - "Drama"
+poster: "assets/posters/through-the-olive-trees-1994.jpg"
 ---
 
 # Through the Olive Trees (1994)

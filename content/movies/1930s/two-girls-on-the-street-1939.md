@@ -9,6 +9,7 @@ runtime: "84 min"
 genre:
   - "Drama"
   - "Comedy"
+poster: "assets/posters/two-girls-on-the-street-1939.jpg"
 ---
 
 # Two Girls on the Street (1939)

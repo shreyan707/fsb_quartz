@@ -8,6 +8,7 @@ country: "United States of America, Argentina, Chile, France, Spain"
 runtime: "108 min"
 genre:
   - "Drama"
+poster: "assets/posters/neruda-2016.jpg"
 ---
 
 # Neruda (2016)

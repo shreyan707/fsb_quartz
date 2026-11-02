@@ -8,6 +8,7 @@ country: "Turkey, France, Germany"
 runtime: "97 min"
 genre:
   - "Drama"
+poster: "assets/posters/mustang-2015.jpg"
 ---
 
 # Mustang (2015)

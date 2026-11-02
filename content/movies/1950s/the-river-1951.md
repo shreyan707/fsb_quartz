@@ -9,6 +9,7 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Romance"
+poster: "assets/posters/the-river-1951.jpg"
 ---
 
 # The River (1951)

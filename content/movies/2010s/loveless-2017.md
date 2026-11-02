@@ -8,6 +8,7 @@ country: "Belgium, France, Germany, Russia"
 runtime: "122 min"
 genre:
   - "Drama"
+poster: "assets/posters/loveless-2017.jpg"
 ---
 
 # Loveless (2017)

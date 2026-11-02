@@ -8,6 +8,7 @@ country: "Chile, Germany, Spain, United States of America"
 runtime: "104 min"
 genre:
   - "Drama"
+poster: "assets/posters/a-fantastic-woman-2017.jpg"
 ---
 
 # A Fantastic Woman (2017)

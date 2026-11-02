@@ -8,6 +8,7 @@ country: "Taiwan"
 runtime: "98 min"
 genre:
   - "Drama"
+poster: "assets/posters/the-boys-from-fengkuei-1983.jpg"
 ---
 
 # The Boys from Fengkuei (1983)

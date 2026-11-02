@@ -8,6 +8,7 @@ country: "Spain, France"
 runtime: "94 min"
 genre:
   - "Drama"
+poster: "assets/posters/el-sur-1983.jpg"
 ---
 
 # El Sur (1983)

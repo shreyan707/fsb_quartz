@@ -10,6 +10,7 @@ genre:
   - "Drama"
   - "Crime"
   - "Thriller"
+poster: "assets/posters/shoplifters-2018.jpg"
 ---
 
 # Shoplifters (2018)

@@ -8,6 +8,7 @@ country: "Italy"
 runtime: "117 min"
 genre:
   - "Drama"
+poster: "assets/posters/accattone-1961.jpg"
 ---
 
 # Accattone (1961)

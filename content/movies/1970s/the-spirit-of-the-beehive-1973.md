@@ -9,6 +9,7 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Fantasy"
+poster: "assets/posters/the-spirit-of-the-beehive-1973.jpg"
 ---
 
 # The spirit of the beehive (1973)
