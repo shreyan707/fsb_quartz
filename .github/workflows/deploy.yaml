@@ -21,6 +21,7 @@ jobs:
           node-version: 22
       - run: npm ci
       - run: npx quartz build
+      - run: node scripts/fix-tag-links.mjs public
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
