@@ -13,38 +13,38 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
+    fontOrigin: local
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Broadsheet
+      body: SF Pro Display
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f5f1eb"
+        lightgray: "#e6dfd6"
+        gray: "#9a8f82"
+        darkgray: "#4a4238"
+        dark: "#2d2520"
+        secondary: "#a67c6d"
+        tertiary: "#8b7f73"
+        highlight: rgba(166, 124, 109, 0.15)
+        textHighlight: "#cc9e5488"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1a1714"
+        lightgray: "#2a2520"
+        gray: "#6b6158"
+        darkgray: "#d4cec7"
+        dark: "#ebe7e1"
+        secondary: "#c59b8d"
+        tertiary: "#a89a8d"
+        highlight: rgba(197, 155, 141, 0.15)
+        textHighlight: "#e0bc7e88"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: created
       priority:
         - frontmatter
         - git
@@ -100,6 +100,13 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: local
+      useThemeFonts: false
+      title: '"Broadsheet", Georgia, serif'
+      header: '"Broadsheet", Georgia, serif'
+      body: '"SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif'
+      interface: '"SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif'
   - source: "@quartz-themes/core"
     enabled: false
     options:
@@ -164,7 +171,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30

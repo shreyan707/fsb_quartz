@@ -1,10 +1,269 @@
 @use "./variables.scss" as *;
+@use "sass:math";
 
 // put your custom CSS here!
 
-// Background customization – drop an image in quartz/static/ and uncomment:
+// ---------------------------------------------------------------------------
+// Tunables – tweak these to adjust the look
+// ---------------------------------------------------------------------------
+$panelOpacity: 55%; // centre block opacity (lower = more see-through)
+$grainOpacity: 0.03; // grain strength (centre block only)
+$starFallSlow: 140s; // seconds for a star layer to cross the screen
+$starFallMid: 90s;
+$starFallFast: 55s;
+
+// ---------------------------------------------------------------------------
+// Custom background image hook (uncomment, put image in quartz/static/)
+// ---------------------------------------------------------------------------
 // body {
 //   background-image: url("/static/bg.jpg");
 //   background-size: cover;
 //   background-attachment: fixed;
 // }
+
+// ---------------------------------------------------------------------------
+// Falling stars – three CSS-only layers (random positions fixed at build time)
+// Each layer is a 1px element whose box-shadows are the stars; a second copy of
+// every star sits one viewport above so the loop is seamless.
+// ---------------------------------------------------------------------------
+@function stars($n) {
+  $shadows: ();
+  @for $i from 1 through $n {
+    $x: math.random(1000) * 0.1;
+    $y: math.random(1000) * 0.1;
+    $shadows: append($shadows, #{$x}vw #{$y}vh 0 0 currentColor, comma);
+    $shadows: append($shadows, #{$x}vw calc(#{$y}vh - 100vh) 0 0 currentColor, comma);
+  }
+  @return $shadows;
+}
+
+@keyframes star-fall {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(100vh);
+  }
+}
+
+html::before,
+html::after,
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 50%;
+  pointer-events: none;
+  color: var(--dark);
+  animation-name: star-fall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+html::before {
+  width: 1px;
+  height: 1px;
+  opacity: 0.45;
+  box-shadow: stars(110);
+  animation-duration: $starFallSlow;
+}
+
+html::after {
+  width: 2px;
+  height: 2px;
+  opacity: 0.55;
+  box-shadow: stars(45);
+  animation-duration: $starFallMid;
+}
+
+body::before {
+  width: 3px;
+  height: 3px;
+  opacity: 0.65;
+  box-shadow: stars(14);
+  animation-duration: $starFallFast;
+}
+
+// ---------------------------------------------------------------------------
+// Grain texture – centre block only (see .center::after below)
+// ---------------------------------------------------------------------------
+$grainImage: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='1.1' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 2.2 -0.55'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+
+// ---------------------------------------------------------------------------
+// Page layout: centred, translucent note block with explorer on the side
+// ---------------------------------------------------------------------------
+body {
+  background-color: var(--light);
+}
+
+.page > #quartz-body {
+  align-items: start;
+
+  & .center {
+    box-sizing: border-box;
+    padding: 0 2rem 1.5rem;
+    background: color-mix(in srgb, var(--light) $panelOpacity, transparent);
+    border: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
+    border-radius: 2px;
+    backdrop-filter: blur(1.5px);
+    -webkit-backdrop-filter: blur(1.5px);
+    margin-top: 1.5rem;
+    position: relative;
+    isolation: isolate;
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      z-index: 5;
+      pointer-events: none;
+      border-radius: inherit;
+      background-image: $grainImage;
+      background-size: 200px 200px;
+      opacity: $grainOpacity;
+      mix-blend-mode: overlay;
+    }
+
+    @media all and ($mobile) {
+      padding: 0 1rem 1rem;
+      margin-top: 0;
+    }
+  }
+
+  & .sidebar {
+    // keep the stars visible behind the side panels
+    background: transparent;
+  }
+}
+
+// Soften the panel's page-header divider so it blends with the border
+.page .page-header {
+  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
+  padding-bottom: 0.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html::before,
+  html::after,
+  body::before {
+    animation: none;
+  }
+}
+
+:root[saved-theme="light"] .page > #quartz-body .center::after {
+  opacity: $grainOpacity * 0.8;
+  mix-blend-mode: multiply;
+}
+
+// ---------------------------------------------------------------------------
+// Fonts – Broadsheet for titles/headings/explorer, SF Pro Display for the rest.
+// Font files live in quartz/static/fonts (copied from the local install).
+// SF Pro italic is synthesized from Regular (no regular-italic file available).
+// ---------------------------------------------------------------------------
+@font-face {
+  font-family: "Broadsheet";
+  src: url("/static/fonts/Broadsheet-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("/static/fonts/SFProDisplay-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("/static/fonts/SFProDisplay-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+$serifFont: "Broadsheet", Georgia, serif;
+$sansFont: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+
+:root {
+  --headerFont: #{$serifFont};
+  --bodyFont: #{$sansFont};
+}
+
+body,
+button,
+input {
+  font-family: $sansFont;
+}
+
+// Broadsheet only has a regular weight – don't let the browser fake bold
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.article-title,
+.page-title,
+.page-title a,
+.explorer .folder-title,
+.explorer .file-title,
+.explorer a,
+.explorer .folder-container,
+.explorer summary,
+.explorer-title,
+.explorer h2 {
+  font-family: $serifFont !important;
+  font-weight: 400 !important;
+  font-synthesis: none;
+}
+
+.article-title {
+  font-size: 3.2rem;
+  line-height: 1.05;
+  margin: 1.2rem 0 0.6rem;
+}
+
+// Metadata line (date created, reading time) + tags under the title
+.content-meta {
+  color: var(--gray);
+  font-size: 0.85rem;
+  margin: 0 0 0.6rem;
+}
+
+ul.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem;
+}
+
+// The frontmatter "Properties" box duplicates the tag list – hide it
+.note-properties {
+  display: none;
+}
+
+// Broadsheet sets small – scale it up where it replaces the sans font
+.sidebar h2,
+.sidebar h3,
+.explorer-title,
+.explorer summary {
+  font-size: 1.25rem;
+}
+
+.explorer .folder-title,
+.explorer .file-title,
+.explorer a {
+  font-size: 1.1rem;
+}
+
+.page-title,
+.page-title a {
+  font-size: 1.7rem;
+}
