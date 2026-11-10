@@ -126,7 +126,9 @@ plugins:
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
-    enabled: true
+    # Off locally: rendering ~780 social-preview images is most of the build time.
+    # .github/workflows/deploy.yaml flips this to true before the production build.
+    enabled: false
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
@@ -142,8 +144,19 @@ plugins:
     layout:
       position: left
       priority: 50
-  - source: "@quartz-community/graph"
+  - source: "./plugins/graph"
     enabled: true
+    options:
+      localGraph:
+        # Hierarchy: season -> primary subject (Themes/) -> secondary subject -> films.
+        # A page shows its direct links, then only expands downward through these layers,
+        # so a film shows just its season/subjects/director, while a season shows all 3 layers.
+        depth: 3
+        layers: ["actor-studio/", "themes/", "subjects/", "movies/"]
+      globalGraph:
+        # top-right button: current page's graph, not the whole site (-1 = everything)
+        depth: 3
+        layers: ["actor-studio/", "themes/", "subjects/", "movies/"]
     layout:
       position: right
       priority: 10

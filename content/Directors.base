@@ -9,21 +9,21 @@ properties:
 views:
   - type: cards
     name: Portraits
+    order:
+      - file.name
+      - films_screened
+    sort:
+      - property: file.name
+        direction: ASC
     image: note.photo
     imageFit: cover
     imageAspectRatio: 0.667
     cardSize: 180
-    order:
-      - file.name
-      - note.films_screened
-    sort:
-      - property: file.name
-        direction: ASC
   - type: table
     name: All directors
     order:
       - file.name
-      - note.films_screened
+      - films_screened
     sort:
       - property: file.name
         direction: ASC

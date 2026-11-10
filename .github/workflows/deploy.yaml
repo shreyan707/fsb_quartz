@@ -20,6 +20,11 @@ jobs:
         with:
           node-version: 22
       - run: npm ci
+      # og-image is disabled in quartz.config.yaml for fast local builds; enable it for deploy
+      - name: Enable og-image plugin
+        run: |
+          sed -i '/source: "@quartz-community\/og-image"/,/enabled:/ s/enabled: false/enabled: true/' quartz.config.yaml
+          grep -A3 'source: "@quartz-community/og-image"' quartz.config.yaml | grep -q 'enabled: true'
       - run: npx quartz build
       - run: node scripts/fix-tag-links.mjs public
       - uses: actions/upload-pages-artifact@v3
