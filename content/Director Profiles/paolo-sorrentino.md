@@ -2,9 +2,10 @@
 title: "Paolo Sorrentino"
 tags:
   - director
+  - actor_studio
 tmdb_id: 56194
 photo: "[[assets/director-profiles/paolo-sorrentino.webp]]"
-films_screened: 1
+films_screened: 2
 ---
 
 <p class="director-label">Director</p>
@@ -14,7 +15,7 @@ films_screened: 1
 <div class="director-facts">
 
 - **Born:** 1970-05-31, Naples, Campania, Italy
-- **Films screened:** 1
+- **Films screened:** 2
 
 Paolo Sorrentino (Italian: [ˈpaːolo sorrenˈtiːno]; born 31 May 1970; Naples) is an Italian film director, screenwriter, and writer. He is considered one of the most prominent filmmakers of Italian cinema working today.
 
@@ -32,3 +33,4 @@ He works with authors and producers including Francesca Cima and Nicola Giuliano
 ## Films screened
 
 - [[movies/2010s/the-great-beauty-la-grande-bellezza-2013|The Great Beauty (La Grande Bellezza)]] (2013)
+- [[movies/2010s/loro-2018|Loro]] (2018)

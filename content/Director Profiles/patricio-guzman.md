@@ -2,9 +2,10 @@
 title: "Patricio Guzmán"
 tags:
   - director
+  - actor_studio
 tmdb_id: 566294
 photo: "[[assets/director-profiles/patricio-guzman.webp]]"
-films_screened: 2
+films_screened: 5
 ---
 
 <p class="director-label">Director</p>
@@ -15,7 +16,7 @@ films_screened: 2
 
 - **Born:** 1941-08-11, Santiago, Chile
 - **Died:** 2026-09-15
-- **Films screened:** 2
+- **Films screened:** 5
 
 Patricio Guzmán Lozanes (August 11, 1941 – September 15, 2026) was a Chilean documentary and feature film director, and screenwriter. He is most known for his film trilogy The Battle of Chile (1975–1979) and more recently for another trilogy; Nostalgia for the Light (2010), The Pearl Button (2015) and The Cordillera of Dreams (2019).
 
@@ -32,3 +33,6 @@ Guzmán also taught documentary film classes in Europe and Latin America, and wa
 
 - [[movies/2010s/nostalgia-for-the-light-2010|Nostalgia for the Light]] (2010)
 - [[movies/2010s/the-pearl-button-2015|The Pearl Button]] (2015)
+- [[movies/1970s/the-battle-of-chile-part-i-1975|The Battle of Chile: Part I]] (1975)
+- [[movies/1970s/the-battle-of-chile-part-ii-1976|The Battle of Chile: Part II]] (1976)
+- [[movies/1970s/the-battle-of-chile-part-iii-1979|The Battle of Chile: Part III]] (1979)

@@ -2,9 +2,10 @@
 title: "Andrey Zvyagintsev"
 tags:
   - director
+  - actor_studio
 tmdb_id: 68519
 photo: "[[assets/director-profiles/andrey-zvyagintsev.webp]]"
-films_screened: 1
+films_screened: 4
 ---
 
 <p class="director-label">Director</p>
@@ -14,7 +15,7 @@ films_screened: 1
 <div class="director-facts">
 
 - **Born:** 1964-02-06, Novosibirsk, Novosibirsk Oblast, USSR [now Russia]
-- **Films screened:** 1
+- **Films screened:** 4
 
 Andrey Petrovich Zvyagintsev (born 6 February 1964) is a Russian film director and screenwriter. His film The Return (2003) won him a Golden Lion at the Venice Film Festival.
 
@@ -30,3 +31,6 @@ Above information from Wikipedia.
 ## Films screened
 
 - [[movies/2010s/loveless-2017|Loveless]] (2017)
+- [[movies/2000s/the-return-2003|The Return]] (2003)
+- [[movies/2010s/elena-2011|Elena]] (2011)
+- [[movies/2010s/leviathan-2014|Leviathan]] (2014)

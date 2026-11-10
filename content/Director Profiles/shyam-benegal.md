@@ -2,9 +2,10 @@
 title: "Shyam Benegal"
 tags:
   - director
+  - actor_studio
 tmdb_id: 114636
 photo: "[[assets/director-profiles/shyam-benegal.webp]]"
-films_screened: 2
+films_screened: 3
 ---
 
 <p class="director-label">Director</p>
@@ -15,7 +16,7 @@ films_screened: 2
 
 - **Born:** 1934-12-14, Alwal, Hyderabad, British India (now Andhra Pradesh, India)
 - **Died:** 2024-12-23
-- **Films screened:** 2
+- **Films screened:** 3
 
 Shyam Benegal (December 14, 1934–December 23, 2024) was a prolific Indian director and screenwriter. With his first four feature films Ankur (1973), Nishant (1975), Manthan (1976), and Bhumika (1977) he created a new genre, which has now come to be called the "middle cinema" in India although he himself has expressed dislike in the term preferring his work to be called New or Alternate cinema.
 
@@ -32,3 +33,4 @@ He was awarded the Padma Shri in 1976 and the Padma Bhushan in 1991. On 8 August
 
 - [[movies/1980s/satyajit-ray-1985|Satyajit Ray]] (1985)
 - [[movies/1990s/making-of-mahatma-1994|Making of Mahatma]] (1994)
+- [[movies/1990s/suraj-ka-satvan-ghoda-1992|Suraj Ka Satvan Ghoda]] (1992)

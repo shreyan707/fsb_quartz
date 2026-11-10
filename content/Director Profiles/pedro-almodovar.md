@@ -2,9 +2,10 @@
 title: "Pedro Almodóvar"
 tags:
   - director
+  - actor_studio
 tmdb_id: 309
 photo: "[[assets/director-profiles/pedro-almodovar.webp]]"
-films_screened: 1
+films_screened: 2
 ---
 
 <p class="director-label">Director</p>
@@ -14,7 +15,7 @@ films_screened: 1
 <div class="director-facts">
 
 - **Born:** 1949-09-25, Calzada de Calatrava, Ciudad Real, Castilla-La Mancha, Spain
-- **Films screened:** 1
+- **Films screened:** 2
 
 Pedro Almodóvar Caballero (born September 25, 1949) is a Spanish film director, screenwriter and producer. Almodóvar is arguably the most successful and internationally known Spanish filmmaker of his generation.
 
@@ -32,3 +33,4 @@ He founded Spanish film production company El Deseo S.A. with his younger brothe
 ## Films screened
 
 - [[movies/2000s/bad-education-2004|Bad Education]] (2004)
+- [[movies/1990s/all-about-my-mother-1999|All About My Mother]] (1999)

@@ -2,6 +2,7 @@
 title: "Pier Paolo Pasolini"
 tags:
   - director
+  - actor_studio
 tmdb_id: 5970
 photo: "[[assets/director-profiles/pier-paolo-pasolini.webp]]"
 films_screened: 4

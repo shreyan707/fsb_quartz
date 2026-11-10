@@ -9,6 +9,8 @@ runtime: "121 min"
 genre:
   - "Drama"
   - "Romance"
+screenings:
+  - 2026-11-01
 poster: "assets/posters/portrait-of-a-lady-on-fire-2020.jpg"
 ---
 
@@ -62,6 +64,10 @@ The film is made without the typical inevitables: men, musical score, and confli
 
 **IMDb Rating:** 8.1
 
+## Screenings
+
+- 1 November 2026
+
 ## Tags
 
-#Drama #Romance #Celine-Sciamma #2020
+#Drama #Romance #Celine-Sciamma #2020 #actor_studio

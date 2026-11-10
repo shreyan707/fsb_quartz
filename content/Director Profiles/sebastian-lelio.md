@@ -2,6 +2,7 @@
 title: "Sebastián Lelio"
 tags:
   - director
+  - actor_studio
 tmdb_id: 1142171
 photo: "[[assets/director-profiles/sebastian-lelio.webp]]"
 films_screened: 1

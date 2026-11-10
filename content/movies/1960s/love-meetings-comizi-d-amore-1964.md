@@ -8,6 +8,8 @@ country: "Italy"
 runtime: "88 min"
 genre:
   - "Documentary"
+screenings:
+  - 2024-03-10
 poster: "assets/posters/love-meetings-comizi-d-amore-1964.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first screening of the evening belongs to our classics section and presents 
 
 **IMDb Rating:** 8.2
 
+## Screenings
+
+- 10 March 2024
+
 ## Tags
 
-#Documentary #Pier-Paolo-Pasolini #1964
+#Documentary #Pier-Paolo-Pasolini #1964 #actor_studio

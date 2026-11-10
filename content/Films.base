@@ -10,6 +10,8 @@ properties:
     displayName: Director
   note.country:
     displayName: Country
+  note.screenings:
+    displayName: Screened on
 views:
   - type: cards
     name: Posters
@@ -31,6 +33,19 @@ views:
       - note.release_year
       - note.director
       - note.country
+    sort:
+      - property: note.release_year
+        direction: ASC
+  - type: table
+    name: Actor Studio
+    filters:
+      and:
+        - file.hasTag("actor_studio")
+    order:
+      - file.name
+      - note.release_year
+      - note.director
+      - note.screenings
     sort:
       - property: note.release_year
         direction: ASC

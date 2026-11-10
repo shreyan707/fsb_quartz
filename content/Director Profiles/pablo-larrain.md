@@ -2,9 +2,10 @@
 title: "Pablo Larraín"
 tags:
   - director
+  - actor_studio
 tmdb_id: 225009
 photo: "[[assets/director-profiles/pablo-larrain.webp]]"
-films_screened: 2
+films_screened: 3
 ---
 
 <p class="director-label">Director</p>
@@ -14,7 +15,7 @@ films_screened: 2
 <div class="director-facts">
 
 - **Born:** 1976-08-19, Santiago, Chile
-- **Films screened:** 2
+- **Films screened:** 3
 
 Pablo Larraín Matte (born 19 August 1976) is a Chilean filmmaker. He is known for films such as the Academy Award-nominated films No (2012), Neruda (2016), Jackie (2016), and Spencer (2021).
 
@@ -29,3 +30,4 @@ Pablo Larraín Matte (born 19 August 1976) is a Chilean filmmaker. He is known f
 
 - [[movies/2010s/the-club-2015|The Club]] (2015)
 - [[movies/2010s/neruda-2016|Neruda]] (2016)
+- [[movies/2020s/el-conde-2023|El Conde]] (2023)

@@ -2,6 +2,7 @@
 title: "Ousmane Sembène"
 tags:
   - director
+  - actor_studio
 tmdb_id: 557134
 photo: "[[assets/director-profiles/ousmane-sembene.webp]]"
 films_screened: 5

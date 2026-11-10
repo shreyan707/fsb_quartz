@@ -2,9 +2,10 @@
 title: "Walter Salles"
 tags:
   - director
+  - actor_studio
 tmdb_id: 8574
 photo: "[[assets/director-profiles/walter-salles.webp]]"
-films_screened: 1
+films_screened: 2
 ---
 
 <p class="director-label">Director</p>
@@ -14,7 +15,7 @@ films_screened: 1
 <div class="director-facts">
 
 - **Born:** 1956-04-12, Rio de Janeiro, Rio de Janeiro, Brazil
-- **Films screened:** 1
+- **Films screened:** 2
 
 Walter Moreira Salles Júnior (/ˈsɑːlɪs/; Brazilian Portuguese: [ˈvawteʁ ˈsalis]; born 12 April 1956) is a Brazilian filmmaker. A major figure of the Resumption Cinema in Brazil, Salles is widely regarded as one of the greatest Brazilian filmmakers of all time.
 
@@ -34,3 +35,4 @@ Description above from the Wikipedia article Walter Salles, licensed under CC-BY
 ## Films screened
 
 - [[movies/2000s/motorcycle-diaries-2004|Motorcycle Diaries]] (2004)
+- [[movies/1990s/central-station-1998|Central Station]] (1998)

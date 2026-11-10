@@ -8,6 +8,8 @@ country: "Argentina, France, United Kingdom, United States of America"
 runtime: "126 min"
 genre:
   - "Drama"
+screenings:
+  - 2026-08-02
 poster: "assets/posters/motorcycle-diaries-2004.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening will be The Motorcycle Diaries, made in the year 
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 2 August 2026
+
 ## Tags
 
-#Drama #Walter-Salles #2004
+#Drama #Walter-Salles #2004 #actor_studio

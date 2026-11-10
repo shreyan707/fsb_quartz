@@ -8,6 +8,8 @@ country: "Burkina Faso, Cameroon, France, Morocco, Senegal, Tunisia"
 runtime: "124 min"
 genre:
   - "Drama"
+screenings:
+  - 2025-01-05
 poster: "assets/posters/moolaade-2005.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening is Moolaade, directed by Ousmane Sembene released 
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 5 January 2025
+
 ## Tags
 
-#Drama #Ousmane-Sembene #2005
+#Drama #Ousmane-Sembene #2005 #actor_studio

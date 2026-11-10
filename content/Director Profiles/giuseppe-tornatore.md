@@ -1,0 +1,31 @@
+---
+title: "Giuseppe Tornatore"
+tags:
+  - director
+  - actor_studio
+tmdb_id: 65314
+photo: "[[assets/director-profiles/giuseppe-tornatore.webp]]"
+films_screened: 1
+---
+
+<p class="director-label">Director</p>
+
+<div class="director-profile">
+<img src="assets/director-profiles/giuseppe-tornatore.webp" alt="Giuseppe Tornatore">
+<div class="director-facts">
+
+- **Born:** 1956-05-27, Bagheria, Sicilia, Italia
+- **Films screened:** 1
+
+Giuseppe Tornatore (born 27 May 1956) is an Italian film director and screenwriter. Born in Bagheria near Palermo, Tornatore developed an interest in acting and the theatre from at least the age of 16 and put on works by Luigi Pirandello and Eduardo De Filippo.
+
+</div>
+</div>
+
+## Biography
+
+Giuseppe Tornatore (born 27 May 1956) is an Italian film director and screenwriter.  Born in Bagheria near Palermo, Tornatore developed an interest in acting and the theatre from at least the age of 16 and put on works by Luigi Pirandello and Eduardo De Filippo.  He worked initially as a freelance photographer. Then, switching to cinema, he made his debut with Le minoranze etniche in Sicilia (The Ethnic Minorities in Sicily), a collaborative documentary film which won a Salerno Festival prize. He then worked for RAI before releasing his first full-length film, Il Camorrista, in 1985. This evoked a positive response from audience and critics alike and Tornatore was awarded the Silver Ribbon for best new director.  Tornatore's best known screen work was released in 1988: Nuovo Cinema Paradiso, a film narrating the life of a successful film director who has returned to his native town in Sicily for the funeral of his mentor. This obtained worldwide success and won an Academy Award for Best Foreign Language Film. Subsequently Tornatore released several other films. In 2007 he won the Silver George for Best Director at the 29th Moscow International Film Festival for The Unknown Woman.
+
+## Films screened
+
+- [[movies/1980s/cinema-paradiso-1988|Cinema Paradiso]] (1988)

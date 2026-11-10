@@ -2,6 +2,7 @@
 title: "Celine Sciamma"
 tags:
   - director
+  - actor_studio
 tmdb_id: 68813
 photo: "[[assets/director-profiles/celine-sciamma.webp]]"
 films_screened: 1

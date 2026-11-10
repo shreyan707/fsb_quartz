@@ -8,6 +8,8 @@ country: "Chile, Germany, Spain, United States of America"
 runtime: "104 min"
 genre:
   - "Drama"
+screenings:
+  - 2022-11-13
 poster: "assets/posters/a-fantastic-woman-2017.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening is A Fantastic Woman, directed by Sebastian Lelio
 
 **IMDb Rating:** 7.0
 
+## Screenings
+
+- 13 November 2022
+
 ## Tags
 
-#Drama #Sebastian-Lelio #2017
+#Drama #Sebastian-Lelio #2017 #actor_studio
