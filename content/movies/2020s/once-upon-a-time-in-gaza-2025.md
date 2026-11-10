@@ -49,4 +49,4 @@ In 2007, Yahya works at his friend Osama’s falafel shop in Gaza, which doubles
 
 ## Tags
 
-#Drama #Tarzan-Nasser #Arab-Nasser #2025 #actor_studio
+#Drama #Tarzan-Nasser #Arab-Nasser #2025 #actor_studio #summer_2026

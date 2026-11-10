@@ -49,4 +49,4 @@ Paris, summer 1960. Anthropologist and filmmaker Jean Rouch and sociologist and 
 
 ## Tags
 
-#Documentary #Jean-Rouch #Edgar-Morin #1961 #actor_studio
+#Documentary #Jean-Rouch #Edgar-Morin #1961 #actor_studio #summer_2024

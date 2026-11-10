@@ -52,4 +52,4 @@ Michael Moore comes home to the issue he's been examining throughout his career:
 
 ## Tags
 
-#Documentary #History #Michael-Moore #2009 #actor_studio
+#Documentary #History #Michael-Moore #2009 #actor_studio #monsoon_2023 #winter_2024

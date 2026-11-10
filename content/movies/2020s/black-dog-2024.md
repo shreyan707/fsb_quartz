@@ -49,4 +49,4 @@ Released from jail, Lang returns to his hometown in Northwest China. As part of 
 
 ## Tags
 
-#Drama #Guan-Hu #2024 #actor_studio
+#Drama #Guan-Hu #2024 #actor_studio #summer_2026

@@ -51,4 +51,4 @@ John Anderton is a top 'Precrime' cop in the late-21st century, when technology 
 
 ## Tags
 
-#Science-Fiction #Action #Thriller #Steven-Spielberg #2002 #actor_studio
+#Science-Fiction #Action #Thriller #Steven-Spielberg #2002 #actor_studio #summer_2026

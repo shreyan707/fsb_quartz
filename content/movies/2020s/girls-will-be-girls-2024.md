@@ -50,4 +50,4 @@ In a strict boarding school nestled in the Himalayas, 16-year-old Mira discovers
 
 ## Tags
 
-#Drama #Romance #Shuchi-Talati #2024 #actor_studio
+#Drama #Romance #Shuchi-Talati #2024 #actor_studio #winter_2024

@@ -49,4 +49,4 @@ A Korean American family moves to an Arkansas farm in search of its own American
 
 ## Tags
 
-#Drama #Lee-Isaac-Chung #2020 #actor_studio
+#Drama #Lee-Isaac-Chung #2020 #actor_studio #summer_2023

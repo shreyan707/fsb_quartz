@@ -49,4 +49,4 @@ A quintet of vignettes based on short stories by Bohumil Hrabal: an eventful tri
 
 ## Tags
 
-#Comedy #Vera-Chytilova #Evald-Schorm #Jaromil-Jires #Jiri-Menzel #Jan-Nemec #1966 #actor_studio
+#Comedy #Vera-Chytilova #Evald-Schorm #Jaromil-Jires #Jiri-Menzel #Jan-Nemec #1966 #actor_studio #monsoon_2024

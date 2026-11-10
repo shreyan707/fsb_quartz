@@ -51,4 +51,4 @@ A psychologist is sent to a space station orbiting a planet called Solaris to in
 
 ## Tags
 
-#Drama #Science-Fiction #Mystery #Andrei-Tarkovsky #1972 #actor_studio
+#Drama #Science-Fiction #Mystery #Andrei-Tarkovsky #1972 #actor_studio #summer_2026

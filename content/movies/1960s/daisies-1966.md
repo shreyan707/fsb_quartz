@@ -50,4 +50,4 @@ Two teenage girls embark on a series of destructive pranks in which they consume
 
 ## Tags
 
-#Comedy #Drama #Vera-Chytilova #1966 #actor_studio
+#Comedy #Drama #Vera-Chytilova #1966 #actor_studio #monsoon_2024

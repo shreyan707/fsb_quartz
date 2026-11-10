@@ -50,4 +50,4 @@ An expansive Russian drama, this film focuses on the life of revered religious i
 
 ## Tags
 
-#Drama #History #Andrei-Tarkovsky #1966 #actor_studio
+#Drama #History #Andrei-Tarkovsky #1966 #actor_studio #summer_2026

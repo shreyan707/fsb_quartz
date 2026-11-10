@@ -50,4 +50,4 @@ A renowned Mexican journalist and documentary filmmaker living in Los Angeles, a
 
 ## Tags
 
-#Comedy #Drama #Alejandro-G-Inarritu #2022 #actor_studio
+#Comedy #Drama #Alejandro-G-Inarritu #2022 #actor_studio #summer_2024

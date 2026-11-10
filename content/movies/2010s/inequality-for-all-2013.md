@@ -49,4 +49,4 @@ Based on Reich's 2010 book Aftershock: The Next Economy and America's Future, th
 
 ## Tags
 
-#Documentary #Jacob-Kornbluth #2013 #actor_studio
+#Documentary #Jacob-Kornbluth #2013 #actor_studio #winter_2024

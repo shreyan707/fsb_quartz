@@ -49,4 +49,4 @@ An insight into the life of late writer-director Rituparno Ghosh, the iconic cul
 
 ## Tags
 
-#Documentary #Sangeeta-Datta #2018 #actor_studio
+#Documentary #Sangeeta-Datta #2018 #actor_studio #summer_2025

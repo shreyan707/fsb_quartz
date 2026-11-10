@@ -50,4 +50,4 @@ The chronicle of the political tension in Chile in 1973 and of the violent count
 
 ## Tags
 
-#Documentary #History #Patricio-Guzman #1975 #actor_studio
+#Documentary #History #Patricio-Guzman #1975 #actor_studio #monsoon_2023

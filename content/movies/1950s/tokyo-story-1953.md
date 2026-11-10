@@ -49,4 +49,4 @@ The elderly Shukishi and his wife, Tomi, take the long journey from their small 
 
 ## Tags
 
-#Drama #Yasujiro-Ozu #1953 #actor_studio
+#Drama #Yasujiro-Ozu #1953 #actor_studio #summer_2025

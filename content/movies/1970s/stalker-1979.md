@@ -50,4 +50,4 @@ Near a gray and unnamed city is the Zone, a place guarded by barbed wire and sol
 
 ## Tags
 
-#Science-Fiction #Drama #Andrei-Tarkovsky #1979 #actor_studio
+#Science-Fiction #Drama #Andrei-Tarkovsky #1979 #actor_studio #summer_2026

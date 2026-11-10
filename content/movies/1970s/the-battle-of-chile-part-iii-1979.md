@@ -49,4 +49,4 @@ Guzmán’s final installment shifts from covering the actions of Allende’s op
 
 ## Tags
 
-#Documentary #Patricio-Guzman #1979 #actor_studio
+#Documentary #Patricio-Guzman #1979 #actor_studio #monsoon_2023

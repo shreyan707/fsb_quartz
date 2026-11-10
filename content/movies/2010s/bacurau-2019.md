@@ -53,4 +53,4 @@ Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch
 
 ## Tags
 
-#Mystery #Western #Thriller #Kleber-Mendonca-Filho #Juliano-Dornelles #2019 #actor_studio
+#Mystery #Western #Thriller #Kleber-Mendonca-Filho #Juliano-Dornelles #2019 #actor_studio #monsoon_2026 #winter_2022

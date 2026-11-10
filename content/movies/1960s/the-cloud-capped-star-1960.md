@@ -49,4 +49,4 @@ A selfless young woman, the daughter of a middle-class refugee family from East 
 
 ## Tags
 
-#Drama #Ritwik-Ghatak #1960 #actor_studio
+#Drama #Ritwik-Ghatak #1960 #actor_studio #monsoon_2025

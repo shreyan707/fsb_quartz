@@ -50,4 +50,4 @@ Kena and Ziki long for something more. Despite the political rivalry between the
 
 ## Tags
 
-#Drama #Romance #Wanuri-Kahiu #2018 #actor_studio
+#Drama #Romance #Wanuri-Kahiu #2018 #actor_studio #summer_2024

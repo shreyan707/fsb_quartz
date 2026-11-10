@@ -50,4 +50,4 @@ A film that exposes the shocking truth behind the economic crisis of 2008. The g
 
 ## Tags
 
-#Documentary #Crime #Charles-Ferguson #2010 #actor_studio
+#Documentary #Crime #Charles-Ferguson #2010 #actor_studio #winter_2024

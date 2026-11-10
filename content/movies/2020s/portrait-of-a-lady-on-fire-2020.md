@@ -70,4 +70,4 @@ The film is made without the typical inevitables: men, musical score, and confli
 
 ## Tags
 
-#Drama #Romance #Celine-Sciamma #2020 #actor_studio
+#Drama #Romance #Celine-Sciamma #2020 #actor_studio #winter_2026

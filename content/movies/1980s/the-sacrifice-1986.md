@@ -49,4 +49,4 @@ Alexander, a journalist, philosopher and retired actor, celebrates a birthday wi
 
 ## Tags
 
-#Drama #Andrei-Tarkovsky #1986 #actor_studio
+#Drama #Andrei-Tarkovsky #1986 #actor_studio #summer_2026

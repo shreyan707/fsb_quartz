@@ -50,4 +50,4 @@ Following the tragic death of her teenage son, Manuela travels from Madrid to Ba
 
 ## Tags
 
-#Comedy #Drama #Pedro-Almodovar #1999 #actor_studio
+#Comedy #Drama #Pedro-Almodovar #1999 #actor_studio #summer_2024

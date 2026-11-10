@@ -51,4 +51,4 @@ Former petty criminal Ali la Pointe becomes a commander of the Algerian Front de
 
 ## Tags
 
-#Drama #War #History #Gillo-Pontecorvo #1966 #actor_studio
+#Drama #War #History #Gillo-Pontecorvo #1966 #actor_studio #monsoon_2023

@@ -50,4 +50,4 @@ A dying man in his forties recalls his childhood, his mother, the war and person
 
 ## Tags
 
-#Drama #History #Andrei-Tarkovsky #1975 #actor_studio
+#Drama #History #Andrei-Tarkovsky #1975 #actor_studio #summer_2026

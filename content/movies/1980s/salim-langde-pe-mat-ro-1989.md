@@ -50,4 +50,4 @@ Salim Pasha, a man with a physical disability, is involved in crimes like extort
 
 ## Tags
 
-#Crime #Drama #Saeed-Akhtar-Mirza #1989 #actor_studio
+#Crime #Drama #Saeed-Akhtar-Mirza #1989 #actor_studio #winter_2025

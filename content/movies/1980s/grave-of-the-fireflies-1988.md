@@ -51,4 +51,4 @@ In the final months of World War II, 14-year-old Seita and his sister Setsuko ar
 
 ## Tags
 
-#Animation #Drama #War #Isao-Takahata #1988 #actor_studio
+#Animation #Drama #War #Isao-Takahata #1988 #actor_studio #summer_2023

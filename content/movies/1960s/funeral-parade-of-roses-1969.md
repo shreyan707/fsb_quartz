@@ -49,4 +49,4 @@ In 1960s Tokyo, Gonda owns a bar in which the gay, cross-dresser, and trans scen
 
 ## Tags
 
-#Drama #Toshio-Matsumoto #1969 #actor_studio
+#Drama #Toshio-Matsumoto #1969 #actor_studio #summer_2024

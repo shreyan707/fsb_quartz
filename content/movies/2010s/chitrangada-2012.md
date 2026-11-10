@@ -49,4 +49,4 @@ Rudra and Partho's desire to adopt a child leads Rudra to take the most crucial 
 
 ## Tags
 
-#Drama #Rituparno-Ghosh #2012 #actor_studio
+#Drama #Rituparno-Ghosh #2012 #actor_studio #summer_2025

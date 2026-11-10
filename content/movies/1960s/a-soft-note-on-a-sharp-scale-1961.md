@@ -50,4 +50,4 @@ Set in 1950s Calcutta against the partition of India, the plot follows two rival
 
 ## Tags
 
-#Drama #Music #Ritwik-Ghatak #1961 #actor_studio
+#Drama #Music #Ritwik-Ghatak #1961 #actor_studio #monsoon_2025

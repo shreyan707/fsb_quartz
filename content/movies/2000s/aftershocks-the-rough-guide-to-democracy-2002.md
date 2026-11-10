@@ -48,4 +48,4 @@ Aftershocks is about the transformation of the Welfare State into an ally of the
 
 ## Tags
 
-#Documentary #Rakesh-Sharma #2002 #actor_studio
+#Documentary #Rakesh-Sharma #2002 #actor_studio #winter_2023

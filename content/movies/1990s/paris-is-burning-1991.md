@@ -50,4 +50,4 @@ Where does voguing come from, and what, exactly, is throwing shade? This landmar
 
 ## Tags
 
-#Documentary #History #Jennie-Livingston #1991 #actor_studio
+#Documentary #History #Jennie-Livingston #1991 #actor_studio #summer_2024

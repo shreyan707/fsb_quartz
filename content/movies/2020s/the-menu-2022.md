@@ -50,4 +50,4 @@ A young couple travels to a remote island to eat at an exclusive restaurant wher
 
 ## Tags
 
-#Comedy #Horror #Mark-Mylod #2022 #actor_studio
+#Comedy #Horror #Mark-Mylod #2022 #actor_studio #summer_2023

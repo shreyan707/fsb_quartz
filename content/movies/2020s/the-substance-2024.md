@@ -50,4 +50,4 @@ A fading celebrity decides to use a black market drug, a cell-replicating substa
 
 ## Tags
 
-#Horror #Science-Fiction #Coralie-Fargeat #2024 #actor_studio
+#Horror #Science-Fiction #Coralie-Fargeat #2024 #actor_studio #winter_2024

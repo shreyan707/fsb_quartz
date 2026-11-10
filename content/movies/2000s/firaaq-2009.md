@@ -49,4 +49,4 @@ Firaaq is an Urdu word that means both separation and quest. The film is a work 
 
 ## Tags
 
-#Drama #Nandita-Das #2009 #actor_studio
+#Drama #Nandita-Das #2009 #actor_studio #winter_2025

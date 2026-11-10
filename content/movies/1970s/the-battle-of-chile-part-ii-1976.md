@@ -49,4 +49,4 @@ Chronicles the events immediately surrounding the CIA- supported coup itself.
 
 ## Tags
 
-#Documentary #Patricio-Guzman #1976 #actor_studio
+#Documentary #Patricio-Guzman #1976 #actor_studio #monsoon_2023
