@@ -16,7 +16,6 @@ poster: "assets/posters/the-red-shoes-1948.jpg"
 
 # The Red Shoes (1948)
 
-![[Pasted image 20261102144507.png]]
 
 ## Movie Information
 

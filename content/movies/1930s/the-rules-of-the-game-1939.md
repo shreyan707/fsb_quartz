@@ -17,7 +17,6 @@ poster: "assets/posters/the-rules-of-the-game-1939.jpg"
 
 # The Rules of the Game (1939)
 
-![[Pasted image 20261102144437.png]]
 
 ## Movie Information
 
