@@ -82,7 +82,7 @@ plugins:
     enabled: true
     order: 70
   - source: "@quartz-community/latex"
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80
@@ -139,7 +139,7 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
-  - source: "@quartz-community/explorer"
+  - source: "./plugins/explorer"
     enabled: true
     layout:
       position: left
@@ -160,7 +160,7 @@ plugins:
     layout:
       position: right
       priority: 10
-  - source: "@quartz-community/search"
+  - source: "./plugins/search"
     enabled: true
     layout:
       position: left

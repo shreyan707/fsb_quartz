@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("movies")
+    - file.ext == "md"
+    - file.name != "index"
+    - formula.last_screened
+formulas:
+  # Most recent screening date that has already happened, from either
+  # "screenings" (Actor Studio) or "member_screenings". Future dates are ignored.
+  last_screened: '[note.screenings, note.member_screenings].flat().filter(value && date(value) <= today()).sort().reverse()[0]'
+properties:
+  note.release_year:
+    displayName: Year
+  note.director:
+    displayName: Director
+views:
+  - type: cards
+    name: Recently screened
+    image: note.poster
+    imageFit: cover
+    imageAspectRatio: 0.667
+    cardSize: 180
+    limit: 12
+    order:
+      - file.name
+      - note.release_year
+      - note.director
+    sort:
+      - property: formula.last_screened
+        direction: DESC

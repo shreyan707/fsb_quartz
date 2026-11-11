@@ -328,6 +328,8 @@ Full example:
 3. Dragging the image also adds a line like `![[...webp]]` to the note. **Delete that line.**
 4. In the top section, set `poster: "assets/posters/the-edge-of-heaven-2007.webp"`.
 
+Nothing else is needed. When the site is published, it automatically adds the image sizes to the page and makes smaller copies where it can, so large posters are fine.
+
 ## Step 6: The director's page
 
 Press **Ctrl+O** and search the director's name. Director pages are in the `Director Profiles` folder.
@@ -359,6 +361,10 @@ Press **Ctrl+O** and search the director's name. Director pages are in the `Dire
 5. Fill in the **Films screened** list with this film, and set the films-screened count to `1`.
 
 ## Step 7: Add the film to the lists
+
+### 7-0. Good to know: the home page and the All Films page
+
+The home page shows the **12 most recently screened** films, Actor Studio and member screenings together (this is `Recent.base`), and links to the **All Films** page (`films.md`), which shows every film as posters or tables. Both fill themselves in from the film notes, so you never edit them by hand. A film appears in the home page strip once its note has a screening date that has already passed, under either `screenings:` or `member_screenings:`. Future dates are ignored until the site is next published after that day.
 
 ### 7a. The film list: `movies/index.md`
 

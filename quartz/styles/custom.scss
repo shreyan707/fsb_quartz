@@ -765,3 +765,39 @@ ul.tags a,
     }
   }
 }
+
+// ============================================================================
+// Accessibility: text contrast (WCAG AA, 4.5:1)
+// ============================================================================
+
+// Active "Pages / Notes" pill in the graph: --secondary on --light is only ~3.2:1
+.graph .graph-mode-toggle button.active {
+  background-color: var(--darkgray);
+  color: var(--light);
+}
+
+// Footer text and links: --gray on the page background is too faint
+footer,
+footer p,
+footer a {
+  color: var(--darkgray);
+}
+
+// <picture> wrappers added by scripts/optimize-images.mjs must not affect layout
+picture {
+  display: contents;
+}
+
+// Phones and tablets: the right sidebar (backlinks, table of contents) is part of
+// the normal page flow, so its lists must not trap touch scrolling. Quartz sets
+// `overscroll-behavior: contain` on them, which stops a swipe that starts on the
+// list from scrolling the page.
+@media all and not ($desktop) {
+  .sidebar.right ul.overflow,
+  .sidebar.right ol.overflow,
+  .sidebar.right .backlinks > ul.overflow {
+    overscroll-behavior: auto;
+    max-height: none;
+    overflow-y: visible;
+  }
+}

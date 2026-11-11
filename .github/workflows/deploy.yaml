@@ -27,6 +27,9 @@ jobs:
           grep -A3 'source: "@quartz-community/og-image"' quartz.config.yaml | grep -q 'enabled: true'
       - run: npx quartz build
       - run: node scripts/fix-tag-links.mjs public
+      - run: node scripts/fix-a11y.mjs public
+      - run: node scripts/split-content-index.mjs public
+      - run: node scripts/optimize-images.mjs public
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public

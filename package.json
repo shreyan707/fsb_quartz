@@ -19,7 +19,8 @@
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
-    "prebuild": "npm run install-plugins"
+    "prebuild": "npm run install-plugins",
+    "postprocess": "node scripts/fix-tag-links.mjs public && node scripts/fix-a11y.mjs public && node scripts/split-content-index.mjs public && node scripts/optimize-images.mjs public"
   },
   "engines": {
     "npm": ">=10.9.2",

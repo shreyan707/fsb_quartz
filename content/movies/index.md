@@ -6,6 +6,8 @@ title: Member Screenings
 
 A curated archive of film screenings organized by **Film Society Bhubaneswar**.
 
+See every film as a poster wall or table on the [[films|All Films]] page.
+
 ## 1930s
 
 - [[movies/1930s/dos-monjes-two-monks-1934|Dos Monjes (Two Monks)]] (1934) – Dir. Juan Bustillo Oro (Mexico)

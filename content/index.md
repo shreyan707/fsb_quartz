@@ -8,6 +8,7 @@ An archive of the films screened by the **Film Society Bhubaneswar**: world cine
 
 ## Start here
 
+- [[films|All Films]]: the full collection, as posters or tables
 - [[movies/index|Member Screenings]]: every film, organised by decade
 - [[Director Profiles/index|Director Profiles]]: profiles of the filmmakers, with photos and biographies
 - [[tags/index|Browse by tag]]: find films by genre, director or year
@@ -17,6 +18,8 @@ An archive of the films screened by the **Film Society Bhubaneswar**: world cine
 
 [[movies/1930s|1930s]] · [[movies/1940s|1940s]] · [[movies/1950s|1950s]] · [[movies/1960s|1960s]] · [[movies/1970s|1970s]] · [[movies/1980s|1980s]] · [[movies/1990s|1990s]] · [[movies/2000s|2000s]] · [[movies/2010s|2010s]] · [[movies/2020s|2020s]]
 
-## The collection
+## Recently screened
 
-![[Films.base]]
+![[Recent.base]]
+
+[[films|See all films →]]
