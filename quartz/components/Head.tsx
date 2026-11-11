@@ -44,6 +44,16 @@ export default (() => {
         <title>{title}</title>
         <meta charSet="utf-8" />
         {coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
+        {cfg.theme.fontOrigin === "local" &&
+          ["IMFellDWPica-Regular", "Inter-latin"].map((font) => (
+            <link
+              rel="preload"
+              href={joinSegments(baseDir, `static/fonts/${font}.woff2`)}
+              as="font"
+              type="font/woff2"
+              crossOrigin="anonymous"
+            />
+          ))}
         {coreScript && coreScript.contentType === "external" && (
           <link rel="preload" href={coreScript.src} as="script" />
         )}

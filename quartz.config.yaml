@@ -103,10 +103,10 @@ plugins:
     options:
       fontOrigin: local
       useThemeFonts: false
-      title: '"Broadsheet", Georgia, serif'
-      header: '"Broadsheet", Georgia, serif'
-      body: '"SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif'
-      interface: '"SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif'
+      title: '"IM Fell DW Pica", "IM Fell DW Pica Fallback", Georgia, serif'
+      header: '"IM Fell DW Pica", "IM Fell DW Pica Fallback", Georgia, serif'
+      body: '"Inter", "Inter Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif'
+      interface: '"Inter", "Inter Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif'
   - source: "@quartz-themes/core"
     enabled: false
     options:
