@@ -10,6 +10,8 @@ genre:
   - "Drama"
 screenings:
   - 2026-08-02
+member_screenings:
+  - 2018-12-01
 poster: "assets/posters/motorcycle-diaries-2004.jpg"
 ---
 
@@ -45,8 +47,9 @@ The second film of the evening will be The Motorcycle Diaries, made in the year 
 
 ## Screenings
 
-- 2 August 2026
+- 1 December 2018 · Member Screening
+- 2 August 2026 · Actor Studio
 
 ## Tags
 
-#Drama #Walter-Salles #2004 #actor_studio #monsoon_2026
+#Drama #Walter-Salles #2004 #actor_studio #monsoon_2026 #member_screening #member_winter_2018

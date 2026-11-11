@@ -8,6 +8,8 @@ country: "Turkey, France, Germany"
 runtime: "97 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2018-11-03
 poster: "assets/posters/mustang-2015.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening is “Mustang” made in the year 2015, directed b
 
 **IMDb Rating:** 7.7
 
+## Screenings
+
+- 3 November 2018 · Member Screening
+
 ## Tags
 
-#Drama #Deniz-Gamze-Erguven #2015
+#Drama #Deniz-Gamze-Erguven #2015 #member_screening #member_winter_2018

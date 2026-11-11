@@ -9,6 +9,8 @@ runtime: "131 min"
 genre:
   - "Crime"
   - "Drama"
+member_screenings:
+  - 2022-12-17
 poster: "assets/posters/a-touch-of-sin-2013.jpg"
 ---
 
@@ -42,6 +44,10 @@ Lee Chang-Dong directed his first film in his forties, born in 1954, he was a su
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 17 December 2022 · Member Screening
+
 ## Tags
 
-#Crime #Drama #Jia-Zhang-Ke #2013
+#Crime #Drama #Jia-Zhang-Ke #2013 #member_screening #member_winter_2022

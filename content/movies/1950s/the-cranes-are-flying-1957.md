@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Romance"
   - "War"
+member_screenings:
+  - 2024-08-24
 poster: "assets/posters/the-cranes-are-flying-1957.jpg"
 ---
 
@@ -43,6 +45,10 @@ The first movie to be screened is The Cranes Are Flying, directed by Russian dir
 
 **IMDb Rating:** 7.9
 
+## Screenings
+
+- 24 August 2024 · Member Screening
+
 ## Tags
 
-#Drama #Romance #War #Mikhail-Kalatozov #1957
+#Drama #Romance #War #Mikhail-Kalatozov #1957 #member_screening #member_monsoon_2024

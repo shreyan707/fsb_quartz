@@ -9,6 +9,8 @@ runtime: "83 min"
 genre:
   - "Drama"
   - "Adventure"
+member_screenings:
+  - 2019-10-26
 poster: "assets/posters/where-is-the-friend-s-house-1987.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening will be Where is the Friend's House?, made in the
 
 **IMDb Rating:** 7.9
 
+## Screenings
+
+- 26 October 2019 · Member Screening
+
 ## Tags
 
-#Drama #Adventure #Abbas-Kiarostami #1987
+#Drama #Adventure #Abbas-Kiarostami #1987 #member_screening #member_winter_2019

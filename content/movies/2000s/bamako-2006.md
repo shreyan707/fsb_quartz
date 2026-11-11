@@ -8,6 +8,8 @@ country: "France, Mali, United States of America"
 runtime: "115 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2023-11-11
 poster: "assets/posters/bamako-2006.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening is Bamako directed by Abderrahmane Sissako, releas
 
 **IMDb Rating:** 7.0
 
+## Screenings
+
+- 11 November 2023 · Member Screening
+
 ## Tags
 
-#Drama #Abderrahmane-Sissako #2006
+#Drama #Abderrahmane-Sissako #2006 #member_screening #member_winter_2023

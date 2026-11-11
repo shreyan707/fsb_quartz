@@ -8,6 +8,8 @@ country: "India"
 runtime: "128 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2020-03-07
 poster: "assets/posters/akaler-sandhaney-1982.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening will be Akaler Sandhaney (In Search of a Famine), 
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 7 March 2020 · Member Screening
+
 ## Tags
 
-#Drama #Mrinal-Sen #1982
+#Drama #Mrinal-Sen #1982 #member_screening #member_summer_2020

@@ -10,6 +10,8 @@ genre:
   - "Crime"
   - "Drama"
   - "Comedy"
+member_screenings:
+  - 2019-07-27
 poster: "assets/posters/a-band-of-outsiders-1964.jpg"
 ---
 
@@ -43,6 +45,10 @@ The second film of the evening is “A band of Outsiders” made in the year 196
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 27 July 2019 · Member Screening
+
 ## Tags
 
-#Crime #Drama #Comedy #Jean-Luc-Godard #1964
+#Crime #Drama #Comedy #Jean-Luc-Godard #1964 #member_screening #member_monsoon_2019

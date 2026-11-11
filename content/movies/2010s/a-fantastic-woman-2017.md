@@ -10,6 +10,8 @@ genre:
   - "Drama"
 screenings:
   - 2022-11-13
+member_screenings:
+  - 2023-11-11
 poster: "assets/posters/a-fantastic-woman-2017.jpg"
 ---
 
@@ -45,8 +47,9 @@ The second film of the evening is A Fantastic Woman, directed by Sebastian Lelio
 
 ## Screenings
 
-- 13 November 2022
+- 13 November 2022 · Actor Studio
+- 11 November 2023 · Member Screening
 
 ## Tags
 
-#Drama #Sebastian-Lelio #2017 #actor_studio #winter_2022
+#Drama #Sebastian-Lelio #2017 #actor_studio #winter_2022 #member_screening #member_winter_2023

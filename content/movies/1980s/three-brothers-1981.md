@@ -8,6 +8,8 @@ country: "France, Italy"
 runtime: "113 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-03-28
 poster: "assets/posters/three-brothers-1981.jpg"
 ---
 
@@ -41,6 +43,10 @@ Three Brothers (Tre Fratelli) explores complex social and political issues throu
 
 **IMDb Rating:** 6.3
 
+## Screenings
+
+- 28 March 2025 · Member Screening
+
 ## Tags
 
-#Drama #Francesco-Rosi #1981
+#Drama #Francesco-Rosi #1981 #member_screening #member_summer_2025

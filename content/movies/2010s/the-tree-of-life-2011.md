@@ -9,6 +9,8 @@ runtime: "139 min"
 genre:
   - "Drama"
   - "Fantasy"
+member_screenings:
+  - 2018-11-18
 poster: "assets/posters/the-tree-of-life-2011.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening “The Tree of Life”made in the year 2011, dire
 
 **IMDb Rating:** 6.7
 
+## Screenings
+
+- 18 November 2018 · Member Screening
+
 ## Tags
 
-#Drama #Fantasy #Terrence-Mallick #2011
+#Drama #Fantasy #Terrence-Mallick #2011 #member_screening #member_winter_2018

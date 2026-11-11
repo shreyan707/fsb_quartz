@@ -9,6 +9,8 @@ runtime: "163 min"
 genre:
   - "Drama"
   - "History"
+member_screenings:
+  - 2022-12-18
 poster: "assets/posters/the-last-emperor-1987.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film of the evening will be The Last Emperor (1987) by the Italian dir
 
 **IMDb Rating:** 7.6
 
+## Screenings
+
+- 18 December 2022 · Member Screening
+
 ## Tags
 
-#Drama #History #Bernardo-Bertolucci #1987
+#Drama #History #Bernardo-Bertolucci #1987 #member_screening #member_winter_2022

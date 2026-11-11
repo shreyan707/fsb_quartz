@@ -9,6 +9,8 @@ runtime: "128 min"
 genre:
   - "Fantasy"
   - "Drama"
+member_screenings:
+  - 2025-01-18
 poster: "assets/posters/endless-poetry-2016.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening is Endless Poetry by Chilean director Alejandro J
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 18 January 2025 · Member Screening
+
 ## Tags
 
-#Fantasy #Drama #Alej #ro-Jodorowsky #2016
+#Fantasy #Drama #Alej #ro-Jodorowsky #2016 #member_screening #member_winter_2024

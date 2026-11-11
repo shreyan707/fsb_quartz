@@ -9,6 +9,8 @@ runtime: "84 min"
 genre:
   - "Drama"
   - "Comedy"
+member_screenings:
+  - 2024-10-24
 poster: "assets/posters/two-girls-on-the-street-1939.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first movie to be screened is Two Girls on the Street, directed by Hungarian
 
 **IMDb Rating:** 7.0
 
+## Screenings
+
+- 24 October 2024 · Member Screening
+
 ## Tags
 
-#Drama #Comedy #Andre-De-Toth #1939
+#Drama #Comedy #Andre-De-Toth #1939 #member_screening #member_winter_2024

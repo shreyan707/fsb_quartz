@@ -8,6 +8,8 @@ country: "Italy"
 runtime: "101 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2026-03-07
 poster: "assets/posters/hands-over-the-city-1963.jpg"
 ---
 
@@ -41,6 +43,10 @@ Francesco Rosi's Hands over the City is an expose of the politically driven real
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 7 March 2026 · Member Screening
+
 ## Tags
 
-#Drama #Francesco-Rosi #1963
+#Drama #Francesco-Rosi #1963 #member_screening #member_summer_2026

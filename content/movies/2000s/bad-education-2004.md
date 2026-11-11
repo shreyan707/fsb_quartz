@@ -9,6 +9,8 @@ runtime: "105 min"
 genre:
   - "Drama"
   - "Crime"
+member_screenings:
+  - 2018-12-15
 poster: "assets/posters/bad-education-2004.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening is “Bad Education” made in the year 2004, dir
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 15 December 2018 · Member Screening
+
 ## Tags
 
-#Drama #Crime #Pedro-Almodovar #2004
+#Drama #Crime #Pedro-Almodovar #2004 #member_screening #member_winter_2018

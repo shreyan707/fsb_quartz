@@ -9,6 +9,8 @@ runtime: "97 min"
 genre:
   - "Drama"
   - "History"
+member_screenings:
+  - 2018-12-01
 poster: "assets/posters/day-of-wrath-1943.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film of the evening will be Day of Wrath, made in the year 1943, by Ca
 
 **IMDb Rating:** 8.0
 
+## Screenings
+
+- 1 December 2018 · Member Screening
+
 ## Tags
 
-#Drama #History #Carl-T-Dreyer #1943
+#Drama #History #Carl-T-Dreyer #1943 #member_screening #member_winter_2018

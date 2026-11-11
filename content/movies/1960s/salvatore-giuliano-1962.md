@@ -10,6 +10,8 @@ genre:
   - "Crime"
   - "Drama"
   - "History"
+member_screenings:
+  - 2026-02-28
 poster: "assets/posters/salvatore-giuliano-1962.jpg"
 ---
 
@@ -43,6 +45,10 @@ A bullet-riddled corpse is found facedown in a courtyard in Castelvetrano, a han
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 28 February 2026 · Member Screening
+
 ## Tags
 
-#Crime #Drama #History #Francesco-Rosi #1962
+#Crime #Drama #History #Francesco-Rosi #1962 #member_screening #member_winter_2025

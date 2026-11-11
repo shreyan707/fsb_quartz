@@ -8,6 +8,8 @@ country: "United States of America, Argentina, Chile, France, Spain"
 runtime: "108 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2024-11-09
 poster: "assets/posters/neruda-2016.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second screening is of the movie Neruda, directed by Pablo Larrain. Chile, 1
 
 **IMDb Rating:** 6.3
 
+## Screenings
+
+- 9 November 2024 · Member Screening
+
 ## Tags
 
-#Drama #Pablo-Larrain #2016
+#Drama #Pablo-Larrain #2016 #member_screening #member_winter_2024

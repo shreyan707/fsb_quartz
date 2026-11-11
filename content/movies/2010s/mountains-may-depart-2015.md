@@ -9,6 +9,8 @@ runtime: "127 min"
 genre:
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2022-12-18
 poster: "assets/posters/mountains-may-depart-2015.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening will be Mountains May Depart, made in the year 20
 
 **IMDb Rating:** 7.0
 
+## Screenings
+
+- 18 December 2022 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Jia-Zhang-Ke #2015
+#Drama #Romance #Jia-Zhang-Ke #2015 #member_screening #member_winter_2022

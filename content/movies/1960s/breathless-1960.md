@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Crime"
   - "Romance"
+member_screenings:
+  - 2019-07-27
 poster: "assets/posters/breathless-1960.jpg"
 ---
 
@@ -43,6 +45,10 @@ The first film of the evening is “Breathless” made in the year 1960, directe
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 27 July 2019 · Member Screening
+
 ## Tags
 
-#Drama #Crime #Romance #Jean-Luc-Godard #1960
+#Drama #Crime #Romance #Jean-Luc-Godard #1960 #member_screening #member_monsoon_2019

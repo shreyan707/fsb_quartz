@@ -9,6 +9,8 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2023-02-25
 poster: "assets/posters/in-the-mood-for-love-2000.jpg"
 ---
 
@@ -42,6 +44,10 @@ The breakthrough sophomore feature by Wong Kar Wai represents the first full flo
 
 **IMDb Rating:** 8.1
 
+## Screenings
+
+- 25 February 2023 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Wong-Kar-Wai #2000
+#Drama #Romance #Wong-Kar-Wai #2000 #member_screening #member_winter_2022

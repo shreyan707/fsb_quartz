@@ -9,6 +9,8 @@ runtime: "114 min"
 genre:
   - "Crime"
   - "Drama"
+member_screenings:
+  - 2023-04-15
 poster: "assets/posters/black-river-1956.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film of the evening, Black River, made in 1956, examines the moral cor
 
 **IMDb Rating:** 7.0
 
+## Screenings
+
+- 15 April 2023 · Member Screening
+
 ## Tags
 
-#Crime #Drama #Masaki-Kobayashi #1956
+#Crime #Drama #Masaki-Kobayashi #1956 #member_screening #member_summer_2023

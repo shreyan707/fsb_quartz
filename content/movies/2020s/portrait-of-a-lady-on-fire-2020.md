@@ -11,6 +11,8 @@ genre:
   - "Romance"
 screenings:
   - 2026-11-01
+member_screenings:
+  - 2023-11-25
 poster: "assets/posters/portrait-of-a-lady-on-fire-2020.jpg"
 ---
 
@@ -66,8 +68,9 @@ The film is made without the typical inevitables: men, musical score, and confli
 
 ## Screenings
 
-- 1 November 2026
+- 25 November 2023 · Member Screening
+- 1 November 2026 · Actor Studio
 
 ## Tags
 
-#Drama #Romance #Celine-Sciamma #2020 #actor_studio #winter_2026
+#Drama #Romance #Celine-Sciamma #2020 #actor_studio #winter_2026 #member_screening #member_winter_2023

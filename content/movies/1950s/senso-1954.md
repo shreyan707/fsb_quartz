@@ -10,6 +10,8 @@ genre:
   - "Romance"
   - "Drama"
   - "War"
+member_screenings:
+  - 2025-04-25
 poster: "assets/posters/senso-1954.jpg"
 ---
 
@@ -43,6 +45,10 @@ The story of a nineteenth-century Italian countess, during the Austrian occupati
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 25 April 2025 · Member Screening
+
 ## Tags
 
-#Romance #Drama #War #Luchino-Visconti #1954
+#Romance #Drama #War #Luchino-Visconti #1954 #member_screening #member_summer_2025

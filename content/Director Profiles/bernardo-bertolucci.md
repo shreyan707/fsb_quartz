@@ -36,6 +36,6 @@ Description above from the Wikipedia article Bernardo Bertolucci, licensed under
 
 ## Films screened
 
-- [[movies/1970s/1900-1977|1900]] (1977)
-- [[movies/1970s/1900-1977-2|1900]] (1977)
+- [[movies/1970s/1900-part-1-1977|1900 Part 1]] (1977)
+- [[movies/1970s/1900-part-2-1977|1900 Part 2]] (1977)
 - [[movies/1980s/the-last-emperor-1987|The Last Emperor]] (1987)

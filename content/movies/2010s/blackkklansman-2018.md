@@ -10,6 +10,8 @@ genre:
   - "Crime"
   - "Drama"
   - "History"
+member_screenings:
+  - 2025-03-08
 poster: "assets/posters/blackkklansman-2018.jpg"
 ---
 
@@ -43,6 +45,10 @@ Spike Lee’s "BlacKkKlansman" (2018) is set in the early 1970s, when Ron Stallw
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 8 March 2025 · Member Screening
+
 ## Tags
 
-#Crime #Drama #History #Spike-Lee #2018
+#Crime #Drama #History #Spike-Lee #2018 #member_screening #member_summer_2025

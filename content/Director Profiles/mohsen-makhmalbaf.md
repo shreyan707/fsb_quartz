@@ -4,7 +4,7 @@ tags:
   - director
 tmdb_id: 120226
 photo: "[[assets/director-profiles/mohsen-makhmalbaf.webp]]"
-films_screened: 1
+films_screened: 3
 ---
 
 <p class="director-label">Director</p>
@@ -14,7 +14,7 @@ films_screened: 1
 <div class="director-facts">
 
 - **Born:** 1957-05-29, Tehran, Iran
-- **Films screened:** 1
+- **Films screened:** 3
 
 From Wikipedia, the free encyclopedia. Mohsen Makhmalbaf (Mohsen Mäxmälbaf, born May 29, 1957) is an Iranian film director, writer, editor, and producer.
 
@@ -36,3 +36,5 @@ Description above from the Wikipedia article Mohsen Makhmalbaf, licensed under C
 ## Films screened
 
 - [[movies/1990s/gabbeh-1996|Gabbeh]] (1996)
+- [[movies/1990s/the-silence-1998|The Silence]] (1998)
+- [[movies/2010s/the-gardener-2012|The Gardener]] (2012)

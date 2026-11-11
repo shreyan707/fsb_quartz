@@ -8,6 +8,8 @@ country: "Denmark"
 runtime: "125 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2018-12-15
 poster: "assets/posters/ordet-1955.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening is “Ordet” made in the year 1955, directed by 
 
 **IMDb Rating:** 7.9
 
+## Screenings
+
+- 15 December 2018 · Member Screening
+
 ## Tags
 
-#Drama #Carl-T-Dreyer #1955
+#Drama #Carl-T-Dreyer #1955 #member_screening #member_winter_2018

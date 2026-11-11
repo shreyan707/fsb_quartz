@@ -8,6 +8,8 @@ country: "Ethiopia, United States of America"
 runtime: "120 min"
 genre:
   - "Documentary"
+member_screenings:
+  - 2025-10-25
 poster: "assets/posters/fayadayi-2021.jpg"
 ---
 
@@ -41,6 +43,10 @@ A debut feature of Ethiopian Filmmaker Jessica Beshir, set in rural Ethiopia, is
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 25 October 2025 · Member Screening
+
 ## Tags
 
-#Documentary #Jessica-Beshir #2021
+#Documentary #Jessica-Beshir #2021 #member_screening #member_winter_2025

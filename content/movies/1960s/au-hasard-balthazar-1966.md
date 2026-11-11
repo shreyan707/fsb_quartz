@@ -8,6 +8,8 @@ country: "France, Sweden"
 runtime: "96 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-09-13
 poster: "assets/posters/au-hasard-balthazar-1966.jpg"
 ---
 
@@ -41,6 +43,10 @@ A profound masterpiece from one of the most revered filmmakers in the history of
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 13 September 2025 · Member Screening
+
 ## Tags
 
-#Drama #Robert-Bresson #1966
+#Drama #Robert-Bresson #1966 #member_screening #member_monsoon_2025

@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Romance"
   - "Comedy"
+member_screenings:
+  - 2019-12-28
 poster: "assets/posters/the-diary-of-a-chambermaid-1967.jpg"
 ---
 
@@ -43,6 +45,10 @@ The second film of the evening will be The Diary of a Chambermaid, made in the y
 
 **IMDb Rating:** 6.2
 
+## Screenings
+
+- 28 December 2019 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Comedy #Luis-Bunuel #1967
+#Drama #Romance #Comedy #Luis-Bunuel #1967 #member_screening #member_winter_2019

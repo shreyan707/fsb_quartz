@@ -8,6 +8,8 @@ country: "Chile, France, Germany"
 runtime: "93 min"
 genre:
   - "Documentary"
+member_screenings:
+  - 2026-03-07
 poster: "assets/posters/nostalgia-for-the-light-2010.jpg"
 ---
 
@@ -41,6 +43,10 @@ The Atacama Desert is one of the driest places in the world, it’s a high-altit
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 7 March 2026 · Member Screening
+
 ## Tags
 
-#Documentary #Patricio-Guzman #2010
+#Documentary #Patricio-Guzman #2010 #member_screening #member_summer_2026

@@ -8,6 +8,8 @@ country: "Iran"
 runtime: "78 min"
 genre:
   - "Documentary"
+member_screenings:
+  - 2019-10-26
 poster: "assets/posters/homework-1989.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening will be Homework, made in the year 1989 by Iranian
 
 **IMDb Rating:** 7.6
 
+## Screenings
+
+- 26 October 2019 · Member Screening
+
 ## Tags
 
-#Documentary #Abbas-Kiarostami #1989
+#Documentary #Abbas-Kiarostami #1989 #member_screening #member_winter_2019

@@ -9,6 +9,8 @@ runtime: "96 min"
 genre:
   - "Drama"
   - "War"
+member_screenings:
+  - 2024-01-13
 poster: "assets/posters/timbuktu-2014.jpg"
 ---
 
@@ -42,6 +44,10 @@ In the acclaimed new film by Abderrahmane Sissako (Bamako) the people of the Mal
 
 **IMDb Rating:** 7.0
 
+## Screenings
+
+- 13 January 2024 · Member Screening
+
 ## Tags
 
-#Drama #War #Abderrahmane-Sissako #2014
+#Drama #War #Abderrahmane-Sissako #2014 #member_screening #member_winter_2023

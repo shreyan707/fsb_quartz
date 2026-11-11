@@ -9,6 +9,8 @@ runtime: "90 min"
 genre:
   - "Documentary"
   - "Music"
+member_screenings:
+  - 2022-09-29
 poster: "assets/posters/trances-1981.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film to be screened is Trances, directed by Ahmed El Maanouni. The Mor
 
 **IMDb Rating:** 6.7
 
+## Screenings
+
+- 29 September 2022 · Member Screening
+
 ## Tags
 
-#Documentary #Music #Ahmed-El-Maanouni #1981
+#Documentary #Music #Ahmed-El-Maanouni #1981 #member_screening #member_monsoon_2022

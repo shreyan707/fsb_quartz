@@ -8,6 +8,8 @@ country: "Germany"
 runtime: "82 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2020-01-11
 poster: "assets/posters/woyczek-1979.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening will be Woyczek, made in the year 1979, directed b
 
 **IMDb Rating:** 6.6
 
+## Screenings
+
+- 11 January 2020 · Member Screening
+
 ## Tags
 
-#Drama #Wener-Herzog #1979
+#Drama #Wener-Herzog #1979 #member_screening #member_winter_2019

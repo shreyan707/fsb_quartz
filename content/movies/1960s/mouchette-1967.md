@@ -8,6 +8,8 @@ country: "France"
 runtime: "81 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-10-11
 poster: "assets/posters/mouchette-1967.jpg"
 ---
 
@@ -41,6 +43,10 @@ Introducing a major film maker, Robert Bresson, a major figure in the history of
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 11 October 2025 · Member Screening
+
 ## Tags
 
-#Drama #Robert-Bresson #1967
+#Drama #Robert-Bresson #1967 #member_screening #member_winter_2025

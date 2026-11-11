@@ -14,6 +14,8 @@ tags:
 | 2 | 11 October 2026 | [[movies/2020s/land-of-my-dreams-2023\|Land of My Dreams]] | 2023 | Nausheen Khan |
 | 3 | 18 October 2026 | [[movies/2010s/the-world-before-her-2012\|The World Before Her]] | 2012 | Nisha Pahuja |
 | 4 | 25 October 2026 | [[movies/2020s/father-mother-sister-brother-2025\|Father Mother Sister Brother]] | 2025 | Jim Jarmusch |
-| 5 | 1 November 2026 | [[movies/2020s/portrait-of-a-lady-on-fire-2020\|Portrait of a Lady on Fire]] | 2020 | Celine Sciamma |
+| 5 | 1 November 2026 | [[movies/2020s/portrait-of-a-lady-on-fire-2020\|Portrait of a Lady on Fire]] ★ | 2020 | Celine Sciamma |
+
+★ Also screened in the [[member-screenings/index|Member Screenings]].
 
 [[actor-studio/index|← All Actor Studio seasons]]

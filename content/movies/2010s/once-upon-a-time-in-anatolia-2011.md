@@ -9,6 +9,8 @@ runtime: "163 min"
 genre:
   - "Drama"
   - "Crime"
+member_screenings:
+  - 2019-08-03
 poster: "assets/posters/once-upon-a-time-in-anatolia-2011.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening is “Once Upon A Time In Anatolia” made in the
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 3 August 2019 · Member Screening
+
 ## Tags
 
-#Drama #Crime #Nuri-Bilge-Ceylan #2011
+#Drama #Crime #Nuri-Bilge-Ceylan #2011 #member_screening #member_monsoon_2019

@@ -8,6 +8,8 @@ country: "France, Italy"
 runtime: "142 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-04-19
 poster: "assets/posters/the-great-beauty-la-grande-bellezza-2013.jpg"
 ---
 
@@ -41,6 +43,10 @@ poster: "assets/posters/the-great-beauty-la-grande-bellezza-2013.jpg"
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 19 April 2025 · Member Screening
+
 ## Tags
 
-#Drama #Paolo-Sorrentino #2013
+#Drama #Paolo-Sorrentino #2013 #member_screening #member_summer_2025

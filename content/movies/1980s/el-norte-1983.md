@@ -9,6 +9,8 @@ runtime: "141 min"
 genre:
   - "Adventure"
   - "Drama"
+member_screenings:
+  - 2026-02-28
 poster: "assets/posters/el-norte-1983.jpg"
 ---
 
@@ -42,6 +44,10 @@ Brother and sister Enrique and Rosa flee persecution at home in Guatemala and jo
 
 **IMDb Rating:** 7.1
 
+## Screenings
+
+- 28 February 2026 · Member Screening
+
 ## Tags
 
-#Adventure #Drama #Gregory-Nava-Kiche #1983
+#Adventure #Drama #Gregory-Nava-Kiche #1983 #member_screening #member_winter_2025

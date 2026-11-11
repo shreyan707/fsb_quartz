@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Comedy"
   - "Romance"
+member_screenings:
+  - 2026-10-24
 poster: "assets/posters/the-rules-of-the-game-1939.jpg"
 ---
 
@@ -45,6 +47,10 @@ At the cusp of the second world war, the film explores the corruption of the Fre
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 24 October 2026 · Member Screening
+
 ## Tags
 
-#Drama #Comedy #Romance #Jean-Renoir #1939
+#Drama #Comedy #Romance #Jean-Renoir #1939 #member_screening #member_winter_2026

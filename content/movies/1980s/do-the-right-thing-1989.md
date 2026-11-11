@@ -8,6 +8,8 @@ country: "United States of America"
 runtime: "120 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2024-03-23
 poster: "assets/posters/do-the-right-thing-1989.jpg"
 ---
 
@@ -41,6 +43,10 @@ The film is set in the hottest day of summer, when racial tensions reach a boili
 
 **IMDb Rating:** 7.8
 
+## Screenings
+
+- 23 March 2024 · Member Screening
+
 ## Tags
 
-#Drama #Spike-Lee #1989
+#Drama #Spike-Lee #1989 #member_screening #member_summer_2024

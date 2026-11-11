@@ -8,6 +8,8 @@ country: "Belgium, Luxembourg, Tunisia"
 runtime: "94 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2019-12-14
 poster: "assets/posters/la-promesse-1996.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening will be La Promesse, made in the year 1996, La pr
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 14 December 2019 · Member Screening
+
 ## Tags
 
-#Drama #Luc #Jean-Pierre-Dardenne #1996
+#Drama #Luc #Jean-Pierre-Dardenne #1996 #member_screening #member_winter_2019

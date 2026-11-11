@@ -9,6 +9,8 @@ runtime: "133 min"
 genre:
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2026-10-24
 poster: "assets/posters/the-red-shoes-1948.jpg"
 ---
 
@@ -44,6 +46,10 @@ The second screening of the evening is a film by Powell & Pressburger, the life 
 
 **IMDb Rating:** 8.0
 
+## Screenings
+
+- 24 October 2026 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Michael-Powell #Emeric-Pressburger #1948
+#Drama #Romance #Michael-Powell #Emeric-Pressburger #1948 #member_screening #member_winter_2026

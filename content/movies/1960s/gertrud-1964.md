@@ -9,6 +9,8 @@ runtime: "119 min"
 genre:
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2019-01-05
 poster: "assets/posters/gertrud-1964.jpg"
 ---
 
@@ -42,6 +44,10 @@ Our retrospective of Carl Dreyer ends with his last film of his career, Gertrud.
 
 **IMDb Rating:** 7.3
 
+## Screenings
+
+- 5 January 2019 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Carl-T-Dreyer #1964
+#Drama #Romance #Carl-T-Dreyer #1964 #member_screening #member_winter_2018

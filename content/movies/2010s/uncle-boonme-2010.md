@@ -9,6 +9,8 @@ runtime: "114 min"
 genre:
   - "Drama"
   - "Fantasy"
+member_screenings:
+  - 2023-08-20
 poster: "assets/posters/uncle-boonme-2010.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film of the evening is Uncle Boonme who can recall his past lives by t
 
 **IMDb Rating:** 6.6
 
+## Screenings
+
+- 20 August 2023 · Member Screening
+
 ## Tags
 
-#Drama #Fantasy #Apichatpong-Weerasethakul #2010
+#Drama #Fantasy #Apichatpong-Weerasethakul #2010 #member_screening #member_monsoon_2023

@@ -9,6 +9,8 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Fantasy"
+member_screenings:
+  - 2026-08-08
 poster: "assets/posters/the-spirit-of-the-beehive-1973.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second screening of the evening is a film in our Classics Revisited section.
 
 **IMDb Rating:** 7.6
 
+## Screenings
+
+- 8 August 2026 · Member Screening
+
 ## Tags
 
-#Drama #Fantasy #Victor-Erice #1973
+#Drama #Fantasy #Victor-Erice #1973 #member_screening #member_monsoon_2026

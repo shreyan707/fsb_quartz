@@ -9,6 +9,8 @@ runtime: "99 min"
 genre:
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2026-10-10
 poster: "assets/posters/the-river-1951.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second screening of the evening is a film from the master French film maker 
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 10 October 2026 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Jean-Renoir #1951
+#Drama #Romance #Jean-Renoir #1951 #member_screening #member_winter_2026

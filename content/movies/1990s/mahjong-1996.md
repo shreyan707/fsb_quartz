@@ -10,6 +10,8 @@ genre:
   - "Comedy"
   - "Drama"
   - "Crime"
+member_screenings:
+  - 2025-10-25
 poster: "assets/posters/mahjong-1996.jpg"
 ---
 
@@ -43,6 +45,10 @@ Edward Yang’s follow-up to A Confucian Confusion is another dizzying comedy se
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 25 October 2025 · Member Screening
+
 ## Tags
 
-#Comedy #Drama #Crime #Edward-Yang #1996
+#Comedy #Drama #Crime #Edward-Yang #1996 #member_screening #member_winter_2025

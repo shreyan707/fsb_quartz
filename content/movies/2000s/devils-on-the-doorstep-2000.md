@@ -9,6 +9,8 @@ runtime: "139 min"
 genre:
   - "Drama"
   - "War"
+member_screenings:
+  - 2023-03-25
 poster: "assets/posters/devils-on-the-doorstep-2000.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening will be Devils on the Doorstep by Jiang Wen relea
 
 **IMDb Rating:** 8.2
 
+## Screenings
+
+- 25 March 2023 · Member Screening
+
 ## Tags
 
-#Drama #War #Jiang-Wen #2000
+#Drama #War #Jiang-Wen #2000 #member_screening #member_summer_2023

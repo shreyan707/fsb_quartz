@@ -8,6 +8,8 @@ country: "Senegal"
 runtime: "101 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-11-22
 poster: "assets/posters/emitai-1971.jpg"
 ---
 
@@ -41,6 +43,10 @@ Ousmane Sembène chronicles a period during World War II when French colonial fo
 
 **IMDb Rating:** 7.3
 
+## Screenings
+
+- 22 November 2025 · Member Screening
+
 ## Tags
 
-#Drama #Ousmane-Sembene #1971
+#Drama #Ousmane-Sembene #1971 #member_screening #member_winter_2025

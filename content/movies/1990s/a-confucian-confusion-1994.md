@@ -10,6 +10,8 @@ genre:
   - "Comedy"
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2025-10-11
 poster: "assets/posters/a-confucian-confusion-1994.jpg"
 ---
 
@@ -43,6 +45,10 @@ The film is set in the world of Young Taipei Professionals, who are rich and fam
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 11 October 2025 · Member Screening
+
 ## Tags
 
-#Comedy #Drama #Romance #Edward-Yang #1994
+#Comedy #Drama #Romance #Edward-Yang #1994 #member_screening #member_winter_2025

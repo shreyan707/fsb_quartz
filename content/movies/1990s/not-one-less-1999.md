@@ -8,6 +8,8 @@ country: "China, Hong Kong, United States of America"
 runtime: "106 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2023-04-15
 poster: "assets/posters/not-one-less-1999.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening is the mandarin film, Not one Less by Zhang Yimou
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 15 April 2023 · Member Screening
+
 ## Tags
 
-#Drama #Zhang-Yimou #1999
+#Drama #Zhang-Yimou #1999 #member_screening #member_summer_2023

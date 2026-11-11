@@ -8,6 +8,8 @@ country: "United Kingdom"
 runtime: "100 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2026-10-10
 poster: "assets/posters/black-narcissus-1947.jpg"
 ---
 
@@ -41,6 +43,10 @@ Based on Rumer Godden’s 1939 novel, Black Narcissus tells the story of five An
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 10 October 2026 · Member Screening
+
 ## Tags
 
-#Drama #Michael-Powell #Emeric-Pressburger #1947
+#Drama #Michael-Powell #Emeric-Pressburger #1947 #member_screening #member_winter_2026

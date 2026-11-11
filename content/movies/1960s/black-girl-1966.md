@@ -10,6 +10,8 @@ genre:
   - "Drama"
 screenings:
   - 2024-12-29
+member_screenings:
+  - 2023-12-16
 poster: "assets/posters/black-girl-1966.jpg"
 ---
 
@@ -45,8 +47,9 @@ The first film of the evening is Black Girl, directed by Ousmane Sembene release
 
 ## Screenings
 
-- 29 December 2024
+- 16 December 2023 · Member Screening
+- 29 December 2024 · Actor Studio
 
 ## Tags
 
-#Drama #Ousmane-Sembene #1966 #actor_studio #winter_2024
+#Drama #Ousmane-Sembene #1966 #actor_studio #winter_2024 #member_screening #member_winter_2023

@@ -9,6 +9,8 @@ runtime: "74 min"
 genre:
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2019-11-16
 poster: "assets/posters/shadows-in-paradise-1986.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film of the evening will be Shadows in Paradise, made in the year 1986
 
 **IMDb Rating:** 7.3
 
+## Screenings
+
+- 16 November 2019 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Aki-Kaurismaki #1986
+#Drama #Romance #Aki-Kaurismaki #1986 #member_screening #member_winter_2019

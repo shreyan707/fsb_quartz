@@ -9,6 +9,8 @@ runtime: "103 min"
 genre:
   - "Drama"
   - "History"
+member_screenings:
+  - 2019-01-05
 poster: "assets/posters/even-the-rain-2010.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening is by Iciar Bollain. The film is set in and aroun
 
 **IMDb Rating:** 7.0
 
+## Screenings
+
+- 5 January 2019 · Member Screening
+
 ## Tags
 
-#Drama #History #Iciar-Bollain #2010
+#Drama #History #Iciar-Bollain #2010 #member_screening #member_winter_2018

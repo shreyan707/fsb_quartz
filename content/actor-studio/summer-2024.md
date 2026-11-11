@@ -11,7 +11,7 @@ tags:
 | # | Date | Film | Year | Director |
 |---|---|---|---|---|
 | 1 | 3 March 2024 | [[movies/2000s/videocracy-2009\|Videocracy]] | 2009 | Erik Gandini |
-| 2 | 10 March 2024 | [[movies/1960s/love-meetings-comizi-d-amore-1964\|Love Meetings (Comizi D'Amore)]] | 1964 | Pier Paolo Pasolini |
+| 2 | 10 March 2024 | [[movies/1960s/love-meetings-comizi-d-amore-1964\|Love Meetings (Comizi D'Amore)]] ★ | 1964 | Pier Paolo Pasolini |
 | 3 | 17 March 2024 | [[movies/2020s/bardo-false-chronicle-of-a-handful-of-truths-2022\|BARDO, False Chronicle of a Handful of Truths]] | 2022 | Alejandro G. Iñárritu |
 | 4 | 31 March 2024 | [[movies/2020s/land-of-my-dreams-2023\|Land of My Dreams]] | 2023 | Nausheen Khan |
 | 5 | 7 April 2024 | [[movies/2000s/amores-perros-2000\|Amores Perros]] | 2000 | Alejandro G. Iñárritu |
@@ -27,5 +27,7 @@ tags:
 | 15 | 16 June 2024 | [[movies/1990s/all-about-my-mother-1999\|All About My Mother]] | 1999 | Pedro Almodóvar |
 | 16 | 23 June 2024 | [[movies/2010s/rafiki-2018\|Rafiki]] | 2018 | Wanuri Kahiu |
 | 17 | 30 June 2024 | [[movies/1960s/funeral-parade-of-roses-1969\|Funeral Parade of Roses]] | 1969 | Toshio Matsumoto |
+
+★ Also screened in the [[member-screenings/index|Member Screenings]].
 
 [[actor-studio/index|← All Actor Studio seasons]]

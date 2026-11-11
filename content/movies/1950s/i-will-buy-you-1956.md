@@ -8,6 +8,8 @@ country: "Japan"
 runtime: "111 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2023-04-22
 poster: "assets/posters/i-will-buy-you-1956.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening, I Will Buy You, made in 1956, examines the corrup
 
 **IMDb Rating:** 7.1
 
+## Screenings
+
+- 22 April 2023 · Member Screening
+
 ## Tags
 
-#Drama #Masaki-Kobayashi #1956
+#Drama #Masaki-Kobayashi #1956 #member_screening #member_summer_2023

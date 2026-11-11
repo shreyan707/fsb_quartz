@@ -9,6 +9,8 @@ runtime: "202 min"
 genre:
   - "Drama"
   - "History"
+member_screenings:
+  - 2024-03-09
 poster: "assets/posters/malcolm-x-1992.jpg"
 ---
 
@@ -42,6 +44,10 @@ One of the major public figures of the 20th Century - Malcolm X- is brought to t
 
 **IMDb Rating:** 7.6
 
+## Screenings
+
+- 9 March 2024 · Member Screening
+
 ## Tags
 
-#Drama #History #Spike-Lee #1992
+#Drama #History #Spike-Lee #1992 #member_screening #member_summer_2024

@@ -8,6 +8,8 @@ country: "Italy"
 runtime: "110 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-03-29
 poster: "assets/posters/mama-roma-1962.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first screening of the evening belongs to our classics section and presents 
 
 **IMDb Rating:** 7.9
 
+## Screenings
+
+- 29 March 2025 · Member Screening
+
 ## Tags
 
-#Drama #Pier-Paolo-Pasolini #1962
+#Drama #Pier-Paolo-Pasolini #1962 #member_screening #member_summer_2025

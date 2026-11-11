@@ -9,6 +9,8 @@ runtime: "140 min"
 genre:
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2019-03-30
 poster: "assets/posters/the-makioka-sisters-1983.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening is “The Makioka Sisters” made in the year 198
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 30 March 2019 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Kon-Ichikawa #1983
+#Drama #Romance #Kon-Ichikawa #1983 #member_screening #member_summer_2019

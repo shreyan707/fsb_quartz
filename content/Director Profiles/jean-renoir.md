@@ -4,7 +4,7 @@ tags:
   - director
 tmdb_id: 11528
 photo: "[[assets/director-profiles/jean-renoir.webp]]"
-films_screened: 2
+films_screened: 3
 ---
 
 <p class="director-label">Director</p>
@@ -15,7 +15,7 @@ films_screened: 2
 
 - **Born:** 1894-09-15, Paris, France
 - **Died:** 1979-02-12
-- **Films screened:** 2
+- **Films screened:** 3
 
 Jean Renoir (15 September 1894 – 12 February 1979) was a French film director, screenwriter, actor, producer and author. As a film director and actor, he made more than forty films from the silent era to the end of the 1960s.
 
@@ -32,5 +32,6 @@ Andrew Sarris in his influential book of film criticism The American Cinema: Dir
 
 ## Films screened
 
+- [[movies/1930s/the-grand-illusion-1937|The Grand Illusion]] (1937)
 - [[movies/1930s/the-rules-of-the-game-1939|The Rules of the Game]] (1939)
 - [[movies/1950s/the-river-1951|The River]] (1951)

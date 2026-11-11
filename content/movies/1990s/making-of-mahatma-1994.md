@@ -8,6 +8,8 @@ country: "South Africa, India"
 runtime: "144 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2018-11-25
 poster: "assets/posters/making-of-mahatma-1994.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening will be The Making of the Mahatma, made in the ye
 
 **IMDb Rating:** 6.0
 
+## Screenings
+
+- 25 November 2018 · Member Screening
+
 ## Tags
 
-#Drama #Shyam-Benegal #1994
+#Drama #Shyam-Benegal #1994 #member_screening #member_winter_2018

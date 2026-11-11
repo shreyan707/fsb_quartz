@@ -8,6 +8,8 @@ country: "Spain, France"
 runtime: "94 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2026-08-22
 poster: "assets/posters/el-sur-1983.jpg"
 ---
 
@@ -41,6 +43,10 @@ In the North of Spain, Estrella grows up captivated by her father, a doctor with
 
 **IMDb Rating:** 7.6
 
+## Screenings
+
+- 22 August 2026 · Member Screening
+
 ## Tags
 
-#Drama #Victor-Erice #1983
+#Drama #Victor-Erice #1983 #member_screening #member_monsoon_2026

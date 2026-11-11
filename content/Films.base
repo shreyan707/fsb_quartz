@@ -12,6 +12,8 @@ properties:
     displayName: Country
   note.screenings:
     displayName: Screened on
+  note.member_screenings:
+    displayName: Member screening
 views:
   - type: cards
     name: Posters
@@ -46,6 +48,19 @@ views:
       - note.release_year
       - note.director
       - note.screenings
+    sort:
+      - property: note.release_year
+        direction: ASC
+  - type: table
+    name: Member Screenings
+    filters:
+      and:
+        - file.hasTag("member_screening")
+    order:
+      - file.name
+      - note.release_year
+      - note.director
+      - note.member_screenings
     sort:
       - property: note.release_year
         direction: ASC

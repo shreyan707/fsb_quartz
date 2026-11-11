@@ -8,6 +8,8 @@ country: "South Korea"
 runtime: "143 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2022-11-26
 poster: "assets/posters/secret-sunshine-2007.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening will be Secret Sunshine, made in the year 2007, di
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 26 November 2022 · Member Screening
+
 ## Tags
 
-#Drama #Chang-Lee-dong #2007
+#Drama #Chang-Lee-dong #2007 #member_screening #member_winter_2022

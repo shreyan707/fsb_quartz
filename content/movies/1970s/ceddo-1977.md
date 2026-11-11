@@ -8,6 +8,8 @@ country: "Senegal, France"
 runtime: "117 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-12-20
 poster: "assets/posters/ceddo-1977.jpg"
 ---
 
@@ -41,6 +43,10 @@ In precolonial Senegal, members of the Ceddo (or “outsiders”) kidnap Princes
 
 **IMDb Rating:** 6.7
 
+## Screenings
+
+- 20 December 2025 · Member Screening
+
 ## Tags
 
-#Drama #Ousmane-Sembene #1977
+#Drama #Ousmane-Sembene #1977 #member_screening #member_winter_2025

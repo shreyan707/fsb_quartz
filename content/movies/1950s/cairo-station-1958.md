@@ -10,6 +10,8 @@ genre:
   - "Crime"
   - "Drama"
   - "Thriller"
+member_screenings:
+  - 2025-01-10
 poster: "assets/posters/cairo-station-1958.jpg"
 ---
 
@@ -43,6 +45,10 @@ Youssef Chahine established his international reputation with this masterpiece, 
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 10 January 2025 · Member Screening
+
 ## Tags
 
-#Crime #Drama #Thriller #Youssef-Chahine #1958
+#Crime #Drama #Thriller #Youssef-Chahine #1958 #member_screening #member_winter_2024

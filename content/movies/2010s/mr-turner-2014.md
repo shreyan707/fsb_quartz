@@ -9,6 +9,8 @@ runtime: "150 min"
 genre:
   - "History"
   - "Drama"
+member_screenings:
+  - 2024-08-24
 poster: "assets/posters/mr-turner-2014.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second screening is of the movie Mr. Turner, directed by UK-based director M
 
 **IMDb Rating:** 6.6
 
+## Screenings
+
+- 24 August 2024 · Member Screening
+
 ## Tags
 
-#History #Drama #Mike-Leigh #2014
+#History #Drama #Mike-Leigh #2014 #member_screening #member_monsoon_2024

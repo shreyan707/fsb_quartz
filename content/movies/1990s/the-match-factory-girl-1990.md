@@ -8,6 +8,8 @@ country: "Finland, Sweden"
 runtime: "69 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2019-12-14
 poster: "assets/posters/the-match-factory-girl-1990.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening will be The Match Factory Girl, made in the year 1
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 14 December 2019 · Member Screening
+
 ## Tags
 
-#Drama #Aki-Kaurismaki #1990
+#Drama #Aki-Kaurismaki #1990 #member_screening #member_winter_2019

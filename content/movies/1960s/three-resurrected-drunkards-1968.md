@@ -9,6 +9,8 @@ runtime: "80 min"
 genre:
   - "Drama"
   - "Comedy"
+member_screenings:
+  - 2023-03-25
 poster: "assets/posters/three-resurrected-drunkards-1968.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first screening of the evening is Three Resurrected Drunkards by Nagisa Oshi
 
 **IMDb Rating:** 5.7
 
+## Screenings
+
+- 25 March 2023 · Member Screening
+
 ## Tags
 
-#Drama #Comedy #Nagisa-Oshima #1968
+#Drama #Comedy #Nagisa-Oshima #1968 #member_screening #member_summer_2023

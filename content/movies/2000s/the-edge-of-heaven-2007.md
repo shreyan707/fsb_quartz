@@ -8,6 +8,8 @@ country: "Germany, Turkey"
 runtime: "122 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2018-11-03
 poster: "assets/posters/the-edge-of-heaven-2007.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening “The Edge of Heaven” is from the year 2007, d
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 3 November 2018 · Member Screening
+
 ## Tags
 
-#Drama #Fatih-Akin #2007
+#Drama #Fatih-Akin #2007 #member_screening #member_winter_2018

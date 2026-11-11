@@ -8,6 +8,8 @@ country: "Japan"
 runtime: "179 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2023-12-16
 poster: "assets/posters/drive-my-car-2021.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening is Drive my Car, directed by Ryusuke Hamaguchi, m
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 16 December 2023 · Member Screening
+
 ## Tags
 
-#Drama #Ryusuke-Hamaguchi #2021
+#Drama #Ryusuke-Hamaguchi #2021 #member_screening #member_winter_2023

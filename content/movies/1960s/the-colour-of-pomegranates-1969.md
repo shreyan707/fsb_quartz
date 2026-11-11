@@ -9,6 +9,8 @@ runtime: "80 min"
 genre:
   - "Drama"
   - "History"
+member_screenings:
+  - 2024-09-14
 poster: "assets/posters/the-colour-of-pomegranates-1969.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first movie to be screened is The Colour of Pomegranates, directed by Russia
 
 **IMDb Rating:** 7.3
 
+## Screenings
+
+- 14 September 2024 · Member Screening
+
 ## Tags
 
-#Drama #History #Sergei-Parajanov #1969
+#Drama #History #Sergei-Parajanov #1969 #member_screening #member_monsoon_2024

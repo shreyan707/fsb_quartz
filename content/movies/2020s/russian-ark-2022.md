@@ -8,6 +8,8 @@ country: "Germany, Russia"
 runtime: "44 min"
 genre:
   - "Documentary"
+member_screenings:
+  - 2024-08-10
 poster: "assets/posters/russian-ark-2022.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first movie to be screened is Russian Ark, directed by Russian director Alex
 
 **IMDb Rating:** 6.8
 
+## Screenings
+
+- 10 August 2024 · Member Screening
+
 ## Tags
 
-#Documentary #Alex #er-Sokurov #2022
+#Documentary #Alex #er-Sokurov #2022 #member_screening #member_monsoon_2024

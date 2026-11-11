@@ -8,6 +8,8 @@ country: "Italy, France, Brazil"
 runtime: "110 min"
 genre:
   - "Documentary"
+member_screenings:
+  - 2023-09-09
 poster: "assets/posters/the-salt-of-the-earth-2014.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening, The Salt of the Earth, directed by Wim Wenders & 
 
 **IMDb Rating:** 8.1
 
+## Screenings
+
+- 9 September 2023 · Member Screening
+
 ## Tags
 
-#Documentary #Wim-Wenders #Julian-R-Salgado #2014
+#Documentary #Wim-Wenders #Julian-R-Salgado #2014 #member_screening #member_monsoon_2023

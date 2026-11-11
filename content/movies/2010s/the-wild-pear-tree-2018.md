@@ -8,6 +8,8 @@ country: "Bosnia and Herzegovina, Bulgaria, France, Germany, Macedonia, Qatar, S
 runtime: "188 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2024-08-10
 poster: "assets/posters/the-wild-pear-tree-2018.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second screening is of the movie The Wild Pear Tree, directed by Turkish dir
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 10 August 2024 · Member Screening
+
 ## Tags
 
-#Drama #Nuri-Bilge-Ceylan #2018
+#Drama #Nuri-Bilge-Ceylan #2018 #member_screening #member_monsoon_2024

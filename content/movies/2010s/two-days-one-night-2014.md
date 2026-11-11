@@ -8,6 +8,8 @@ country: "Belgium, France, Italy"
 runtime: "95 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-01-10
 poster: "assets/posters/two-days-one-night-2014.jpg"
 ---
 
@@ -41,6 +43,10 @@ Oscar winner Marion Cotillard received another nomination for her searing, deepl
 
 **IMDb Rating:** 6.9
 
+## Screenings
+
+- 10 January 2025 · Member Screening
+
 ## Tags
 
-#Drama #Jean-Pierre-Dardenne #Luc-Dardenne #2014
+#Drama #Jean-Pierre-Dardenne #Luc-Dardenne #2014 #member_screening #member_winter_2024

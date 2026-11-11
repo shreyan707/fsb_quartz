@@ -8,6 +8,8 @@ country: "France"
 runtime: "99 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2026-09-12
 poster: "assets/posters/the-400-blows-1959.jpg"
 ---
 
@@ -41,6 +43,10 @@ The film is in our Classics Revisited section. Tuffaut’s debut is also his mos
 
 **IMDb Rating:** 8.0
 
+## Screenings
+
+- 12 September 2026 · Member Screening
+
 ## Tags
 
-#Drama #Francois-Truffaut #1959
+#Drama #Francois-Truffaut #1959 #member_screening #member_monsoon_2026

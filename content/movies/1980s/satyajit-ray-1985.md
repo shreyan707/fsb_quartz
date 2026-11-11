@@ -8,6 +8,8 @@ country: "India"
 runtime: "131 min"
 genre:
   - "Documentary"
+member_screenings:
+  - 2022-09-28
 poster: "assets/posters/satyajit-ray-1985.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film is a feature documentary by Shyam Benegal that chronicles Ray’s
 
 **IMDb Rating:** 6.8
 
+## Screenings
+
+- 28 September 2022 · Member Screening
+
 ## Tags
 
-#Documentary #Shyam-Benegal #1985
+#Documentary #Shyam-Benegal #1985 #member_screening #member_monsoon_2022

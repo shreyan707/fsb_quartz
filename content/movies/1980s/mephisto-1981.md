@@ -8,6 +8,8 @@ country: "Germany, Hungary"
 runtime: "145 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2019-12-28
 poster: "assets/posters/mephisto-1981.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening will be Mephisto, made in the year 1981, by Istvan
 
 **IMDb Rating:** 7.3
 
+## Screenings
+
+- 28 December 2019 · Member Screening
+
 ## Tags
 
-#Drama #Istvan-Szabo #1981
+#Drama #Istvan-Szabo #1981 #member_screening #member_winter_2019

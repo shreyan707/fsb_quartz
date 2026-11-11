@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Crime"
   - "Thriller"
+member_screenings:
+  - 2024-01-13
 poster: "assets/posters/shoplifters-2018.jpg"
 ---
 
@@ -43,6 +45,10 @@ The second film of the evening is Shoplifters, directed by Hirokazu Koreeda, mad
 
 **IMDb Rating:** 7.8
 
+## Screenings
+
+- 13 January 2024 · Member Screening
+
 ## Tags
 
-#Drama #Crime #Thriller #Hirokazu-Koreeda #2018
+#Drama #Crime #Thriller #Hirokazu-Koreeda #2018 #member_screening #member_winter_2023

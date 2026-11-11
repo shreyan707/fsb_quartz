@@ -8,6 +8,8 @@ country: "Turkey, Greece"
 runtime: "97 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-04-04
 poster: "assets/posters/yumurta-2007.jpg"
 ---
 
@@ -41,6 +43,10 @@ Writer/Director Semih Kaplanoglu is one of the leading figures in contemporary T
 
 **IMDb Rating:** 5.8
 
+## Screenings
+
+- 4 April 2025 · Member Screening
+
 ## Tags
 
-#Drama #Semih-Kaplanoglu #2007
+#Drama #Semih-Kaplanoglu #2007 #member_screening #member_summer_2025

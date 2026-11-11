@@ -9,6 +9,8 @@ runtime: "108 min"
 genre:
   - "Drama"
   - "History"
+member_screenings:
+  - 2018-11-18
 poster: "assets/posters/aferim-2015.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film of the evening is“Aferim” made in the year 2015, directed by 
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 18 November 2018 · Member Screening
+
 ## Tags
 
-#Drama #History #Radu-Jude #2015
+#Drama #History #Radu-Jude #2015 #member_screening #member_winter_2018

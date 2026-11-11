@@ -8,6 +8,8 @@ country: "Iran, France"
 runtime: "104 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2019-11-23
 poster: "assets/posters/through-the-olive-trees-1994.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening will be Through the Olive Trees, made in the year
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 23 November 2019 · Member Screening
+
 ## Tags
 
-#Drama #Abbas-Kiarostami #1994
+#Drama #Abbas-Kiarostami #1994 #member_screening #member_winter_2019

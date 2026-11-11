@@ -8,6 +8,8 @@ country: "France, Turkey, Netherlands"
 runtime: "98 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2019-08-03
 poster: "assets/posters/climates-2006.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film of the evening is “Climates” made in the year 2006, directed 
 
 **IMDb Rating:** 6.8
 
+## Screenings
+
+- 3 August 2019 · Member Screening
+
 ## Tags
 
-#Drama #Nuri-Bilge-Ceylan #2006
+#Drama #Nuri-Bilge-Ceylan #2006 #member_screening #member_monsoon_2019

@@ -8,6 +8,8 @@ country: "Taiwan"
 runtime: "98 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2024-03-09
 poster: "assets/posters/the-boys-from-fengkuei-1983.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening is The Boys from Fengkuei, directed by Hou Hsiao-
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 9 March 2024 · Member Screening
+
 ## Tags
 
-#Drama #Hou-Hsiao-Hsien #1983
+#Drama #Hou-Hsiao-Hsien #1983 #member_screening #member_summer_2024

@@ -8,6 +8,8 @@ country: "Belgium, France, Germany, Russia"
 runtime: "122 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2024-07-27
 poster: "assets/posters/loveless-2017.jpg"
 ---
 
@@ -41,6 +43,10 @@ Zhenya and Boris are going through a vicious divorce marked by resentment, frust
 
 **IMDb Rating:** 7.3
 
+## Screenings
+
+- 27 July 2024 · Member Screening
+
 ## Tags
 
-#Drama #Andrey-Zvyagintsev #2017
+#Drama #Andrey-Zvyagintsev #2017 #member_screening #member_monsoon_2024

@@ -8,6 +8,8 @@ country: "Chile, France, Spain, Switzerland"
 runtime: "82 min"
 genre:
   - "Documentary"
+member_screenings:
+  - 2025-03-28
 poster: "assets/posters/the-pearl-button-2015.jpg"
 ---
 
@@ -41,6 +43,10 @@ The Pearl Button (2015) is by the Chilean documentary filmmaker Patricio Guzmán
 
 **IMDb Rating:** 6.9
 
+## Screenings
+
+- 28 March 2025 · Member Screening
+
 ## Tags
 
-#Documentary #Patricio-Guzman #2015
+#Documentary #Patricio-Guzman #2015 #member_screening #member_summer_2025

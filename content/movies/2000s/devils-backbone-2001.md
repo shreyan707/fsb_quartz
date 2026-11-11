@@ -11,6 +11,8 @@ genre:
   - "Drama"
   - "Horror"
   - "Thriller"
+member_screenings:
+  - 2023-08-19
 poster: "assets/posters/devils-backbone-2001.jpg"
 ---
 
@@ -44,6 +46,10 @@ The first film of the evening is Devil’s Backbone (El espinazo del diablo) dir
 
 **IMDb Rating:** 7.3
 
+## Screenings
+
+- 19 August 2023 · Member Screening
+
 ## Tags
 
-#Fantasy #Drama #Horror #Thriller #Guillermo-Del-Toro #2001
+#Fantasy #Drama #Horror #Thriller #Guillermo-Del-Toro #2001 #member_screening #member_monsoon_2023

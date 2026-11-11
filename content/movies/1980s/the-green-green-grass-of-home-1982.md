@@ -9,6 +9,8 @@ runtime: "91 min"
 genre:
   - "Comedy"
   - "Drama"
+member_screenings:
+  - 2026-03-23
 poster: "assets/posters/the-green-green-grass-of-home-1982.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening is The Green, Green Grass of Home, directed by Ho
 
 **IMDb Rating:** 6.4
 
+## Screenings
+
+- 23 March 2026 · Member Screening
+
 ## Tags
 
-#Comedy #Drama #Hou-Hsiao-Hsien #1982
+#Comedy #Drama #Hou-Hsiao-Hsien #1982 #member_screening #member_summer_2026

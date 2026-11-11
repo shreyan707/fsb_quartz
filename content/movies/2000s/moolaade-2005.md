@@ -10,6 +10,8 @@ genre:
   - "Drama"
 screenings:
   - 2025-01-05
+member_screenings:
+  - 2023-11-25
 poster: "assets/posters/moolaade-2005.jpg"
 ---
 
@@ -45,8 +47,9 @@ The first film of the evening is Moolaade, directed by Ousmane Sembene released 
 
 ## Screenings
 
-- 5 January 2025
+- 25 November 2023 · Member Screening
+- 5 January 2025 · Actor Studio
 
 ## Tags
 
-#Drama #Ousmane-Sembene #2005 #actor_studio #winter_2024
+#Drama #Ousmane-Sembene #2005 #actor_studio #winter_2024 #member_screening #member_winter_2023

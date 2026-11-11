@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Mystery"
   - "Romance"
+member_screenings:
+  - 2019-03-30
 poster: "assets/posters/gabbeh-1996.jpg"
 ---
 
@@ -43,6 +45,10 @@ The first film of the evening is “Gabbeh” made in the year 1996, directed by
 
 **IMDb Rating:** 6.7
 
+## Screenings
+
+- 30 March 2019 · Member Screening
+
 ## Tags
 
-#Drama #Mystery #Romance #Mohsen-Makhmalbaf #1996
+#Drama #Mystery #Romance #Mohsen-Makhmalbaf #1996 #member_screening #member_summer_2019

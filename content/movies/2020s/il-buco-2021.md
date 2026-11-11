@@ -8,6 +8,8 @@ country: "Germany, France, Italy"
 runtime: "93 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2023-09-09
 poster: "assets/posters/il-buco-2021.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening is il buco, directed by Michelangelo Frammartino,
 
 **IMDb Rating:** 6.2
 
+## Screenings
+
+- 9 September 2023 · Member Screening
+
 ## Tags
 
-#Drama #Michelangelo-Frammartino #2021
+#Drama #Michelangelo-Frammartino #2021 #member_screening #member_monsoon_2023

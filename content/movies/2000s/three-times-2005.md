@@ -9,6 +9,8 @@ runtime: "130 min"
 genre:
   - "Romance"
   - "Drama"
+member_screenings:
+  - 2024-04-27
 poster: "assets/posters/three-times-2005.jpg"
 ---
 
@@ -42,6 +44,10 @@ poster: "assets/posters/three-times-2005.jpg"
 
 **IMDb Rating:** 6.9
 
+## Screenings
+
+- 27 April 2024 · Member Screening
+
 ## Tags
 
-#Romance #Drama #Hou-Hsiao-Hsien #2005
+#Romance #Drama #Hou-Hsiao-Hsien #2005 #member_screening #member_summer_2024

@@ -10,6 +10,8 @@ genre:
   - "Comedy"
   - "Drama"
   - "Romance"
+member_screenings:
+  - 2024-10-24
 poster: "assets/posters/let-the-sunshine-in-2017.jpg"
 ---
 
@@ -43,6 +45,10 @@ The second screening is of the movie Let the Sunshine In, directed by French dir
 
 **IMDb Rating:** 5.2
 
+## Screenings
+
+- 24 October 2024 · Member Screening
+
 ## Tags
 
-#Comedy #Drama #Romance #Claire-Denis #2017
+#Comedy #Drama #Romance #Claire-Denis #2017 #member_screening #member_winter_2024

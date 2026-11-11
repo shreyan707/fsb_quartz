@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Romance"
   - "Crime"
+member_screenings:
+  - 2019-11-23
 poster: "assets/posters/ariel-1988.jpg"
 ---
 
@@ -43,6 +45,10 @@ The first film of the evening will be Ariel, made in the year 1988 by Aki Kauris
 
 **IMDb Rating:** 7.1
 
+## Screenings
+
+- 23 November 2019 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Crime #Aki-Kaurismaki #1988
+#Drama #Romance #Crime #Aki-Kaurismaki #1988 #member_screening #member_winter_2019

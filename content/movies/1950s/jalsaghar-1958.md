@@ -9,6 +9,8 @@ runtime: "100 min"
 genre:
   - "Drama"
   - "Music"
+member_screenings:
+  - 2022-09-28
 poster: "assets/posters/jalsaghar-1958.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film, Jalsaghar directed by Satyajit Ray, is based on a short story â
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 28 September 2022 Â· Member Screening
+
 ## Tags
 
-#Drama #Music #Satyajit-Ray #1958
+#Drama #Music #Satyajit-Ray #1958 #member_screening #member_monsoon_2022

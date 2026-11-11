@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Mystery"
   - "Thriller"
+member_screenings:
+  - 2023-04-22
 poster: "assets/posters/chess-of-the-wind-1976.jpg"
 ---
 
@@ -43,6 +45,10 @@ The second film of the evening is the farsi film, Chess of the Wind by Mohammad 
 
 **IMDb Rating:** 7.1
 
+## Screenings
+
+- 22 April 2023 · Member Screening
+
 ## Tags
 
-#Drama #Mystery #Thriller #Mohammad-Reza-Aslani #1976
+#Drama #Mystery #Thriller #Mohammad-Reza-Aslani #1976 #member_screening #member_summer_2023

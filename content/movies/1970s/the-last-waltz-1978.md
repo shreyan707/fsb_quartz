@@ -9,6 +9,8 @@ runtime: "117 min"
 genre:
   - "Documentary"
   - "Music"
+member_screenings:
+  - 2025-12-20
 poster: "assets/posters/the-last-waltz-1978.jpg"
 ---
 
@@ -42,6 +44,10 @@ One of the greatest concert films ever made, The Last Waltz is an at once ecstat
 
 **IMDb Rating:** 7.7
 
+## Screenings
+
+- 20 December 2025 · Member Screening
+
 ## Tags
 
-#Documentary #Music #Martin-Scorsese #1978
+#Documentary #Music #Martin-Scorsese #1978 #member_screening #member_winter_2025

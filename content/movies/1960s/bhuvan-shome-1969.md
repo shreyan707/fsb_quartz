@@ -8,6 +8,8 @@ country: "India"
 runtime: "96 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2020-03-07
 poster: "assets/posters/bhuvan-shome-1969.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening will be Bhuvan Shome, made in the year 1969 by Mr
 
 **IMDb Rating:** 6.9
 
+## Screenings
+
+- 7 March 2020 · Member Screening
+
 ## Tags
 
-#Drama #Mrinal-Sen #1969
+#Drama #Mrinal-Sen #1969 #member_screening #member_summer_2020

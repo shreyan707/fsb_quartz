@@ -8,6 +8,8 @@ country: "Italy, France"
 runtime: "137 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-08-09
 poster: "assets/posters/the-gospel-according-to-matthew-1964.jpg"
 ---
 
@@ -41,6 +43,10 @@ The Gospel According to Matthew (1964) is directed by one the great filmmakers i
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 9 August 2025 · Member Screening
+
 ## Tags
 
-#Drama #Pier-Paolo-Pasolini #1964
+#Drama #Pier-Paolo-Pasolini #1964 #member_screening #member_monsoon_2025

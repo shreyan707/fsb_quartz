@@ -10,6 +10,8 @@ genre:
   - "Horror"
   - "Fantasy"
   - "Drama"
+member_screenings:
+  - 2023-08-19
 poster: "assets/posters/kwaidan-1965.jpg"
 ---
 
@@ -43,6 +45,10 @@ The second film of the evening is Kwaidan, by Masaki Kobayashi, will be screened
 
 **IMDb Rating:** 7.7
 
+## Screenings
+
+- 19 August 2023 · Member Screening
+
 ## Tags
 
-#Horror #Fantasy #Drama #Masaki-Kobayashi #1965
+#Horror #Fantasy #Drama #Masaki-Kobayashi #1965 #member_screening #member_monsoon_2023

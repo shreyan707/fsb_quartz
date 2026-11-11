@@ -8,6 +8,8 @@ country: "South Korea"
 runtime: "139 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2022-12-17
 poster: "assets/posters/poetry-2010.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first screening of the evening is the South Korean film Poetry (2010) by Lee
 
 **IMDb Rating:** 7.6
 
+## Screenings
+
+- 17 December 2022 · Member Screening
+
 ## Tags
 
-#Drama #Lee-Chang-dong #2010
+#Drama #Lee-Chang-dong #2010 #member_screening #member_winter_2022

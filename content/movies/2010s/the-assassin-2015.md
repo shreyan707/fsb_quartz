@@ -10,6 +10,8 @@ genre:
   - "Action"
   - "Adventure"
   - "History"
+member_screenings:
+  - 2024-07-27
 poster: "assets/posters/the-assassin-2015.jpg"
 ---
 
@@ -43,6 +45,10 @@ Set in 9th-century China, "The Assassin" follows 10-year-old general’s daughte
 
 **IMDb Rating:** 6.4
 
+## Screenings
+
+- 27 July 2024 · Member Screening
+
 ## Tags
 
-#Action #Adventure #History #Hou-Hsiao-Hsien #2015
+#Action #Adventure #History #Hou-Hsiao-Hsien #2015 #member_screening #member_monsoon_2024

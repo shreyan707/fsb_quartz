@@ -8,6 +8,8 @@ country: "Italy"
 runtime: "187 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2026-09-12
 poster: "assets/posters/the-tree-of-wooden-clogs-1978.jpg"
 ---
 
@@ -41,6 +43,10 @@ The film focusses on four families working for one landowner on an estate in the
 
 **IMDb Rating:** 7.6
 
+## Screenings
+
+- 12 September 2026 · Member Screening
+
 ## Tags
 
-#Drama #Ermanno-Olmi #1978
+#Drama #Ermanno-Olmi #1978 #member_screening #member_monsoon_2026

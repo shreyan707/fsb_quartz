@@ -8,6 +8,8 @@ country: "United Kingdom"
 runtime: "107 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2024-11-23
 poster: "assets/posters/the-club-2015.jpg"
 ---
 
@@ -41,6 +43,10 @@ poster: "assets/posters/the-club-2015.jpg"
 
 **IMDb Rating:** 5.9
 
+## Screenings
+
+- 23 November 2024 · Member Screening
+
 ## Tags
 
-#Drama #Pablo-Larrain #2015
+#Drama #Pablo-Larrain #2015 #member_screening #member_winter_2024

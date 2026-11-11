@@ -9,6 +9,8 @@ runtime: "192 min"
 genre:
   - "Drama"
   - "History"
+member_screenings:
+  - 2018-11-25
 poster: "assets/posters/gandhi-1982.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film of the evening will be Gandhi, made in the year 1982, by Richard 
 
 **IMDb Rating:** 7.6
 
+## Screenings
+
+- 25 November 2018 · Member Screening
+
 ## Tags
 
-#Drama #History #Richard-Attenborough #1982
+#Drama #History #Richard-Attenborough #1982 #member_screening #member_winter_2018

@@ -10,6 +10,8 @@ genre:
   - "Documentary"
 screenings:
   - 2024-03-10
+member_screenings:
+  - 2025-04-19
 poster: "assets/posters/love-meetings-comizi-d-amore-1964.jpg"
 ---
 
@@ -45,8 +47,9 @@ The first screening of the evening belongs to our classics section and presents 
 
 ## Screenings
 
-- 10 March 2024
+- 10 March 2024 · Actor Studio
+- 19 April 2025 · Member Screening
 
 ## Tags
 
-#Documentary #Pier-Paolo-Pasolini #1964 #actor_studio #summer_2024
+#Documentary #Pier-Paolo-Pasolini #1964 #actor_studio #summer_2024 #member_screening #member_summer_2025

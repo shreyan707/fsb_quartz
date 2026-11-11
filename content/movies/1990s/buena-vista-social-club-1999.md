@@ -9,6 +9,8 @@ runtime: "105 min"
 genre:
   - "Documentary"
   - "Music"
+member_screenings:
+  - 2022-09-29
 poster: "assets/posters/buena-vista-social-club-1999.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film to be screened is Buena Vista Social Club, directed by Wim Wende
 
 **IMDb Rating:** 7.5
 
+## Screenings
+
+- 29 September 2022 · Member Screening
+
 ## Tags
 
-#Documentary #Music #Wim-Wenders #1999
+#Documentary #Music #Wim-Wenders #1999 #member_screening #member_monsoon_2022

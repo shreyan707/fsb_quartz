@@ -8,6 +8,8 @@ country: "Belgium, France"
 runtime: "88 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-11-29
 poster: "assets/posters/tori-and-lokita-2022.jpg"
 ---
 
@@ -41,6 +43,10 @@ The Dardenne brothers bring the story of seventeen-year-old Lokita and twelve-ye
 
 **IMDb Rating:** 6.9
 
+## Screenings
+
+- 29 November 2025 · Member Screening
+
 ## Tags
 
-#Drama #Jean-Pierre #Luc-Dardenne #2022
+#Drama #Jean-Pierre #Luc-Dardenne #2022 #member_screening #member_winter_2025

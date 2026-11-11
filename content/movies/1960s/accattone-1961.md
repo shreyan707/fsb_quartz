@@ -8,6 +8,8 @@ country: "Italy"
 runtime: "117 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2025-03-08
 poster: "assets/posters/accattone-1961.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first screening of the evening belongs to our classics section and presents 
 
 **IMDb Rating:** 7.7
 
+## Screenings
+
+- 8 March 2025 · Member Screening
+
 ## Tags
 
-#Drama #Pier-Paolo-Pasolini #1961
+#Drama #Pier-Paolo-Pasolini #1961 #member_screening #member_summer_2025

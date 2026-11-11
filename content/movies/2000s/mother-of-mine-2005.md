@@ -9,6 +9,8 @@ runtime: "111 min"
 genre:
   - "Drama"
   - "War"
+member_screenings:
+  - 2019-04-27
 poster: "assets/posters/mother-of-mine-2005.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening is “Mother of Mine” (Äideistä parhain), mad
 
 **IMDb Rating:** 6.8
 
+## Screenings
+
+- 27 April 2019 · Member Screening
+
 ## Tags
 
-#Drama #War #Klaus-Haro #2005
+#Drama #War #Klaus-Haro #2005 #member_screening #member_summer_2019

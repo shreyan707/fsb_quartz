@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Romance"
   - "Crime"
+member_screenings:
+  - 2025-04-04
 poster: "assets/posters/rocco-and-his-brothers-1960.jpg"
 ---
 
@@ -43,6 +45,10 @@ The first film of the evening is from Italy. A tight-knit family moves from Ital
 
 **IMDb Rating:** 8.0
 
+## Screenings
+
+- 4 April 2025 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Crime #Luchino-Visconti #1960
+#Drama #Romance #Crime #Luchino-Visconti #1960 #member_screening #member_summer_2025

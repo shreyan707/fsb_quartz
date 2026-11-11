@@ -9,6 +9,8 @@ runtime: "130 min"
 genre:
   - "Drama"
   - "Mystery"
+member_screenings:
+  - 2025-08-09
 poster: "assets/posters/the-past-2013.jpg"
 ---
 
@@ -42,6 +44,10 @@ The Past is directed by one of the major contemporary Iranian director Asghar Fa
 
 **IMDb Rating:** 7.2
 
+## Screenings
+
+- 9 August 2025 · Member Screening
+
 ## Tags
 
-#Drama #Mystery #Asghar-Farhadi #2013
+#Drama #Mystery #Asghar-Farhadi #2013 #member_screening #member_monsoon_2025

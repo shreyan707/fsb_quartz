@@ -10,6 +10,8 @@ genre:
   - "Fantasy"
   - "Drama"
   - "Mystery"
+member_screenings:
+  - 2023-08-20
 poster: "assets/posters/ugetsu-1953.jpg"
 ---
 
@@ -43,6 +45,10 @@ The second film of the evening is Ugetsu by Japanese director Kenji Mizoguchi. M
 
 **IMDb Rating:** 8.0
 
+## Screenings
+
+- 20 August 2023 · Member Screening
+
 ## Tags
 
-#Fantasy #Drama #Mystery #Kenji-Mizoguchi #1953
+#Fantasy #Drama #Mystery #Kenji-Mizoguchi #1953 #member_screening #member_monsoon_2023

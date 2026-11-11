@@ -9,6 +9,8 @@ runtime: "102 min"
 genre:
   - "Drama"
   - "Comedy"
+member_screenings:
+  - 2019-04-27
 poster: "assets/posters/my-life-as-a-dog-1985.jpg"
 ---
 
@@ -42,6 +44,10 @@ The first film of the evening is “My Life as a Dog” (Mitt liv som hund), mad
 
 **IMDb Rating:** 7.3
 
+## Screenings
+
+- 27 April 2019 · Member Screening
+
 ## Tags
 
-#Drama #Comedy #Lasse-Hallstrom #1985
+#Drama #Comedy #Lasse-Hallstrom #1985 #member_screening #member_summer_2019

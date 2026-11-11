@@ -8,6 +8,8 @@ country: "Cuba"
 runtime: "161 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2024-11-09
 poster: "assets/posters/lucia-1968.jpg"
 ---
 
@@ -41,6 +43,10 @@ poster: "assets/posters/lucia-1968.jpg"
 
 **IMDb Rating:** 6.4
 
+## Screenings
+
+- 9 November 2024 · Member Screening
+
 ## Tags
 
-#Drama #Humberto-Solas #1968
+#Drama #Humberto-Solas #1968 #member_screening #member_winter_2024

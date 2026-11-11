@@ -8,6 +8,8 @@ country: "Iran"
 runtime: "95 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2019-11-16
 poster: "assets/posters/and-life-goes-on-1992.jpg"
 ---
 
@@ -41,6 +43,10 @@ The second film of the evening will be And Life Goes on, made in the year 1992, 
 
 **IMDb Rating:** 7.7
 
+## Screenings
+
+- 16 November 2019 · Member Screening
+
 ## Tags
 
-#Drama #Abbas-Kiarostami #1992
+#Drama #Abbas-Kiarostami #1992 #member_screening #member_winter_2019

@@ -8,6 +8,8 @@ country: "France, Italy"
 runtime: "186 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2026-07-25
 poster: "assets/posters/the-leopard-1963.jpg"
 ---
 
@@ -41,6 +43,10 @@ The Leopard (Il Gattopardo) is an epic on the grandest possible scale. The film 
 
 **IMDb Rating:** 7.7
 
+## Screenings
+
+- 25 July 2026 · Member Screening
+
 ## Tags
 
-#Drama #Luchino-Visconti #1963
+#Drama #Luchino-Visconti #1963 #member_screening #member_monsoon_2026

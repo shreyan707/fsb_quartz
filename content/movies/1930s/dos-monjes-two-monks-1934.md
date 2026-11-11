@@ -10,6 +10,8 @@ genre:
   - "Drama"
   - "Romance"
   - "Mystery"
+member_screenings:
+  - 2025-01-18
 poster: "assets/posters/dos-monjes-two-monks-1934.jpg"
 ---
 
@@ -43,6 +45,10 @@ The first film to be screened is Dos Monjes (Two Monks) directed by Mexican dire
 
 **IMDb Rating:** 6.2
 
+## Screenings
+
+- 18 January 2025 · Member Screening
+
 ## Tags
 
-#Drama #Romance #Mystery #Juan-Bustillo-Oro #1934
+#Drama #Romance #Mystery #Juan-Bustillo-Oro #1934 #member_screening #member_winter_2024

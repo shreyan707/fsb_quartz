@@ -8,6 +8,8 @@ country: "Cuba, Soviet Union"
 runtime: "141 min"
 genre:
   - "Drama"
+member_screenings:
+  - 2024-11-23
 poster: "assets/posters/i-am-cuba-1964.jpg"
 ---
 
@@ -41,6 +43,10 @@ The first film to be screened is I am Cuba directed by Soviet director Mikhail K
 
 **IMDb Rating:** 7.9
 
+## Screenings
+
+- 23 November 2024 · Member Screening
+
 ## Tags
 
-#Drama #Mikhail-Kalatozov #1964
+#Drama #Mikhail-Kalatozov #1964 #member_screening #member_winter_2024

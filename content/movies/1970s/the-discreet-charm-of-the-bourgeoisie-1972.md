@@ -9,6 +9,8 @@ runtime: "101 min"
 genre:
   - "Comedy"
   - "Fantasy"
+member_screenings:
+  - 2020-01-11
 poster: "assets/posters/the-discreet-charm-of-the-bourgeoisie-1972.jpg"
 ---
 
@@ -42,6 +44,10 @@ The second film of the evening will be The Discreet Charm of the Bourgeoisie, ma
 
 **IMDb Rating:** 7.4
 
+## Screenings
+
+- 11 January 2020 · Member Screening
+
 ## Tags
 
-#Comedy #Fantasy #Luis-Bunuel #1972
+#Comedy #Fantasy #Luis-Bunuel #1972 #member_screening #member_winter_2019
