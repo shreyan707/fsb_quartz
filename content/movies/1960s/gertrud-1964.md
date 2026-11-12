@@ -50,4 +50,4 @@ Our retrospective of Carl Dreyer ends with his last film of his career, Gertrud.
 
 ## Tags
 
-#Drama #Romance #Carl-T-Dreyer #1964 #member_screening #member_winter_2018
+#Drama #Romance #Carl-T-Dreyer #y1964 #member_screening #member_winter_2018

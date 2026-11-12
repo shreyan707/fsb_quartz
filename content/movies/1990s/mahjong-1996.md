@@ -51,4 +51,4 @@ Edward Yang’s follow-up to A Confucian Confusion is another dizzying comedy se
 
 ## Tags
 
-#Comedy #Drama #Crime #Edward-Yang #1996 #member_screening #member_winter_2025
+#Comedy #Drama #Crime #Edward-Yang #y1996 #member_screening #member_winter_2025

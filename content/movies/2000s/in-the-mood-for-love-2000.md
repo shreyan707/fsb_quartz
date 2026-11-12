@@ -50,4 +50,4 @@ The breakthrough sophomore feature by Wong Kar Wai represents the first full flo
 
 ## Tags
 
-#Drama #Romance #Wong-Kar-Wai #2000 #member_screening #member_winter_2022
+#Drama #Romance #Wong-Kar-Wai #y2000 #member_screening #member_winter_2022

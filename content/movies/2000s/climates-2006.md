@@ -49,4 +49,4 @@ The first film of the evening is “Climates” made in the year 2006, directed 
 
 ## Tags
 
-#Drama #Nuri-Bilge-Ceylan #2006 #member_screening #member_monsoon_2019
+#Drama #Nuri-Bilge-Ceylan #y2006 #member_screening #member_monsoon_2019

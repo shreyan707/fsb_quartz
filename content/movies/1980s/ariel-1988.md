@@ -51,4 +51,4 @@ The first film of the evening will be Ariel, made in the year 1988 by Aki Kauris
 
 ## Tags
 
-#Drama #Romance #Crime #Aki-Kaurismaki #1988 #member_screening #member_winter_2019
+#Drama #Romance #Crime #Aki-Kaurismaki #y1988 #member_screening #member_winter_2019

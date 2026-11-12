@@ -50,4 +50,4 @@ A man and his son take an allegorical stroll through life with a talking bird th
 
 ## Tags
 
-#Comedy #Fantasy #Pier-Paolo-Pasolini #1966 #member_screening #member_monsoon_2025
+#Comedy #Fantasy #Pier-Paolo-Pasolini #y1966 #member_screening #member_monsoon_2025

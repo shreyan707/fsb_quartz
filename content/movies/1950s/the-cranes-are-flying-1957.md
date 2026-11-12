@@ -51,4 +51,4 @@ The first movie to be screened is The Cranes Are Flying, directed by Russian dir
 
 ## Tags
 
-#Drama #Romance #War #Mikhail-Kalatozov #1957 #member_screening #member_monsoon_2024
+#Drama #Romance #War #Mikhail-Kalatozov #y1957 #member_screening #member_monsoon_2024

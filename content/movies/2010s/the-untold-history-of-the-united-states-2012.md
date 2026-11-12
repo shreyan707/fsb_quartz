@@ -50,4 +50,4 @@ Oliver Stone charts the history of the United States from the Second World War t
 
 ## Tags
 
-#Documentary #History #Oliver-Stone #2012 #actor_studio #winter_2024
+#Documentary #History #Oliver-Stone #y2012 #actor_studio #winter_2024

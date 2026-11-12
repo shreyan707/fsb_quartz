@@ -51,4 +51,4 @@ Well-educated and humble teacher Mr Hekmati arrives in a new city and at a new j
 
 ## Tags
 
-#Drama #Romance #Comedy #Bahram-Beyzaie #1972 #member_screening #member_monsoon_2025
+#Drama #Romance #Comedy #Bahram-Beyzaie #y1972 #member_screening #member_monsoon_2025

@@ -49,4 +49,4 @@ The second film of the evening will be The Making of the Mahatma, made in the ye
 
 ## Tags
 
-#Drama #Shyam-Benegal #1994 #member_screening #member_winter_2018
+#Drama #Shyam-Benegal #y1994 #member_screening #member_winter_2018

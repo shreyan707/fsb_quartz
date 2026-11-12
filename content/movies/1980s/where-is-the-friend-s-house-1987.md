@@ -50,4 +50,4 @@ The second film of the evening will be Where is the Friend's House?, made in the
 
 ## Tags
 
-#Drama #Adventure #Abbas-Kiarostami #1987 #member_screening #member_winter_2019
+#Drama #Adventure #Abbas-Kiarostami #y1987 #member_screening #member_winter_2019

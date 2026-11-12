@@ -50,4 +50,4 @@ The Past is directed by one of the major contemporary Iranian director Asghar Fa
 
 ## Tags
 
-#Drama #Mystery #Asghar-Farhadi #2013 #member_screening #member_monsoon_2025
+#Drama #Mystery #Asghar-Farhadi #y2013 #member_screening #member_monsoon_2025

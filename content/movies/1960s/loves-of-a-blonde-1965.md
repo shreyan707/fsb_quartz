@@ -51,4 +51,4 @@ Andula, an innocent Czech girl from a factory town, is desperately in search of 
 
 ## Tags
 
-#Comedy #Drama #Romance #Milos-Forman #1965 #actor_studio #monsoon_2024
+#Comedy #Drama #Romance #Milos-Forman #y1965 #actor_studio #monsoon_2024

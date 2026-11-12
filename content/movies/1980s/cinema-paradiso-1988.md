@@ -50,4 +50,4 @@ A filmmaker recalls his childhood, when he fell in love with the movies at his v
 
 ## Tags
 
-#Drama #Romance #Giuseppe-Tornatore #1988 #actor_studio #monsoon_2022
+#Drama #Romance #Giuseppe-Tornatore #y1988 #actor_studio #monsoon_2022

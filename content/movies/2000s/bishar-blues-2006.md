@@ -49,4 +49,4 @@ This journey through the world of mystical fakirs in West-Bengal, in the eastern
 
 ## Tags
 
-#Documentary #Amitabh-Chakraborty #2006 #actor_studio #monsoon_2025
+#Documentary #Amitabh-Chakraborty #y2006 #actor_studio #monsoon_2025

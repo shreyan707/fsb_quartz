@@ -51,4 +51,4 @@ The film is set in the world of Young Taipei Professionals, who are rich and fam
 
 ## Tags
 
-#Comedy #Drama #Romance #Edward-Yang #1994 #member_screening #member_winter_2025
+#Comedy #Drama #Romance #Edward-Yang #y1994 #member_screening #member_winter_2025

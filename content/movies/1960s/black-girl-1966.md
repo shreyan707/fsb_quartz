@@ -52,4 +52,4 @@ The first film of the evening is Black Girl, directed by Ousmane Sembene release
 
 ## Tags
 
-#Drama #Ousmane-Sembene #1966 #actor_studio #winter_2024 #member_screening #member_winter_2023
+#Drama #Ousmane-Sembene #y1966 #actor_studio #winter_2024 #member_screening #member_winter_2023

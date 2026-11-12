@@ -51,4 +51,4 @@ A sadistic serial rapist and murderer of young women terrorizes a small province
 
 ## Tags
 
-#Crime #Drama #Thriller #Bong-Joon-Ho #2003 #actor_studio #winter_2024
+#Crime #Drama #Thriller #Bong-Joon-Ho #y2003 #actor_studio #winter_2024

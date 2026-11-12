@@ -49,4 +49,4 @@ A documentary film that explores the history and cultural politics of how people
 
 ## Tags
 
-#Documentary #Somnath-Waghmare #2023 #actor_studio #summer_2025
+#Documentary #Somnath-Waghmare #y2023 #actor_studio #summer_2025

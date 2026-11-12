@@ -49,4 +49,4 @@ The second film of the evening will be La Promesse, made in the year 1996, La pr
 
 ## Tags
 
-#Drama #Luc #Jean-Pierre-Dardenne #1996 #member_screening #member_winter_2019
+#Drama #Luc #Jean-Pierre-Dardenne #y1996 #member_screening #member_winter_2019

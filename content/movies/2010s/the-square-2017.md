@@ -49,4 +49,4 @@ A prestigious Stockholm museum's chief art curator finds himself in times of bot
 
 ## Tags
 
-#Drama #Ruben-Ostlund #2017 #actor_studio #winter_2022
+#Drama #Ruben-Ostlund #y2017 #actor_studio #winter_2022

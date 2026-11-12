@@ -49,4 +49,4 @@ The first film of the evening is Bamako directed by Abderrahmane Sissako, releas
 
 ## Tags
 
-#Drama #Abderrahmane-Sissako #2006 #member_screening #member_winter_2023
+#Drama #Abderrahmane-Sissako #y2006 #member_screening #member_winter_2023

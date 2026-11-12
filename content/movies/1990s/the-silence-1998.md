@@ -50,4 +50,4 @@ Khorshid, a blind child growing up in Tajikistan, is constantly distracted by mu
 
 ## Tags
 
-#Drama #Music #Mohsen-Makhmalbaf #1998 #member_screening #member_summer_2019
+#Drama #Music #Mohsen-Makhmalbaf #y1998 #member_screening #member_summer_2019

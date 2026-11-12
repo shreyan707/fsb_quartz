@@ -49,4 +49,4 @@ Estranged siblings reunite after years apart, forced to confront unresolved tens
 
 ## Tags
 
-#Drama #Jim-Jarmusch #2025 #actor_studio #winter_2026
+#Drama #Jim-Jarmusch #y2025 #actor_studio #winter_2026

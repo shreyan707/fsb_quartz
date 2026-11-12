@@ -49,4 +49,4 @@ The Leopard (Il Gattopardo) is an epic on the grandest possible scale. The film 
 
 ## Tags
 
-#Drama #Luchino-Visconti #1963 #member_screening #member_monsoon_2026
+#Drama #Luchino-Visconti #y1963 #member_screening #member_monsoon_2026

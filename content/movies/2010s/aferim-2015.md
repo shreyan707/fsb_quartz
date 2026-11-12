@@ -50,4 +50,4 @@ The first film of the evening is“Aferim” made in the year 2015, directed by 
 
 ## Tags
 
-#Drama #History #Radu-Jude #2015 #member_screening #member_winter_2018
+#Drama #History #Radu-Jude #y2015 #member_screening #member_winter_2018

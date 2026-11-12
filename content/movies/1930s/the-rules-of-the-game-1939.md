@@ -52,4 +52,4 @@ At the cusp of the second world war, the film explores the corruption of the Fre
 
 ## Tags
 
-#Drama #Comedy #Romance #Jean-Renoir #1939 #member_screening #member_winter_2026
+#Drama #Comedy #Romance #Jean-Renoir #y1939 #member_screening #member_winter_2026

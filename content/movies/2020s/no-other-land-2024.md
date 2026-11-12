@@ -49,4 +49,4 @@ This film made by a Palestinian-Israeli collective shows the destruction of the 
 
 ## Tags
 
-#Documentary #Rachel-Szor #Hamdan-Ballal #Yuval-Abraham #Basel-Adra #2024 #actor_studio #summer_2025
+#Documentary #Rachel-Szor #Hamdan-Ballal #Yuval-Abraham #Basel-Adra #y2024 #actor_studio #summer_2025

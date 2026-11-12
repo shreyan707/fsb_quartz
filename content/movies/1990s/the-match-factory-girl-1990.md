@@ -49,4 +49,4 @@ The first film of the evening will be The Match Factory Girl, made in the year 1
 
 ## Tags
 
-#Drama #Aki-Kaurismaki #1990 #member_screening #member_winter_2019
+#Drama #Aki-Kaurismaki #y1990 #member_screening #member_winter_2019

@@ -49,4 +49,4 @@ The film focusses on four families working for one landowner on an estate in the
 
 ## Tags
 
-#Drama #Ermanno-Olmi #1978 #member_screening #member_monsoon_2026
+#Drama #Ermanno-Olmi #y1978 #member_screening #member_monsoon_2026

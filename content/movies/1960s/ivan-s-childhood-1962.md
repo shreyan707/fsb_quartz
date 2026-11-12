@@ -50,4 +50,4 @@ In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as
 
 ## Tags
 
-#Drama #War #Andrei-Tarkovsky #1962 #actor_studio #summer_2026
+#Drama #War #Andrei-Tarkovsky #y1962 #actor_studio #summer_2026

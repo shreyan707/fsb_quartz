@@ -49,4 +49,4 @@ In the North of Spain, Estrella grows up captivated by her father, a doctor with
 
 ## Tags
 
-#Drama #Victor-Erice #1983 #member_screening #member_monsoon_2026
+#Drama #Victor-Erice #y1983 #member_screening #member_monsoon_2026

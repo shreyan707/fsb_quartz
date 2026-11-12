@@ -50,4 +50,4 @@ The first film of the evening, Black River, made in 1956, examines the moral cor
 
 ## Tags
 
-#Crime #Drama #Masaki-Kobayashi #1956 #member_screening #member_summer_2023
+#Crime #Drama #Masaki-Kobayashi #y1956 #member_screening #member_summer_2023

@@ -52,4 +52,4 @@ The first film of the evening is Moolaade, directed by Ousmane Sembene released 
 
 ## Tags
 
-#Drama #Ousmane-Sembene #2005 #actor_studio #winter_2024 #member_screening #member_winter_2023
+#Drama #Ousmane-Sembene #y2005 #actor_studio #winter_2024 #member_screening #member_winter_2023

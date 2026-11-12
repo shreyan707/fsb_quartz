@@ -50,4 +50,4 @@ The first screening of the evening is Three Resurrected Drunkards by Nagisa Oshi
 
 ## Tags
 
-#Drama #Comedy #Nagisa-Oshima #1968 #member_screening #member_summer_2023
+#Drama #Comedy #Nagisa-Oshima #y1968 #member_screening #member_summer_2023

@@ -51,4 +51,4 @@ The second film of the evening is Ugetsu by Japanese director Kenji Mizoguchi. M
 
 ## Tags
 
-#Fantasy #Drama #Mystery #Kenji-Mizoguchi #1953 #member_screening #member_monsoon_2023
+#Fantasy #Drama #Mystery #Kenji-Mizoguchi #y1953 #member_screening #member_monsoon_2023

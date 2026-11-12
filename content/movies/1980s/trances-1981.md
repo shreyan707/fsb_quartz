@@ -50,4 +50,4 @@ The first film to be screened is Trances, directed by Ahmed El Maanouni. The Mor
 
 ## Tags
 
-#Documentary #Music #Ahmed-El-Maanouni #1981 #member_screening #member_monsoon_2022
+#Documentary #Music #Ahmed-El-Maanouni #y1981 #member_screening #member_monsoon_2022

@@ -50,4 +50,4 @@ The first movie to be screened is The Colour of Pomegranates, directed by Russia
 
 ## Tags
 
-#Drama #History #Sergei-Parajanov #1969 #member_screening #member_monsoon_2024
+#Drama #History #Sergei-Parajanov #y1969 #member_screening #member_monsoon_2024

@@ -49,4 +49,4 @@ The first film of the evening will be Mephisto, made in the year 1981, by Istvan
 
 ## Tags
 
-#Drama #Istvan-Szabo #1981 #member_screening #member_winter_2019
+#Drama #Istvan-Szabo #y1981 #member_screening #member_winter_2019

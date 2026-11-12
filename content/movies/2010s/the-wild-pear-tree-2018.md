@@ -49,4 +49,4 @@ The second screening is of the movie The Wild Pear Tree, directed by Turkish dir
 
 ## Tags
 
-#Drama #Nuri-Bilge-Ceylan #2018 #member_screening #member_monsoon_2024
+#Drama #Nuri-Bilge-Ceylan #y2018 #member_screening #member_monsoon_2024

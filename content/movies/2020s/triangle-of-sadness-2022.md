@@ -50,4 +50,4 @@ A celebrity model couple are invited on a luxury cruise for the uber-rich, helme
 
 ## Tags
 
-#Comedy #Drama #Ruben-Ostlund #2022 #actor_studio #winter_2022
+#Comedy #Drama #Ruben-Ostlund #y2022 #actor_studio #winter_2022

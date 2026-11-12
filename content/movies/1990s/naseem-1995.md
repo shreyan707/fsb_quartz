@@ -49,4 +49,4 @@ Mumbai, 1992. Naseem, a 15 year-old schoolgirl, lives with her grandfather and g
 
 ## Tags
 
-#Drama #Saeed-Akhtar-Mirza #1995 #actor_studio #winter_2025
+#Drama #Saeed-Akhtar-Mirza #y1995 #actor_studio #winter_2025

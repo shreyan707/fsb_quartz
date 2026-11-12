@@ -51,4 +51,4 @@ In a high-tech world, three intertwined stories discuss identity, online intimac
 
 ## Tags
 
-#Drama #Comedy #Crime #Dibakar-Banerjee #2024 #actor_studio #winter_2025
+#Drama #Comedy #Crime #Dibakar-Banerjee #y2024 #actor_studio #winter_2025

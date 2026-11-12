@@ -48,4 +48,4 @@ A money order from a relative in Paris throws the life of a Senegalese family ma
 
 ## Tags
 
-#Comedy #Drama #Ousmane-Sembene #1968 #member_screening #member_winter_2023
+#Comedy #Drama #Ousmane-Sembene #y1968 #member_screening #member_winter_2023

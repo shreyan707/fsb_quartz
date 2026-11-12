@@ -49,4 +49,4 @@ Writer/Director Semih Kaplanoglu is one of the leading figures in contemporary T
 
 ## Tags
 
-#Drama #Semih-Kaplanoglu #2007 #member_screening #member_summer_2025
+#Drama #Semih-Kaplanoglu #y2007 #member_screening #member_summer_2025

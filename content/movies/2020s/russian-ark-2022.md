@@ -49,4 +49,4 @@ The first movie to be screened is Russian Ark, directed by Russian director Alex
 
 ## Tags
 
-#Documentary #Alex #er-Sokurov #2022 #member_screening #member_monsoon_2024
+#Documentary #Alex #er-Sokurov #y2022 #member_screening #member_monsoon_2024

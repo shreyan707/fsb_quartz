@@ -50,4 +50,4 @@ A man shares some lazy memories about his friend, Manek Mulla, who had a knack f
 
 ## Tags
 
-#Drama #Romance #Shyam-Benegal #1992 #actor_studio #summer_2025
+#Drama #Romance #Shyam-Benegal #y1992 #actor_studio #summer_2025

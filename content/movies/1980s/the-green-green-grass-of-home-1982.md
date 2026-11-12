@@ -50,4 +50,4 @@ The second film of the evening is The Green, Green Grass of Home, directed by Ho
 
 ## Tags
 
-#Comedy #Drama #Hou-Hsiao-Hsien #1982 #member_screening #member_summer_2026
+#Comedy #Drama #Hou-Hsiao-Hsien #y1982 #member_screening #member_summer_2026

@@ -50,4 +50,4 @@ The second film of the evening is “The Makioka Sisters” made in the year 198
 
 ## Tags
 
-#Drama #Romance #Kon-Ichikawa #1983 #member_screening #member_summer_2019
+#Drama #Romance #Kon-Ichikawa #y1983 #member_screening #member_summer_2019

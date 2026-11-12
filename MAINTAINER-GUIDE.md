@@ -149,7 +149,7 @@ DESCRIPTION
 
 ## Tags
 
-#GENRE #DIRECTOR-NAME #YEAR #SERIES_TAG #SEASON_TAG
+#GENRE #DIRECTOR-NAME #yYEAR #SERIES_TAG #SEASON_TAG
 ```
 
 **`templates/Director Profile.md`**
@@ -293,7 +293,7 @@ The last line of the note holds the tags. Separate them with spaces. **A tag can
 |---|---|---|
 | Genre | Each genre, spaces → hyphens | `#Drama` `#Science-Fiction` |
 | Director | Name with spaces → hyphens. Remove dots and accents. Give each director their own tag. | `#Ousmane-Sembene` `#Darin-J-Sallam` |
-| Year | The release year | `#2007` |
+| Year | The release year with a `y` in front (a tag can't be only digits) | `#y2007` |
 | Series | `#actor_studio` for Sunday, `#member_screening` for Saturday. Use both if screened in both. | `#member_screening` |
 | Season | See the table below | `#member_winter_2023` |
 
@@ -318,7 +318,7 @@ For example, a screening on 10 January 2026 is in **Winter 2025**.
 Full example:
 
 ```
-#Drama #Fatih-Akin #2007 #member_screening #member_winter_2018
+#Drama #Fatih-Akin #y2007 #member_screening #member_winter_2018
 ```
 
 ## Step 5: Add the poster

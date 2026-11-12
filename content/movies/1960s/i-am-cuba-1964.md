@@ -49,4 +49,4 @@ The first film to be screened is I am Cuba directed by Soviet director Mikhail K
 
 ## Tags
 
-#Drama #Mikhail-Kalatozov #1964 #member_screening #member_winter_2024
+#Drama #Mikhail-Kalatozov #y1964 #member_screening #member_winter_2024

@@ -51,4 +51,4 @@ Palestine, 1948. After the withdrawal of the British occupiers, tensions rise be
 
 ## Tags
 
-#Drama #History #War #Darin-J-Sallam #2021 #actor_studio #winter_2024
+#Drama #History #War #Darin-J-Sallam #y2021 #actor_studio #winter_2024

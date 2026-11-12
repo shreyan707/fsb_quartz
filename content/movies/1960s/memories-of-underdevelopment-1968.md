@@ -49,4 +49,4 @@ In the aftermath of the Bay of Pigs incident, Sergio chooses to stay behind in C
 
 ## Tags
 
-#Drama #Tomas-Gutierrez-Alea #1968 #actor_studio #summer_2024
+#Drama #Tomas-Gutierrez-Alea #y1968 #actor_studio #summer_2024

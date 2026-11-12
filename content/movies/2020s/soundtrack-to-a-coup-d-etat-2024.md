@@ -51,4 +51,4 @@ Jazz and decolonization are intertwined in a powerful narrative that recounts on
 
 ## Tags
 
-#Documentary #History #Music #Johan-Grimonprez #2024 #actor_studio #summer_2025
+#Documentary #History #Music #Johan-Grimonprez #y2024 #actor_studio #summer_2025

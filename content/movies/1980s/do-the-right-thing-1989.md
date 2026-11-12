@@ -49,4 +49,4 @@ The film is set in the hottest day of summer, when racial tensions reach a boili
 
 ## Tags
 
-#Drama #Spike-Lee #1989 #member_screening #member_summer_2024
+#Drama #Spike-Lee #y1989 #member_screening #member_summer_2024

@@ -50,4 +50,4 @@ In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is
 
 ## Tags
 
-#Drama #Crime #Andrey-Zvyagintsev #2014 #actor_studio #monsoon_2024
+#Drama #Crime #Andrey-Zvyagintsev #y2014 #actor_studio #monsoon_2024

@@ -50,4 +50,4 @@ The first film of the evening will be Gandhi, made in the year 1982, by Richard 
 
 ## Tags
 
-#Drama #History #Richard-Attenborough #1982 #member_screening #member_winter_2018
+#Drama #History #Richard-Attenborough #y1982 #member_screening #member_winter_2018

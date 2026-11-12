@@ -49,4 +49,4 @@ The first film of the evening, I Will Buy You, made in 1956, examines the corrup
 
 ## Tags
 
-#Drama #Masaki-Kobayashi #1956 #member_screening #member_summer_2023
+#Drama #Masaki-Kobayashi #y1956 #member_screening #member_summer_2023

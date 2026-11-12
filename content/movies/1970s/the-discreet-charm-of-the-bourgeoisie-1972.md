@@ -50,4 +50,4 @@ The second film of the evening will be The Discreet Charm of the Bourgeoisie, ma
 
 ## Tags
 
-#Comedy #Fantasy #Luis-Bunuel #1972 #member_screening #member_winter_2019
+#Comedy #Fantasy #Luis-Bunuel #y1972 #member_screening #member_winter_2019

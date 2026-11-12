@@ -50,4 +50,4 @@ poster: "assets/posters/three-times-2005.jpg"
 
 ## Tags
 
-#Romance #Drama #Hou-Hsiao-Hsien #2005 #member_screening #member_summer_2024
+#Romance #Drama #Hou-Hsiao-Hsien #y2005 #member_screening #member_summer_2024

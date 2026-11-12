@@ -51,4 +51,4 @@ The second film of the evening will be The Diary of a Chambermaid, made in the y
 
 ## Tags
 
-#Drama #Romance #Comedy #Luis-Bunuel #1967 #member_screening #member_winter_2019
+#Drama #Romance #Comedy #Luis-Bunuel #y1967 #member_screening #member_winter_2019

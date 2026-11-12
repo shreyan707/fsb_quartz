@@ -50,4 +50,4 @@ A young woman is left to her own devices when her sickly husband dies. Based on 
 
 ## Tags
 
-#Drama #Romance #Rituparno-Ghosh #2003 #actor_studio #summer_2025
+#Drama #Romance #Rituparno-Ghosh #y2003 #actor_studio #summer_2025

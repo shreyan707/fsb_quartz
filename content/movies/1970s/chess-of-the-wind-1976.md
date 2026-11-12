@@ -51,4 +51,4 @@ The second film of the evening is the farsi film, Chess of the Wind by Mohammad 
 
 ## Tags
 
-#Drama #Mystery #Thriller #Mohammad-Reza-Aslani #1976 #member_screening #member_summer_2023
+#Drama #Mystery #Thriller #Mohammad-Reza-Aslani #y1976 #member_screening #member_summer_2023

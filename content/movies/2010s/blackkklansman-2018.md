@@ -51,4 +51,4 @@ Spike Lee’s "BlacKkKlansman" (2018) is set in the early 1970s, when Ron Stallw
 
 ## Tags
 
-#Crime #Drama #History #Spike-Lee #2018 #member_screening #member_summer_2025
+#Crime #Drama #History #Spike-Lee #y2018 #member_screening #member_summer_2025

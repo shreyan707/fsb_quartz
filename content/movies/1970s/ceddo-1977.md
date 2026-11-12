@@ -49,4 +49,4 @@ In precolonial Senegal, members of the Ceddo (or “outsiders”) kidnap Princes
 
 ## Tags
 
-#Drama #Ousmane-Sembene #1977 #member_screening #member_winter_2025
+#Drama #Ousmane-Sembene #y1977 #member_screening #member_winter_2025

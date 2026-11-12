@@ -49,4 +49,4 @@ The Dardenne brothers bring the story of seventeen-year-old Lokita and twelve-ye
 
 ## Tags
 
-#Drama #Jean-Pierre #Luc-Dardenne #2022 #member_screening #member_winter_2025
+#Drama #Jean-Pierre #Luc-Dardenne #y2022 #member_screening #member_winter_2025

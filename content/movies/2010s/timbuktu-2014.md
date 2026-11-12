@@ -50,4 +50,4 @@ In the acclaimed new film by Abderrahmane Sissako (Bamako) the people of the Mal
 
 ## Tags
 
-#Drama #War #Abderrahmane-Sissako #2014 #member_screening #member_winter_2023
+#Drama #War #Abderrahmane-Sissako #y2014 #member_screening #member_winter_2023

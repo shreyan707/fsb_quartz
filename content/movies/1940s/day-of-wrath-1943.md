@@ -50,4 +50,4 @@ The first film of the evening will be Day of Wrath, made in the year 1943, by Ca
 
 ## Tags
 
-#Drama #History #Carl-T-Dreyer #1943 #member_screening #member_winter_2018
+#Drama #History #Carl-T-Dreyer #y1943 #member_screening #member_winter_2018

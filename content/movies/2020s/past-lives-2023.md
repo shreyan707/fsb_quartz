@@ -50,4 +50,4 @@ After decades apart, childhood friends Nora and Hae Sung are reunited in New Yor
 
 ## Tags
 
-#Drama #Romance #Celine-Song #2023 #actor_studio #summer_2025
+#Drama #Romance #Celine-Song #y2023 #actor_studio #summer_2025

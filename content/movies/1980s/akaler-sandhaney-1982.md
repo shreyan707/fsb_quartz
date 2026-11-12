@@ -49,4 +49,4 @@ The first film of the evening will be Akaler Sandhaney (In Search of a Famine), 
 
 ## Tags
 
-#Drama #Mrinal-Sen #1982 #member_screening #member_summer_2020
+#Drama #Mrinal-Sen #y1982 #member_screening #member_summer_2020

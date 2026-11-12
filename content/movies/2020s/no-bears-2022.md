@@ -50,4 +50,4 @@ The second film of the evening brings to you, One of the world’s great cinema 
 
 ## Tags
 
-#Drama #Romance #Jafar-Panahi #2022 #member_screening #member_summer_2025
+#Drama #Romance #Jafar-Panahi #y2022 #member_screening #member_summer_2025

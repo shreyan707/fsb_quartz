@@ -49,4 +49,4 @@ Ousmane Sembène chronicles a period during World War II when French colonial fo
 
 ## Tags
 
-#Drama #Ousmane-Sembene #1971 #member_screening #member_winter_2025
+#Drama #Ousmane-Sembene #y1971 #member_screening #member_winter_2025

@@ -50,4 +50,4 @@ Luo Hongwu returns to Kaili, the hometown from which he fled many years ago. He 
 
 ## Tags
 
-#Drama #Mystery #Bi-Gan #2018 #actor_studio #summer_2026
+#Drama #Mystery #Bi-Gan #y2018 #actor_studio #summer_2026

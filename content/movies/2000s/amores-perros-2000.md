@@ -50,4 +50,4 @@ A fatalistic car crash in Mexico city sets off a chain of events in the lives of
 
 ## Tags
 
-#Drama #Thriller #Alejandro-G-Inarritu #2000 #actor_studio #summer_2024
+#Drama #Thriller #Alejandro-G-Inarritu #y2000 #actor_studio #summer_2024

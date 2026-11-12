@@ -49,4 +49,4 @@ poster: "assets/posters/lucia-1968.jpg"
 
 ## Tags
 
-#Drama #Humberto-Solas #1968 #member_screening #member_winter_2024
+#Drama #Humberto-Solas #y1968 #member_screening #member_winter_2024

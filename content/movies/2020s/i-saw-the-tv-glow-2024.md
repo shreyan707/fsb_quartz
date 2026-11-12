@@ -50,4 +50,4 @@ In late-90s suburbia, a lonely teenager meets a girl at school who introduces hi
 
 ## Tags
 
-#Drama #Horror #Jane-Schoenbrun #2024 #actor_studio #summer_2025
+#Drama #Horror #Jane-Schoenbrun #y2024 #actor_studio #summer_2025

@@ -49,4 +49,4 @@ The second film of the evening will be Bhuvan Shome, made in the year 1969 by Mr
 
 ## Tags
 
-#Drama #Mrinal-Sen #1969 #member_screening #member_summer_2020
+#Drama #Mrinal-Sen #y1969 #member_screening #member_summer_2020

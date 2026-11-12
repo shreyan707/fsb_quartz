@@ -51,4 +51,4 @@ A broad-ranging examination of Indian society, where secular rationalists are hu
 
 ## Tags
 
-#Documentary #Anand-Patwardhan #2018 #actor_studio #monsoon_2026 #winter_2026
+#Documentary #Anand-Patwardhan #y2018 #actor_studio #monsoon_2026 #winter_2026

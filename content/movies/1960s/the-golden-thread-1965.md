@@ -49,4 +49,4 @@ After an old college friend offers him a job at an iron foundry, the upright and
 
 ## Tags
 
-#Drama #Ritwik-Ghatak #1965 #actor_studio #monsoon_2025
+#Drama #Ritwik-Ghatak #y1965 #actor_studio #monsoon_2025

@@ -49,4 +49,4 @@ The first film of the evening, The Salt of the Earth, directed by Wim Wenders & 
 
 ## Tags
 
-#Documentary #Wim-Wenders #Julian-R-Salgado #2014 #member_screening #member_monsoon_2023
+#Documentary #Wim-Wenders #Julian-R-Salgado #y2014 #member_screening #member_monsoon_2023

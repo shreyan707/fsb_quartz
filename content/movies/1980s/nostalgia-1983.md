@@ -50,4 +50,4 @@ Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugeni
 
 ## Tags
 
-#Drama #Romance #Andrei-Tarkovsky #1983 #actor_studio #summer_2026
+#Drama #Romance #Andrei-Tarkovsky #y1983 #actor_studio #summer_2026

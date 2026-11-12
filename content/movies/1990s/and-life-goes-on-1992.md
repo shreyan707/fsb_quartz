@@ -49,4 +49,4 @@ The second film of the evening will be And Life Goes on, made in the year 1992, 
 
 ## Tags
 
-#Drama #Abbas-Kiarostami #1992 #member_screening #member_winter_2019
+#Drama #Abbas-Kiarostami #y1992 #member_screening #member_winter_2019

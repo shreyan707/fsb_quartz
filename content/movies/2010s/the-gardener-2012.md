@@ -50,4 +50,4 @@ An Iranian ﬁlmmaker and his son travel to Haifa, Israel to investigate a relig
 
 ## Tags
 
-#Drama #Documentary #Mohsen-Makhmalbaf #2012 #member_screening #member_summer_2019
+#Drama #Documentary #Mohsen-Makhmalbaf #y2012 #member_screening #member_summer_2019

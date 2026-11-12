@@ -49,4 +49,4 @@ Amalia is an adolescent girl who is caught in the throes of her emerging sexuali
 
 ## Tags
 
-#Drama #Lucrecia-Martel #2004 #actor_studio #summer_2024
+#Drama #Lucrecia-Martel #y2004 #actor_studio #summer_2024

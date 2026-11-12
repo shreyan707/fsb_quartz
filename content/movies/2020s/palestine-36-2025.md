@@ -51,4 +51,4 @@ Year 1936. As villages across Palestine rise against British colonial rule, Yusu
 
 ## Tags
 
-#Drama #History #War #Annemarie-Jacir #2025 #actor_studio #summer_2026
+#Drama #History #War #Annemarie-Jacir #y2025 #actor_studio #summer_2026

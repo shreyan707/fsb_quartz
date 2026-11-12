@@ -49,4 +49,4 @@ After a Palestinian teen gets swept up into a West Bank protest, his mother reco
 
 ## Tags
 
-#Drama #Cherien-Dabis #2025 #actor_studio #summer_2026
+#Drama #Cherien-Dabis #y2025 #actor_studio #summer_2026

@@ -51,4 +51,4 @@ Set in 9th-century China, "The Assassin" follows 10-year-old general’s daughte
 
 ## Tags
 
-#Action #Adventure #History #Hou-Hsiao-Hsien #2015 #member_screening #member_monsoon_2024
+#Action #Adventure #History #Hou-Hsiao-Hsien #y2015 #member_screening #member_monsoon_2024

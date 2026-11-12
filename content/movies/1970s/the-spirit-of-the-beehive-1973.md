@@ -50,4 +50,4 @@ The second screening of the evening is a film in our Classics Revisited section.
 
 ## Tags
 
-#Drama #Fantasy #Victor-Erice #1973 #member_screening #member_monsoon_2026
+#Drama #Fantasy #Victor-Erice #y1973 #member_screening #member_monsoon_2026

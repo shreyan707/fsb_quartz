@@ -49,4 +49,4 @@ The Atacama Desert is one of the driest places in the world, it’s a high-altit
 
 ## Tags
 
-#Documentary #Patricio-Guzman #2010 #member_screening #member_summer_2026
+#Documentary #Patricio-Guzman #y2010 #member_screening #member_summer_2026

@@ -51,4 +51,4 @@ The second film of the evening is Kwaidan, by Masaki Kobayashi, will be screened
 
 ## Tags
 
-#Horror #Fantasy #Drama #Masaki-Kobayashi #1965 #member_screening #member_monsoon_2023
+#Horror #Fantasy #Drama #Masaki-Kobayashi #y1965 #member_screening #member_monsoon_2023

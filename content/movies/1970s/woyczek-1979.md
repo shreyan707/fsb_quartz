@@ -49,4 +49,4 @@ The first film of the evening will be Woyczek, made in the year 1979, directed b
 
 ## Tags
 
-#Drama #Wener-Herzog #1979 #member_screening #member_winter_2019
+#Drama #Wener-Herzog #y1979 #member_screening #member_winter_2019

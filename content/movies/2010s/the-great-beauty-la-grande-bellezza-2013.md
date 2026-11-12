@@ -49,4 +49,4 @@ poster: "assets/posters/the-great-beauty-la-grande-bellezza-2013.jpg"
 
 ## Tags
 
-#Drama #Paolo-Sorrentino #2013 #member_screening #member_summer_2025
+#Drama #Paolo-Sorrentino #y2013 #member_screening #member_summer_2025

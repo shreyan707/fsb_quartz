@@ -50,4 +50,4 @@ The first film of the evening will be The Last Emperor (1987) by the Italian dir
 
 ## Tags
 
-#Drama #History #Bernardo-Bertolucci #1987 #member_screening #member_winter_2022
+#Drama #History #Bernardo-Bertolucci #y1987 #member_screening #member_winter_2022

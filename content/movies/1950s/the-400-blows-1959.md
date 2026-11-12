@@ -49,4 +49,4 @@ The film is in our Classics Revisited section. Tuffaut’s debut is also his mos
 
 ## Tags
 
-#Drama #Francois-Truffaut #1959 #member_screening #member_monsoon_2026
+#Drama #Francois-Truffaut #y1959 #member_screening #member_monsoon_2026

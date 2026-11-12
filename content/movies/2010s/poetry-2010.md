@@ -49,4 +49,4 @@ The first screening of the evening is the South Korean film Poetry (2010) by Lee
 
 ## Tags
 
-#Drama #Lee-Chang-dong #2010 #member_screening #member_winter_2022
+#Drama #Lee-Chang-dong #y2010 #member_screening #member_winter_2022
