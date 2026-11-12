@@ -17,26 +17,26 @@ properties:
 views:
   - type: cards
     name: Posters
+    order:
+      - file.name
+      - release_year
+      - director
+    sort:
+      - property: release_year
+        direction: ASC
     image: note.poster
     imageFit: cover
     imageAspectRatio: 0.667
     cardSize: 180
-    order:
-      - file.name
-      - note.release_year
-      - note.director
-    sort:
-      - property: note.release_year
-        direction: ASC
   - type: table
     name: All films
     order:
       - file.name
-      - note.release_year
-      - note.director
-      - note.country
+      - release_year
+      - director
+      - country
     sort:
-      - property: note.release_year
+      - property: release_year
         direction: ASC
   - type: table
     name: Actor Studio
@@ -45,11 +45,11 @@ views:
         - file.hasTag("actor_studio")
     order:
       - file.name
-      - note.release_year
-      - note.director
-      - note.screenings
+      - release_year
+      - director
+      - screenings
     sort:
-      - property: note.release_year
+      - property: release_year
         direction: ASC
   - type: table
     name: Member Screenings
@@ -58,9 +58,9 @@ views:
         - file.hasTag("member_screening")
     order:
       - file.name
-      - note.release_year
-      - note.director
-      - note.member_screenings
+      - release_year
+      - director
+      - member_screenings
     sort:
-      - property: note.release_year
+      - property: release_year
         direction: ASC
