@@ -430,7 +430,7 @@ git pull origin main
 npx quartz sync --no-pull -m "Add The Edge of Heaven"
 ```
 
-Change the text in quotes to describe what you did. Wait 2–3 minutes, then check the live site: **https://shreyan707.github.io/fsb_quartz**.
+Change the text in quotes to describe what you did. Wait 2–3 minutes, then check the live site: **https://bhubaneswar.filmsociety.workers.dev**.
 
 > **Always run `git pull origin main` first.** It downloads any changes others have made, so yours don't overwrite them.
 

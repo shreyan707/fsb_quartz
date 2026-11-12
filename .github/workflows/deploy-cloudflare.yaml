@@ -1,7 +1,7 @@
 name: Deploy to Cloudflare
 on:
   push:
-    branches: [cloudflare]
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
@@ -25,11 +25,6 @@ jobs:
         run: |
           sed -i '/source: "@quartz-community\/og-image"/,/enabled:/ s/enabled: false/enabled: true/' quartz.config.yaml
           grep -A3 'source: "@quartz-community/og-image"' quartz.config.yaml | grep -q 'enabled: true'
-      # CI-only: the committed baseUrl stays the GitHub Pages one
-      - name: Set Cloudflare baseUrl
-        run: |
-          sed -i "s|^  baseUrl: .*|  baseUrl: ${{ vars.CF_BASE_URL }}|" quartz.config.yaml
-          grep -q "^  baseUrl: ${{ vars.CF_BASE_URL }}$" quartz.config.yaml
       - run: npx quartz build
       - run: npm run postprocess
       - run: node scripts/prepare-cloudflare.mjs public

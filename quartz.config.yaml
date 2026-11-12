@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: shreyan707.github.io/fsb_quartz
+  baseUrl: bhubaneswar.filmsociety.workers.dev
   ignorePatterns:
     - private
     - templates
@@ -130,7 +130,7 @@ plugins:
     # .github/workflows/deploy.yaml flips this to true before the production build.
     enabled: false
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"

@@ -1,4 +1,7 @@
 name: Deploy to GitHub Pages
+# The site now lives on Cloudflare (see deploy-cloudflare.yaml). This keeps the old
+# shreyan707.github.io/fsb_quartz address working by publishing redirect stubs:
+# every page sends visitors to the same path on the new host.
 on:
   push:
     branches: [main]
@@ -19,17 +22,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
       - run: npm ci
-      # og-image is disabled in quartz.config.yaml for fast local builds; enable it for deploy
-      - name: Enable og-image plugin
-        run: |
-          sed -i '/source: "@quartz-community\/og-image"/,/enabled:/ s/enabled: false/enabled: true/' quartz.config.yaml
-          grep -A3 'source: "@quartz-community/og-image"' quartz.config.yaml | grep -q 'enabled: true'
+      # The build gives the list of pages (and an RSS feed linking to the new host)
       - run: npx quartz build
-      - run: node scripts/fix-tag-links.mjs public
-      - run: node scripts/fix-a11y.mjs public
-      - run: node scripts/split-content-index.mjs public
-      - run: node scripts/optimize-images.mjs public
+      - run: node scripts/make-redirect-site.mjs public https://bhubaneswar.filmsociety.workers.dev
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
