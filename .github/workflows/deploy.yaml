@@ -16,10 +16,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
@@ -27,7 +27,7 @@ jobs:
       # The build gives the list of pages (and an RSS feed linking to the new host)
       - run: npx quartz build
       - run: node scripts/make-redirect-site.mjs public https://bhubaneswar.filmsociety.workers.dev
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: public
   deploy:
@@ -38,4 +38,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
