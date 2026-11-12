@@ -1,0 +1,22 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: frame-ancestors 'self'
+  Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://plausible.io; worker-src 'self' blob:; frame-ancestors 'self'
+  # Temporary: remove at cutover so search engines index this host
+  X-Robots-Tag: noindex
+
+/component-*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+/static/resource-*
+  Cache-Control: public, max-age=31536000, immutable
+
+/static/vendor/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/static/fonts/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
+
+/assets/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
