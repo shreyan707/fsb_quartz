@@ -707,8 +707,11 @@ ul.tags a,
   margin-bottom: 1.5rem;
 
   img {
-    flex: 0 0 180px;
+    flex: none;
     width: 180px;
+    // optimize-images.mjs adds width/height attributes; without this the
+    // height="540" attribute beats aspect-ratio and the photo turns into a strip
+    height: auto;
     aspect-ratio: 2 / 3;
     object-fit: cover;
     margin: 0;
