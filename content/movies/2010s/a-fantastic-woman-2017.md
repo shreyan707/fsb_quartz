@@ -8,10 +8,10 @@ country: "Chile, Germany, Spain, United States of America"
 runtime: "104 min"
 genre:
   - "Drama"
-screenings:
-  - 2022-11-13
 member_screenings:
   - 2023-11-11
+screenings:
+  - 2022-11-13
 poster: "assets/posters/a-fantastic-woman-2017.jpg"
 ---
 
@@ -58,8 +58,7 @@ The second film of the evening is A Fantastic Woman, directed by Sebastian Lelio
 
 ## Screenings
 
-- 13 November 2022 · Actor Studio
-- 11 November 2023 · Member Screening
+- 13 November 2022
 
 ## Tags
 

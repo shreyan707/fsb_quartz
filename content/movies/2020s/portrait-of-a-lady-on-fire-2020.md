@@ -9,10 +9,10 @@ runtime: "121 min"
 genre:
   - "Drama"
   - "Romance"
-screenings:
-  - 2026-11-01
 member_screenings:
   - 2023-11-25
+screenings:
+  - 2026-11-01
 poster: "assets/posters/portrait-of-a-lady-on-fire-2020.jpg"
 ---
 
@@ -79,8 +79,7 @@ The film is made without the typical inevitables: men, musical score, and confli
 
 ## Screenings
 
-- 25 November 2023 · Member Screening
-- 1 November 2026 · Actor Studio
+- 1 November 2026
 
 ## Tags
 

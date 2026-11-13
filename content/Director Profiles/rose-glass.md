@@ -3,6 +3,7 @@ title: Rose Glass
 tags:
   - director
   - "#actor_studio"
+  - actor_studio
 tmdb_id: "2219327"
 photo: "[[assets/director-profiles/rose-glass.webp]]"
 films_screened: 1

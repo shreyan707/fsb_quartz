@@ -8,10 +8,10 @@ country: "Argentina, France, United Kingdom, United States of America"
 runtime: "126 min"
 genre:
   - "Drama"
-screenings:
-  - 2026-08-02
 member_screenings:
   - 2018-12-01
+screenings:
+  - 2026-08-02
 poster: "assets/posters/motorcycle-diaries-2004.jpg"
 ---
 
@@ -58,8 +58,7 @@ The second film of the evening will be The Motorcycle Diaries, made in the year 
 
 ## Screenings
 
-- 1 December 2018 · Member Screening
-- 2 August 2026 · Actor Studio
+- 2 August 2026
 
 ## Tags
 

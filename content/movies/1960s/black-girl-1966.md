@@ -8,10 +8,10 @@ country: "France, Senegal"
 runtime: "65 min"
 genre:
   - "Drama"
-screenings:
-  - 2024-12-29
 member_screenings:
   - 2023-12-16
+screenings:
+  - 2024-12-29
 poster: "assets/posters/black-girl-1966.jpg"
 ---
 
@@ -58,8 +58,7 @@ The first film of the evening is Black Girl, directed by Ousmane Sembene release
 
 ## Screenings
 
-- 16 December 2023 · Member Screening
-- 29 December 2024 · Actor Studio
+- 29 December 2024
 
 ## Tags
 

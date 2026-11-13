@@ -8,10 +8,10 @@ country: "Italy"
 runtime: "88 min"
 genre:
   - "Documentary"
-screenings:
-  - 2024-03-10
 member_screenings:
   - 2025-04-19
+screenings:
+  - 2024-03-10
 poster: "assets/posters/love-meetings-comizi-d-amore-1964.jpg"
 ---
 
@@ -58,8 +58,7 @@ The first screening of the evening belongs to our classics section and presents 
 
 ## Screenings
 
-- 10 March 2024 · Actor Studio
-- 19 April 2025 · Member Screening
+- 10 March 2024
 
 ## Tags
 

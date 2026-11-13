@@ -6,7 +6,7 @@ tags:
 
 # Summer 2025
 
-**March – June 2025** · 19 screenings · Tag: #summer_2025
+**March – June 2025** · 20 screenings · Tag: #summer_2025
 
 | # | Date | Film | Year | Director |
 |---|---|---|---|---|
@@ -26,8 +26,9 @@ tags:
 | 14 | 8 June 2025 | [[movies/2020s/i-saw-the-tv-glow-2024\|I Saw the TV Glow]] | 2024 | Jane Schoenbrun |
 | 15 | 15 June 2025 | [[movies/2000s/chokher-bali-2003\|Chokher Bali]] | 2003 | Rituparno Ghosh |
 | 16 | 15 June 2025 | [[movies/2010s/just-another-love-story-2010\|Just Another Love Story]] | 2010 | Kaushik Ganguly |
-| 17 | 22 June 2025 | [[movies/1980s/the-times-of-harvey-milk-1984\|The Times of Harvey Milk]] | 1984 | Rob Epstein |
-| 18 | 22 June 2025 | [[movies/2010s/bird-of-dusk-2018\|Bird of Dusk]] | 2018 | Sangeeta Datta |
-| 19 | 29 June 2025 | [[movies/1970s/sunday-bloody-sunday-1971\|Sunday Bloody Sunday]] | 1971 | John Schlesinger |
+| 17 | 15 June 2025 | [[movies/1990s/bound-1996\|Bound]] | 1996 | Lana Wachowski & Lilly Wachowski |
+| 18 | 22 June 2025 | [[movies/1980s/the-times-of-harvey-milk-1984\|The Times of Harvey Milk]] | 1984 | Rob Epstein |
+| 19 | 22 June 2025 | [[movies/2010s/bird-of-dusk-2018\|Bird of Dusk]] | 2018 | Sangeeta Datta |
+| 20 | 29 June 2025 | [[movies/1970s/sunday-bloody-sunday-1971\|Sunday Bloody Sunday]] | 1971 | John Schlesinger |
 
 [[actor-studio/index|← All Actor Studio seasons]]

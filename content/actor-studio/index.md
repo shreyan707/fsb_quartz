@@ -37,8 +37,8 @@ Actor Studio screenings organised by season.
 
 | Season | Period | Screenings |
 |---|---|---|
-| [[actor-studio/summer-2025\|Summer 2025]] | March – June 2025 | 19 |
-| [[actor-studio/monsoon-2025\|Monsoon 2025]] | July – September 2025 | 6 |
+| [[actor-studio/summer-2025\|Summer 2025]] | March – June 2025 | 20 |
+| [[actor-studio/monsoon-2025\|Monsoon 2025]] | July – September 2025 | 7 |
 | [[actor-studio/winter-2025\|Winter 2025]] | October 2025 – February 2026 | 10 |
 
 ## 2026
@@ -49,4 +49,4 @@ Actor Studio screenings organised by season.
 | [[actor-studio/monsoon-2026\|Monsoon 2026]] | July – September 2026 | 9 |
 | [[actor-studio/winter-2026\|Winter 2026]] | October 2026 – February 2027 | 5 |
 
-**Total:** 144 screenings across 139 films in 14 seasons.
+**Total:** 146 screenings across 141 films in 14 seasons.
