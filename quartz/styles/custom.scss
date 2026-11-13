@@ -224,19 +224,13 @@ body {
 // (measured: IM Fell DW Pica is ~97% as wide as Times New Roman, Inter ~106% of Arial).
 @font-face {
   font-family: "IM Fell DW Pica Fallback";
-  src:
-    local("Times New Roman"),
-    local("Liberation Serif"),
-    local("Tinos");
+  src: local("Times New Roman"), local("Liberation Serif"), local("Tinos");
   size-adjust: 97.3%;
 }
 
 @font-face {
   font-family: "Inter Fallback";
-  src:
-    local("Arial"),
-    local("Liberation Sans"),
-    local("Arimo");
+  src: local("Arial"), local("Liberation Sans"), local("Arimo");
   font-weight: 400;
   size-adjust: 105.9%;
 }
@@ -244,10 +238,7 @@ body {
 @font-face {
   font-family: "Inter Fallback";
   src:
-    local("Arial Bold"),
-    local("Arial-BoldMT"),
-    local("Liberation Sans Bold"),
-    local("Arimo Bold");
+    local("Arial Bold"), local("Arial-BoldMT"), local("Liberation Sans Bold"), local("Arimo Bold");
   font-weight: 700;
   size-adjust: 102.1%;
 }
@@ -732,8 +723,8 @@ ul.tags a,
       display: none;
     }
 
-    @media (max-width: 600px) {
-      width: 160px;
+    img {
+      width: 100%;
     }
   }
 
@@ -749,8 +740,83 @@ ul.tags a,
     }
   }
 
+  // Director pages stack the photo above the facts on phones
   @media (max-width: 600px) {
-    flex-direction: column;
+    &.director-profile {
+      flex-direction: column;
+    }
+  }
+}
+
+// Film pages: poster on the left, facts table on the right at every width. The table is fitted
+// to its column (the stock 1rem margin + 1.5rem padding, 75px min cell width and the mobile
+// "display: block" scroller would otherwise push it off the right edge).
+.film-profile {
+  .film-facts {
+    // the table is self-explanatory next to the poster; keep the heading for screen readers only
+    h2 {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0 0 0 0);
+      white-space: nowrap;
+    }
+
+    .table-container {
+      overflow-x: visible;
+      max-width: 100%;
+    }
+
+    table {
+      display: table;
+      width: 100%;
+      max-width: 100%;
+      margin: 0;
+      padding: 0;
+      table-layout: auto;
+
+      & > * {
+        line-height: 1.5rem;
+      }
+
+      th,
+      td {
+        min-width: 0;
+        padding: 0.3rem 0.7rem;
+      }
+
+      td:first-child,
+      th:first-child {
+        white-space: nowrap;
+      }
+    }
+  }
+
+  @media (max-width: 600px) {
+    gap: 0.75rem;
+
+    .film-poster {
+      width: 96px;
+    }
+
+    .film-facts table {
+      font-size: 0.85rem;
+
+      th,
+      td {
+        padding: 0.25rem 0.4rem;
+        overflow-wrap: anywhere;
+      }
+
+      td:first-child,
+      th:first-child {
+        white-space: normal;
+        overflow-wrap: normal; // article's "anywhere" would split "Language" mid-word
+        width: 34%;
+      }
+    }
   }
 }
 
