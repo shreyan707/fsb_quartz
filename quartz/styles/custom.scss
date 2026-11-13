@@ -830,24 +830,30 @@ ul.tags a,
     display: none !important;
   }
 
+  // The toggle is wider than the explorer box once the drawer opens (the box shrinks), and
+  // the stock overflow:hidden would clip it and let the drawer swallow its taps.
+  .explorer {
+    overflow: visible;
+    min-width: 3.5rem;
+  }
+
   .explorer button.mobile-explorer {
     display: flex !important;
     align-items: center;
     justify-content: center;
-    position: fixed;
-    right: 1rem;
-    bottom: 1.25rem;
+    position: relative; // sits in the top bar; stays above the drawer to act as its close button
     z-index: 1001;
-    width: 3.25rem;
-    height: 3.25rem;
+    width: 2.4rem;
+    height: 2.4rem;
+    margin: 0;
     padding: 0;
-    border-radius: 50%;
-    background: var(--secondary);
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.45);
+    border-radius: 8px;
+    background: transparent;
+    box-shadow: none;
 
     & svg,
     & .lucide-menu {
-      stroke: var(--light);
+      stroke: var(--darkgray);
     }
   }
 
@@ -861,7 +867,7 @@ ul.tags a,
     height: 100dvh;
     max-height: 100dvh;
     margin: 0;
-    padding: 1.5rem 1.25rem 6rem;
+    padding: 4.5rem 1.25rem 6rem;
     overflow-y: auto;
     background: var(--light);
     transition:
