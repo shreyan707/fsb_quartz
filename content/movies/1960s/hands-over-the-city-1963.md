@@ -15,6 +15,14 @@ poster: "assets/posters/hands-over-the-city-1963.jpg"
 
 # Hands Over the City (1963)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/hands-over-the-city-1963.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/hands-over-the-city-1963.jpg"
 | Country | Italy |
 | Runtime | 101 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

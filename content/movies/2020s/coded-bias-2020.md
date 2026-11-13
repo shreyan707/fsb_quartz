@@ -15,6 +15,14 @@ poster: "assets/posters/coded-bias-2020.jpg"
 
 # Coded Bias (2020)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/coded-bias-2020.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/coded-bias-2020.jpg"
 | Country | United States of America, United Kingdom, China |
 | Runtime | 86 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

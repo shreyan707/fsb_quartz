@@ -17,6 +17,14 @@ poster: "assets/posters/minority-report-2002.jpg"
 
 # Minority Report (2002)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/minority-report-2002.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/minority-report-2002.jpg"
 | Country | United States of America |
 | Runtime | 145 min |
 | Genre | Science Fiction, Action, Thriller |
+
+</div>
+</div>
 
 ## Description
 

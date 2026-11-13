@@ -14,6 +14,14 @@ poster: "assets/posters/kalpana-1948.jpg"
 
 # Kalpana (1948)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/kalpana-1948.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -26,6 +34,9 @@ poster: "assets/posters/kalpana-1948.jpg"
 | Country | India |
 | Runtime | 154 min |
 | Genre | Music, Drama |
+
+</div>
+</div>
 
 ## Description
 

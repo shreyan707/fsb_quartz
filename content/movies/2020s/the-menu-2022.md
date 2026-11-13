@@ -16,6 +16,14 @@ poster: "assets/posters/the-menu-2022.jpg"
 
 # The Menu (2022)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-menu-2022.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-menu-2022.jpg"
 | Country | United States of America |
 | Runtime | 107 min |
 | Genre | Comedy, Horror |
+
+</div>
+</div>
 
 ## Description
 

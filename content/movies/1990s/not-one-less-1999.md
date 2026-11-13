@@ -15,6 +15,14 @@ poster: "assets/posters/not-one-less-1999.jpg"
 
 # Not one Less (1999)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/not-one-less-1999.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/not-one-less-1999.jpg"
 | Country | China, Hong Kong, United States of America |
 | Runtime | 106 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/the-makioka-sisters-1983.jpg"
 
 # The Makioka Sisters (1983)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-makioka-sisters-1983.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-makioka-sisters-1983.jpg"
 | Country | Japan |
 | Runtime | 140 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

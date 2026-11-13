@@ -15,6 +15,14 @@ poster: "assets/posters/el-sur-1983.jpg"
 
 # El Sur (1983)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/el-sur-1983.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/el-sur-1983.jpg"
 | Country | Spain, France |
 | Runtime | 94 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

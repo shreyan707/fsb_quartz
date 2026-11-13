@@ -16,6 +16,14 @@ poster: "assets/posters/the-gardener-2012.jpg"
 
 # The Gardener (2012)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-gardener-2012.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-gardener-2012.jpg"
 | Country | Israel, United Kingdom |
 | Runtime | 87 min |
 | Genre | Drama, Documentary |
+
+</div>
+</div>
 
 ## Description
 

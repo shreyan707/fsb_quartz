@@ -16,6 +16,14 @@ poster: "assets/posters/gandhi-1982.jpg"
 
 # Gandhi (1982)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/gandhi-1982.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/gandhi-1982.jpg"
 | Country | India, United Kingdom |
 | Runtime | 192 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

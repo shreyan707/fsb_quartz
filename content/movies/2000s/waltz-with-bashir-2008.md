@@ -18,6 +18,14 @@ poster: "assets/posters/waltz-with-bashir-2008.jpg"
 
 # Waltz with Bashir (2008)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/waltz-with-bashir-2008.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -30,6 +38,9 @@ poster: "assets/posters/waltz-with-bashir-2008.jpg"
 | Country | Australia, Belgium, Finland, France, Germany, Israel, Switzerland, United States of America |
 | Runtime | 90 min |
 | Genre | Animation, Documentary, Drama, War |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/a-single-man-2009.jpg"
 
 # A Single Man (2009)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/a-single-man-2009.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/a-single-man-2009.jpg"
 | Country | United States of America |
 | Runtime | 100 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/the-green-green-grass-of-home-1982.jpg"
 
 # The Green, Green Grass of Home (1982)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-green-green-grass-of-home-1982.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-green-green-grass-of-home-1982.jpg"
 | Country | Taiwan |
 | Runtime | 91 min |
 | Genre | Comedy, Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/day-of-wrath-1943.jpg"
 
 # Day of Wrath (1943)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/day-of-wrath-1943.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/day-of-wrath-1943.jpg"
 | Country | Denmark |
 | Runtime | 97 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

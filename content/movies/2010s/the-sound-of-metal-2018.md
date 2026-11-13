@@ -16,6 +16,14 @@ poster: "assets/posters/the-sound-of-metal-2018.jpg"
 
 # The Sound of Metal (2018)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-sound-of-metal-2018.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-sound-of-metal-2018.jpg"
 | Country | United States of America |
 | Runtime | 121 min |
 | Genre | Drama, Music |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/even-the-rain-2010.jpg"
 
 # Even The Rain (2010)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/even-the-rain-2010.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/even-the-rain-2010.jpg"
 | Country | France, Mexico, Spain |
 | Runtime | 103 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/bardo-false-chronicle-of-a-handful-of-truths-2022.jpg"
 
 # BARDO, False Chronicle of a Handful of Truths (2022)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bardo-false-chronicle-of-a-handful-of-truths-2022.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/bardo-false-chronicle-of-a-handful-of-truths-2022.jpg"
 | Country | Mexico, United States of America |
 | Runtime | 159 min |
 | Genre | Comedy, Drama |
+
+</div>
+</div>
 
 ## Description
 

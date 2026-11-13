@@ -16,6 +16,14 @@ poster: "assets/posters/the-return-2003.jpg"
 
 # The Return (2003)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-return-2003.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-return-2003.jpg"
 | Country | Russia |
 | Runtime | 111 min |
 | Genre | Drama, Mystery |
+
+</div>
+</div>
 
 ## Description
 

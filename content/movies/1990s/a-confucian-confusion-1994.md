@@ -17,6 +17,14 @@ poster: "assets/posters/a-confucian-confusion-1994.jpg"
 
 # A Confucian Confusion (1994)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/a-confucian-confusion-1994.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/a-confucian-confusion-1994.jpg"
 | Country | Taiwan |
 | Runtime | 129 min |
 | Genre | Comedy, Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

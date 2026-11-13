@@ -17,6 +17,14 @@ poster: "assets/posters/farha-2021.jpg"
 
 # Farha (2021)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/farha-2021.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/farha-2021.jpg"
 | Country | Jordan, Sweden |
 | Runtime | 92 min |
 | Genre | Drama, History, War |
+
+</div>
+</div>
 
 ## Description
 

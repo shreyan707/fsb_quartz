@@ -15,6 +15,14 @@ poster: "assets/posters/woyczek-1979.jpg"
 
 # Woyczek (1979)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/woyczek-1979.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/woyczek-1979.jpg"
 | Country | Germany |
 | Runtime | 82 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

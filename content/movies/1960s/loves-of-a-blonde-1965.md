@@ -17,6 +17,14 @@ poster: "assets/posters/loves-of-a-blonde-1965.jpg"
 
 # Loves of a Blonde (1965)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/loves-of-a-blonde-1965.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/loves-of-a-blonde-1965.jpg"
 | Country | Czechoslovakia |
 | Runtime | 81 min |
 | Genre | Comedy, Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

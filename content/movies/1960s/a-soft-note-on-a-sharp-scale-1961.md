@@ -16,6 +16,14 @@ poster: "assets/posters/a-soft-note-on-a-sharp-scale-1961.jpg"
 
 # A Soft Note on a Sharp Scale (1961)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/a-soft-note-on-a-sharp-scale-1961.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/a-soft-note-on-a-sharp-scale-1961.jpg"
 | Country | India |
 | Runtime | 124 min |
 | Genre | Drama, Music |
+
+</div>
+</div>
 
 ## Description
 

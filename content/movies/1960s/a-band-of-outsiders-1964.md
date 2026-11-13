@@ -17,6 +17,14 @@ poster: "assets/posters/a-band-of-outsiders-1964.jpg"
 
 # A band of Outsiders (1964)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/a-band-of-outsiders-1964.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/a-band-of-outsiders-1964.jpg"
 | Country | France |
 | Runtime | 97 min |
 | Genre | Crime, Drama, Comedy |
+
+</div>
+</div>
 
 ## Description
 

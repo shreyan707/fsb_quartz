@@ -15,6 +15,14 @@ poster: "assets/posters/the-brink-2019.jpg"
 
 # The Brink (2019)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-brink-2019.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-brink-2019.jpg"
 | Country | United States of America |
 | Runtime | 91 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

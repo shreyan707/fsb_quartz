@@ -15,6 +15,14 @@ poster: "assets/posters/the-400-blows-1959.jpg"
 
 # The 400 Blows (1959)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-400-blows-1959.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-400-blows-1959.jpg"
 | Country | France |
 | Runtime | 99 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

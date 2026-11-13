@@ -15,6 +15,14 @@ poster: "assets/posters/naseem-1995.jpg"
 
 # Naseem (1995)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/naseem-1995.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/naseem-1995.jpg"
 | Country | India |
 | Runtime | 85 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

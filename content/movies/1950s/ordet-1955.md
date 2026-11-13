@@ -15,6 +15,14 @@ poster: "assets/posters/ordet-1955.jpg"
 
 # Ordet (1955)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/ordet-1955.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/ordet-1955.jpg"
 | Country | Denmark |
 | Runtime | 125 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/the-hawks-and-the-sparrows-1966.jpg"
 
 # The Hawks and the Sparrows (1966)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-hawks-and-the-sparrows-1966.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-hawks-and-the-sparrows-1966.jpg"
 | Country | Italy |
 | Runtime | 90 min |
 | Genre | Comedy, Fantasy |
+
+</div>
+</div>
 
 ## Description
 

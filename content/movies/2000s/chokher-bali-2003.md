@@ -16,6 +16,14 @@ poster: "assets/posters/chokher-bali-2003.jpg"
 
 # Chokher Bali (2003)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/chokher-bali-2003.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/chokher-bali-2003.jpg"
 | Country | India |
 | Runtime | 167 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

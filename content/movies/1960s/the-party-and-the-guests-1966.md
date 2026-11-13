@@ -16,6 +16,14 @@ poster: "assets/posters/the-party-and-the-guests-1966.jpg"
 
 # The Party and the Guests (1966)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-party-and-the-guests-1966.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-party-and-the-guests-1966.jpg"
 | Country | Czechoslovakia |
 | Runtime | 70 min |
 | Genre | Drama, Comedy |
+
+</div>
+</div>
 
 ## Description
 

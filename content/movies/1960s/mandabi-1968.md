@@ -15,6 +15,14 @@ poster: "assets/posters/mandabi-1968.jpg"
 
 # Mandabi (1968)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mandabi-1968.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -26,6 +34,9 @@ poster: "assets/posters/mandabi-1968.jpg"
 | Country | France, Senegal |
 | Runtime | 92 min |
 | Genre | Comedy, Drama |
+
+</div>
+</div>
 
 ## Description
 

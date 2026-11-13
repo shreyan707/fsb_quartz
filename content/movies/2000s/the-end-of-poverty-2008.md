@@ -15,6 +15,14 @@ poster: "assets/posters/the-end-of-poverty-2008.jpg"
 
 # The End of Poverty? (2008)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-end-of-poverty-2008.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-end-of-poverty-2008.jpg"
 | Country | N/A |
 | Runtime | 106 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

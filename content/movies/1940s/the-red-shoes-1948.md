@@ -17,6 +17,14 @@ poster: "assets/posters/the-red-shoes-1948.jpg"
 # The Red Shoes (1948)
 
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-red-shoes-1948.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-red-shoes-1948.jpg"
 | Country | United Kingdom |
 | Runtime | 133 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

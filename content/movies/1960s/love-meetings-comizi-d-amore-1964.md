@@ -17,6 +17,14 @@ poster: "assets/posters/love-meetings-comizi-d-amore-1964.jpg"
 
 # Love Meetings (Comizi D'Amore) (1964)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/love-meetings-comizi-d-amore-1964.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/love-meetings-comizi-d-amore-1964.jpg"
 | Country | Italy |
 | Runtime | 88 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

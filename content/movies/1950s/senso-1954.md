@@ -17,6 +17,14 @@ poster: "assets/posters/senso-1954.jpg"
 
 # Senso (1954)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/senso-1954.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/senso-1954.jpg"
 | Country | Italy |
 | Runtime | 123 min |
 | Genre | Romance, Drama, War |
+
+</div>
+</div>
 
 ## Description
 

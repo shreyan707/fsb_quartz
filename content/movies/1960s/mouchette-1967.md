@@ -15,6 +15,14 @@ poster: "assets/posters/mouchette-1967.jpg"
 
 # Mouchette (1967)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mouchette-1967.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/mouchette-1967.jpg"
 | Country | France |
 | Runtime | 81 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

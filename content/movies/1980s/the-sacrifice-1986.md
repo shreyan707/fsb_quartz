@@ -15,6 +15,14 @@ poster: "assets/posters/the-sacrifice-1986.jpg"
 
 # The Sacrifice (1986)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-sacrifice-1986.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-sacrifice-1986.jpg"
 | Country | Sweden |
 | Runtime | 149 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

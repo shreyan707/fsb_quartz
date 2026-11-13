@@ -15,6 +15,14 @@ poster: "assets/posters/the-tree-of-wooden-clogs-1978.jpg"
 
 # The Tree of Wooden Clogs (1978)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-tree-of-wooden-clogs-1978.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-tree-of-wooden-clogs-1978.jpg"
 | Country | Italy |
 | Runtime | 187 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

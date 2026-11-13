@@ -17,6 +17,14 @@ poster: "assets/posters/salvatore-giuliano-1962.jpg"
 
 # Salvatore Giuliano (1962)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/salvatore-giuliano-1962.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/salvatore-giuliano-1962.jpg"
 | Country | Italy |
 | Runtime | 119 min |
 | Genre | Crime, Drama, History |
+
+</div>
+</div>
 
 ## Description
 

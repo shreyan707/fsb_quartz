@@ -17,6 +17,14 @@ poster: "assets/posters/palestine-36-2025.jpg"
 
 # Palestine 36 (2025)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/palestine-36-2025.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/palestine-36-2025.jpg"
 | Country | Palestinian Territory, United Kingdom, France, Denmark, Qatar |
 | Runtime | 120 min |
 | Genre | Drama, History, War |
+
+</div>
+</div>
 
 ## Description
 

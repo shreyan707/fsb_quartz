@@ -16,6 +16,14 @@ poster: "assets/posters/uncle-boonme-2010.jpg"
 
 # Uncle Boonme (2010)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/uncle-boonme-2010.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/uncle-boonme-2010.jpg"
 | Country | Thailand, United Kingdom, Germany, Spain, France, United States of America |
 | Runtime | 114 min |
 | Genre | Drama, Fantasy |
+
+</div>
+</div>
 
 ## Description
 

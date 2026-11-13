@@ -17,6 +17,14 @@ poster: "assets/posters/the-blue-trail-2025.jpg"
 
 # The Blue Trail (2025)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-blue-trail-2025.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-blue-trail-2025.jpg"
 | Country | Brazil, Mexico, Chile, Netherlands |
 | Runtime | 86 min |
 | Genre | Drama, Adventure, Science Fiction |
+
+</div>
+</div>
 
 ## Description
 

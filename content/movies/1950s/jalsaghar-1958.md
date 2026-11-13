@@ -16,6 +16,14 @@ poster: "assets/posters/jalsaghar-1958.jpg"
 
 # Jalsaghar (1958)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/jalsaghar-1958.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/jalsaghar-1958.jpg"
 | Country | India |
 | Runtime | 100 min |
 | Genre | Drama, Music |
+
+</div>
+</div>
 
 ## Description
 

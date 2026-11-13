@@ -15,6 +15,14 @@ poster: "assets/posters/dr-b-r-ambedkar-now-then-2023.jpg"
 
 # Dr. B.R. Ambedkar: Now & Then (2023)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/dr-b-r-ambedkar-now-then-2023.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/dr-b-r-ambedkar-now-then-2023.jpg"
 | Country | N/A |
 | Runtime | 111 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

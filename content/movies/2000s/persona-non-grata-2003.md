@@ -15,6 +15,14 @@ poster: "assets/posters/persona-non-grata-2003.jpg"
 
 # Persona Non Grata (2003)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/persona-non-grata-2003.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/persona-non-grata-2003.jpg"
 | Country | France, Spain, United States of America |
 | Runtime | 67 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/mama-roma-1962.jpg"
 
 # Mama Roma (1962)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mama-roma-1962.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/mama-roma-1962.jpg"
 | Country | Italy |
 | Runtime | 110 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

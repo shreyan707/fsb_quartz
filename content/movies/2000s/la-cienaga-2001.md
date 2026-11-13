@@ -15,6 +15,14 @@ poster: "assets/posters/la-cienaga-2001.jpg"
 
 # La Ciénaga (2001)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/la-cienaga-2001.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/la-cienaga-2001.jpg"
 | Country | Argentina, France, Spain |
 | Runtime | 101 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

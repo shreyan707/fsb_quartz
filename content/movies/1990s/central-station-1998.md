@@ -15,6 +15,14 @@ poster: "assets/posters/central-station-1998.jpg"
 
 # Central Station (1998)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/central-station-1998.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/central-station-1998.jpg"
 | Country | Brazil, France |
 | Runtime | 111 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

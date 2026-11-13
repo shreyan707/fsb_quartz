@@ -15,6 +15,14 @@ poster: "assets/posters/where-olive-trees-weep-2024.jpg"
 
 # Where Olive Trees Weep (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/where-olive-trees-weep-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/where-olive-trees-weep-2024.jpg"
 | Country | United States of America |
 | Runtime | 104 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

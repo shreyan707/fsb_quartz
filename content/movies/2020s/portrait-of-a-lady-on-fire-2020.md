@@ -18,6 +18,14 @@ poster: "assets/posters/portrait-of-a-lady-on-fire-2020.jpg"
 
 # Portrait of a Lady on Fire (2020)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/portrait-of-a-lady-on-fire-2020.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field          | Details                           |
@@ -30,6 +38,9 @@ poster: "assets/posters/portrait-of-a-lady-on-fire-2020.jpg"
 | Country        | France                            |
 | Runtime        | 121 min                           |
 | Genre          | Drama, Romance                    |
+
+</div>
+</div>
 
 ## Description
 

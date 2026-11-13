@@ -16,6 +16,14 @@ poster: "assets/posters/the-silence-1998.jpg"
 
 # The Silence (1998)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-silence-1998.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-silence-1998.jpg"
 | Country | France, Iran |
 | Runtime | 76 min |
 | Genre | Drama, Music |
+
+</div>
+</div>
 
 ## Description
 

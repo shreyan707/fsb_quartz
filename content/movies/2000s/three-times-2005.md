@@ -16,6 +16,14 @@ poster: "assets/posters/three-times-2005.jpg"
 
 # Three Times (2005)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/three-times-2005.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/three-times-2005.jpg"
 | Country | Taiwan, France |
 | Runtime | 130 min |
 | Genre | Romance, Drama |
+
+</div>
+</div>
 
 ## Description
 

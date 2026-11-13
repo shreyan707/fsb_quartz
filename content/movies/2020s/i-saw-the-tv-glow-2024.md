@@ -16,6 +16,14 @@ poster: "assets/posters/i-saw-the-tv-glow-2024.jpg"
 
 # I Saw the TV Glow (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/i-saw-the-tv-glow-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/i-saw-the-tv-glow-2024.jpg"
 | Country | United States of America |
 | Runtime | 100 min |
 | Genre | Drama, Horror |
+
+</div>
+</div>
 
 ## Description
 

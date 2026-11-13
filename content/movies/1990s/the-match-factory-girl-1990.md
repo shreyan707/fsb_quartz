@@ -15,6 +15,14 @@ poster: "assets/posters/the-match-factory-girl-1990.jpg"
 
 # The Match Factory Girl (1990)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-match-factory-girl-1990.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-match-factory-girl-1990.jpg"
 | Country | Finland, Sweden |
 | Runtime | 69 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

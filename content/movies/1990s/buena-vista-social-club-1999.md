@@ -16,6 +16,14 @@ poster: "assets/posters/buena-vista-social-club-1999.jpg"
 
 # Buena Vista Social Club (1999)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/buena-vista-social-club-1999.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/buena-vista-social-club-1999.jpg"
 | Country | Germany, United States of America, United Kingdom, France, Cuba |
 | Runtime | 105 min |
 | Genre | Documentary, Music |
+
+</div>
+</div>
 
 ## Description
 

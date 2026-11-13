@@ -17,6 +17,14 @@ poster: "assets/posters/let-the-sunshine-in-2017.jpg"
 
 # Let the Sunshine In (2017)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/let-the-sunshine-in-2017.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/let-the-sunshine-in-2017.jpg"
 | Country | Belgium, France |
 | Runtime | 94 min |
 | Genre | Comedy, Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

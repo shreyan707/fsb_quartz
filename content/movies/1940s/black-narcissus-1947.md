@@ -15,6 +15,14 @@ poster: "assets/posters/black-narcissus-1947.jpg"
 
 # Black Narcissus (1947)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/black-narcissus-1947.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/black-narcissus-1947.jpg"
 | Country | United Kingdom |
 | Runtime | 100 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

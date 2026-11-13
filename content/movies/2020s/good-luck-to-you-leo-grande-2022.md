@@ -16,6 +16,14 @@ poster: "assets/posters/good-luck-to-you-leo-grande-2022.jpg"
 
 # Good Luck to You, Leo Grande (2022)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/good-luck-to-you-leo-grande-2022.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/good-luck-to-you-leo-grande-2022.jpg"
 | Country | United Kingdom |
 | Runtime | 97 min |
 | Genre | Romance, Drama |
+
+</div>
+</div>
 
 ## Description
 

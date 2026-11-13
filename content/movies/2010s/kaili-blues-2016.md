@@ -16,6 +16,14 @@ poster: "assets/posters/kaili-blues-2016.jpg"
 
 # Kaili Blues (2016)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/kaili-blues-2016.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/kaili-blues-2016.jpg"
 | Country | China |
 | Runtime | 113 min |
 | Genre | Drama, Mystery |
+
+</div>
+</div>
 
 ## Description
 

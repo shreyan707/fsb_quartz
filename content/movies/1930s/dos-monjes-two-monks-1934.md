@@ -17,6 +17,14 @@ poster: "assets/posters/dos-monjes-two-monks-1934.jpg"
 
 # Dos Monjes (Two Monks) (1934)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/dos-monjes-two-monks-1934.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/dos-monjes-two-monks-1934.jpg"
 | Country | Mexico |
 | Runtime | 85 min |
 | Genre | Drama, Romance, Mystery |
+
+</div>
+</div>
 
 ## Description
 

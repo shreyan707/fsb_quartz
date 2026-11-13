@@ -16,6 +16,14 @@ poster: "assets/posters/cinema-paradiso-1988.jpg"
 
 # Cinema Paradiso (1988)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/cinema-paradiso-1988.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/cinema-paradiso-1988.jpg"
 | Country | Italy, France |
 | Runtime | 124 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

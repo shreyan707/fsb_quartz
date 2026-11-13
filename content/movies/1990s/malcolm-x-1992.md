@@ -16,6 +16,14 @@ poster: "assets/posters/malcolm-x-1992.jpg"
 
 # Malcolm X (1992)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/malcolm-x-1992.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/malcolm-x-1992.jpg"
 | Country | United States of America, Netherlands Antilles |
 | Runtime | 202 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

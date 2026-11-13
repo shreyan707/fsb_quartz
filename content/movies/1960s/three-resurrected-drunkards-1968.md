@@ -16,6 +16,14 @@ poster: "assets/posters/three-resurrected-drunkards-1968.jpg"
 
 # Three Resurrected Drunkards (1968)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/three-resurrected-drunkards-1968.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/three-resurrected-drunkards-1968.jpg"
 | Country | Japan |
 | Runtime | 80 min |
 | Genre | Drama, Comedy |
+
+</div>
+</div>
 
 ## Description
 

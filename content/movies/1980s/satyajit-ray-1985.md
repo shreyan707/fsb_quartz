@@ -15,6 +15,14 @@ poster: "assets/posters/satyajit-ray-1985.jpg"
 
 # Satyajit Ray (1985)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/satyajit-ray-1985.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/satyajit-ray-1985.jpg"
 | Country | India |
 | Runtime | 131 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

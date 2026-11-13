@@ -15,6 +15,14 @@ poster: "assets/posters/aquarius-2016.jpg"
 
 # Aquarius (2016)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/aquarius-2016.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/aquarius-2016.jpg"
 | Country | Brazil, France |
 | Runtime | 147 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

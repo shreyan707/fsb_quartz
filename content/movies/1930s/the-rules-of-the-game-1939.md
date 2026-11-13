@@ -18,6 +18,14 @@ poster: "assets/posters/the-rules-of-the-game-1939.jpg"
 # The Rules of the Game (1939)
 
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-rules-of-the-game-1939.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -30,6 +38,9 @@ poster: "assets/posters/the-rules-of-the-game-1939.jpg"
 | Country | France |
 | Runtime | 110 min |
 | Genre | Drama, Comedy, Romance |
+
+</div>
+</div>
 
 ## Description
 

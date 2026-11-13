@@ -16,6 +16,14 @@ poster: "assets/posters/the-past-2013.jpg"
 
 # The Past (2013)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-past-2013.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-past-2013.jpg"
 | Country | France, Italy |
 | Runtime | 130 min |
 | Genre | Drama, Mystery |
+
+</div>
+</div>
 
 ## Description
 

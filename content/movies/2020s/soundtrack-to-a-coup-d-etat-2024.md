@@ -17,6 +17,14 @@ poster: "assets/posters/soundtrack-to-a-coup-d-etat-2024.jpg"
 
 # Soundtrack to a Coup d'Etat (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/soundtrack-to-a-coup-d-etat-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/soundtrack-to-a-coup-d-etat-2024.jpg"
 | Country | Belgium, France, Netherlands |
 | Runtime | 150 min |
 | Genre | Documentary, History, Music |
+
+</div>
+</div>
 
 ## Description
 

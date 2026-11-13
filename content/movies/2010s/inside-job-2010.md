@@ -16,6 +16,14 @@ poster: "assets/posters/inside-job-2010.jpg"
 
 # Inside Job (2010)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/inside-job-2010.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/inside-job-2010.jpg"
 | Country | United States of America |
 | Runtime | 109 min |
 | Genre | Documentary, Crime |
+
+</div>
+</div>
 
 ## Description
 

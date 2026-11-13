@@ -17,6 +17,14 @@ poster: "assets/posters/rocco-and-his-brothers-1960.jpg"
 
 # Rocco and his Brothers (1960)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/rocco-and-his-brothers-1960.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/rocco-and-his-brothers-1960.jpg"
 | Country | Italy, France |
 | Runtime | 178 min |
 | Genre | Drama, Romance, Crime |
+
+</div>
+</div>
 
 ## Description
 

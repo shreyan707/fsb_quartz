@@ -16,6 +16,14 @@ poster: "assets/posters/the-laundromat-2019.jpg"
 
 # The Laundromat (2019)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-laundromat-2019.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-laundromat-2019.jpg"
 | Country | United States of America |
 | Runtime | 96 min |
 | Genre | Crime, Drama |
+
+</div>
+</div>
 
 ## Description
 

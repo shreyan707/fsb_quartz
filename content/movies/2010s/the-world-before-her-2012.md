@@ -16,6 +16,14 @@ poster: "assets/posters/the-world-before-her-2012.jpg"
 
 # The World Before Her (2012)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-world-before-her-2012.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-world-before-her-2012.jpg"
 | Country | United States of America, Canada, Germany |
 | Runtime | 90 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

@@ -17,6 +17,14 @@ poster: "assets/posters/motorcycle-diaries-2004.jpg"
 
 # Motorcycle Diaries (2004)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/motorcycle-diaries-2004.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/motorcycle-diaries-2004.jpg"
 | Country | Argentina, France, United Kingdom, United States of America |
 | Runtime | 126 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/the-spirit-of-the-beehive-1973.jpg"
 
 # The spirit of the beehive (1973)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-spirit-of-the-beehive-1973.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-spirit-of-the-beehive-1973.jpg"
 | Country | Spain |
 | Runtime | 99 min |
 | Genre | Drama, Fantasy |
+
+</div>
+</div>
 
 ## Description
 

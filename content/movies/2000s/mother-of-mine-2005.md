@@ -16,6 +16,14 @@ poster: "assets/posters/mother-of-mine-2005.jpg"
 
 # Mother of Mine (2005)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mother-of-mine-2005.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/mother-of-mine-2005.jpg"
 | Country | Finland, Sweden |
 | Runtime | 111 min |
 | Genre | Drama, War |
+
+</div>
+</div>
 
 ## Description
 

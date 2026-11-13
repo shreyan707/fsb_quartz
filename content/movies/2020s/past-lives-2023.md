@@ -16,6 +16,14 @@ poster: "assets/posters/past-lives-2023.jpg"
 
 # Past Lives (2023)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/past-lives-2023.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/past-lives-2023.jpg"
 | Country | United States of America, South Korea |
 | Runtime | 106 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

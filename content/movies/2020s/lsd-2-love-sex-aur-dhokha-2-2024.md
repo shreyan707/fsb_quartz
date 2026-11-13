@@ -17,6 +17,14 @@ poster: "assets/posters/lsd-2-love-sex-aur-dhokha-2-2024.jpg"
 
 # LSD 2: Love, Sex aur Dhokha 2 (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/lsd-2-love-sex-aur-dhokha-2-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/lsd-2-love-sex-aur-dhokha-2-2024.jpg"
 | Country | India |
 | Runtime | 119 min |
 | Genre | Drama, Comedy, Crime |
+
+</div>
+</div>
 
 ## Description
 

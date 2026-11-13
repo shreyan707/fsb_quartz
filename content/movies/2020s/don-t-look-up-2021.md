@@ -17,6 +17,14 @@ poster: "assets/posters/don-t-look-up-2021.jpg"
 
 # Don't Look Up (2021)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/don-t-look-up-2021.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/don-t-look-up-2021.jpg"
 | Country | United States of America |
 | Runtime | 138 min |
 | Genre | Comedy, Science Fiction, Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -17,6 +17,14 @@ poster: "assets/posters/the-cranes-are-flying-1957.jpg"
 
 # The Cranes Are Flying (1957)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-cranes-are-flying-1957.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-cranes-are-flying-1957.jpg"
 | Country | Soviet Union |
 | Runtime | 97 min |
 | Genre | Drama, Romance, War |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/once-upon-a-time-in-anatolia-2011.jpg"
 
 # Once Upon A Time In Anatolia (2011)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/once-upon-a-time-in-anatolia-2011.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/once-upon-a-time-in-anatolia-2011.jpg"
 | Country | Bosnia and Herzegovina, Turkey |
 | Runtime | 163 min |
 | Genre | Drama, Crime |
+
+</div>
+</div>
 
 ## Description
 

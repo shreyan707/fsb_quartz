@@ -15,6 +15,14 @@ poster: "assets/posters/mustang-2015.jpg"
 
 # Mustang (2015)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mustang-2015.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/mustang-2015.jpg"
 | Country | Turkey, France, Germany |
 | Runtime | 97 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

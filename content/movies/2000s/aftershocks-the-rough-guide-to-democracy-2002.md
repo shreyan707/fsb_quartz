@@ -14,6 +14,12 @@ screenings:
 
 # Aftershocks: The Rough Guide to Democracy (2002)
 
+<div class="film-profile">
+<div class="film-poster">
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -26,6 +32,9 @@ screenings:
 | Country | India |
 | Runtime | 68 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/yumurta-2007.jpg"
 
 # Yumurta (2007)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/yumurta-2007.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/yumurta-2007.jpg"
 | Country | Turkey, Greece |
 | Runtime | 97 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

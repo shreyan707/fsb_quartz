@@ -17,6 +17,14 @@ poster: "assets/posters/the-grand-illusion-1937.jpg"
 
 # The Grand Illusion (1937)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-grand-illusion-1937.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-grand-illusion-1937.jpg"
 | Country | France |
 | Runtime | 114 min |
 | Genre | Drama, History, War |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/two-days-one-night-2014.jpg"
 
 # Two Days, One Night (2014)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/two-days-one-night-2014.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/two-days-one-night-2014.jpg"
 | Country | Belgium, France, Italy |
 | Runtime | 95 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/the-battle-of-chile-part-ii-1976.jpg"
 
 # The Battle of Chile: Part II (1976)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-battle-of-chile-part-ii-1976.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-battle-of-chile-part-ii-1976.jpg"
 | Country | Chile, Cuba, France |
 | Runtime | 88 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

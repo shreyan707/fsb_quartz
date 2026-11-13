@@ -15,6 +15,14 @@ poster: "assets/posters/all-that-s-left-of-you-2025.jpg"
 
 # All That's Left of You (2025)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/all-that-s-left-of-you-2025.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/all-that-s-left-of-you-2025.jpg"
 | Country | Germany, Cyprus, United States of America, Qatar, Saudi Arabia, United Arab Emirates, Kuwait, Jordan |
 | Runtime | 146 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

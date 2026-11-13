@@ -14,6 +14,14 @@ poster: "assets/posters/the-housemaid-1960.jpg"
 
 # The Housemaid (1960)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-housemaid-1960.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -26,6 +34,9 @@ poster: "assets/posters/the-housemaid-1960.jpg"
 | Country | South Korea |
 | Runtime | 112 min |
 | Genre | Crime, Drama |
+
+</div>
+</div>
 
 ## Description
 

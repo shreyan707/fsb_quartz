@@ -15,6 +15,14 @@ poster: "assets/posters/i-am-cuba-1964.jpg"
 
 # I am Cuba (1964)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/i-am-cuba-1964.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/i-am-cuba-1964.jpg"
 | Country | Cuba, Soviet Union |
 | Runtime | 141 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

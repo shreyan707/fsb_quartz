@@ -17,6 +17,14 @@ poster: "assets/posters/capitalism-a-love-story-2009.jpg"
 
 # Capitalism: A Love Story (2009)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/capitalism-a-love-story-2009.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/capitalism-a-love-story-2009.jpg"
 | Country | United States of America |
 | Runtime | 128 min |
 | Genre | Documentary, History |
+
+</div>
+</div>
 
 ## Description
 

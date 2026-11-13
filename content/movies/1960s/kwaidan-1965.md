@@ -17,6 +17,14 @@ poster: "assets/posters/kwaidan-1965.jpg"
 
 # Kwaidan (1965)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/kwaidan-1965.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/kwaidan-1965.jpg"
 | Country | Japan |
 | Runtime | 183 min |
 | Genre | Horror, Fantasy, Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/minari-2020.jpg"
 
 # Minari (2020)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/minari-2020.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/minari-2020.jpg"
 | Country | United States of America |
 | Runtime | 115 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

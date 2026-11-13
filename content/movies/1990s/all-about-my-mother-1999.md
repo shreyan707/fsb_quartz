@@ -16,6 +16,14 @@ poster: "assets/posters/all-about-my-mother-1999.jpg"
 
 # All About My Mother (1999)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/all-about-my-mother-1999.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/all-about-my-mother-1999.jpg"
 | Country | Spain, France |
 | Runtime | 101 min |
 | Genre | Comedy, Drama |
+
+</div>
+</div>
 
 ## Description
 

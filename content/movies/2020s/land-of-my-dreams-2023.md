@@ -16,6 +16,14 @@ poster: "assets/posters/land-of-my-dreams-2023.jpg"
 
 # Land of My Dreams (2023)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/land-of-my-dreams-2023.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/land-of-my-dreams-2023.jpg"
 | Country | India |
 | Runtime | 73 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

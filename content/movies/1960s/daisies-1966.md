@@ -16,6 +16,14 @@ poster: "assets/posters/daisies-1966.jpg"
 
 # Daisies (1966)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/daisies-1966.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/daisies-1966.jpg"
 | Country | Czechoslovakia |
 | Runtime | 76 min |
 | Genre | Comedy, Drama |
+
+</div>
+</div>
 
 ## Description
 

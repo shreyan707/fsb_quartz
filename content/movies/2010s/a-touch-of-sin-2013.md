@@ -16,6 +16,14 @@ poster: "assets/posters/a-touch-of-sin-2013.jpg"
 
 # A Touch of Sin (2013)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/a-touch-of-sin-2013.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/a-touch-of-sin-2013.jpg"
 | Country | China |
 | Runtime | 131 min |
 | Genre | Crime, Drama |
+
+</div>
+</div>
 
 ## Description
 

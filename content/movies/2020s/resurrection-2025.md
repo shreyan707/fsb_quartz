@@ -17,6 +17,14 @@ poster: "assets/posters/resurrection-2025.jpg"
 
 # Resurrection (2025)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/resurrection-2025.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/resurrection-2025.jpg"
 | Country | China, France |
 | Runtime | 159 min |
 | Genre | Science Fiction, Fantasy, Drama |
+
+</div>
+</div>
 
 ## Description
 

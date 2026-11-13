@@ -15,6 +15,14 @@ poster: "assets/posters/the-times-of-harvey-milk-1984.jpg"
 
 # The Times of Harvey Milk (1984)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-times-of-harvey-milk-1984.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-times-of-harvey-milk-1984.jpg"
 | Country | United States of America |
 | Runtime | 90 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

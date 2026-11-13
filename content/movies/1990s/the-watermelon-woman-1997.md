@@ -17,6 +17,14 @@ poster: "assets/posters/the-watermelon-woman-1997.jpg"
 
 # The Watermelon Woman (1997)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-watermelon-woman-1997.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-watermelon-woman-1997.jpg"
 | Country | United States of America |
 | Runtime | 85 min |
 | Genre | Drama, Comedy, Romance |
+
+</div>
+</div>
 
 ## Description
 

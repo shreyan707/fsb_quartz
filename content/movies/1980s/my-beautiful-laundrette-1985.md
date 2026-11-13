@@ -17,6 +17,14 @@ poster: "assets/posters/my-beautiful-laundrette-1985.jpg"
 
 # My Beautiful Laundrette (1985)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/my-beautiful-laundrette-1985.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/my-beautiful-laundrette-1985.jpg"
 | Country | United Kingdom |
 | Runtime | 98 min |
 | Genre | Comedy, Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

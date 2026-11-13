@@ -16,6 +16,14 @@ poster: "assets/posters/bowling-for-columbine-2002.jpg"
 
 # Bowling for Columbine (2002)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bowling-for-columbine-2002.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/bowling-for-columbine-2002.jpg"
 | Country | Canada, Germany, United States of America |
 | Runtime | 120 min |
 | Genre | Documentary, Drama |
+
+</div>
+</div>
 
 ## Description
 

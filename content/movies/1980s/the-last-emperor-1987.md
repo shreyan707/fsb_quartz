@@ -16,6 +16,14 @@ poster: "assets/posters/the-last-emperor-1987.jpg"
 
 # The Last Emperor (1987)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-last-emperor-1987.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-last-emperor-1987.jpg"
 | Country | China, France, Italy, United Kingdom |
 | Runtime | 163 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

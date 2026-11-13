@@ -16,6 +16,14 @@ poster: "assets/posters/carmen-1983.jpg"
 
 # Carmen (1983)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/carmen-1983.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/carmen-1983.jpg"
 | Country | France, Switzerland |
 | Runtime | 85 min |
 | Genre | Crime, Drama, Comedy, Romance |
+
+</div>
+</div>
 
 ## Description
 

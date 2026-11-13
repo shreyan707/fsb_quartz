@@ -18,6 +18,14 @@ poster: "assets/posters/devils-backbone-2001.jpg"
 
 # Devil’s Backbone (2001)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/devils-backbone-2001.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -30,6 +38,9 @@ poster: "assets/posters/devils-backbone-2001.jpg"
 | Country | Spain, Mexico |
 | Runtime | 108 min |
 | Genre | Fantasy, Drama, Horror, Thriller |
+
+</div>
+</div>
 
 ## Description
 

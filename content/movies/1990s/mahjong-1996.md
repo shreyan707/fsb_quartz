@@ -17,6 +17,14 @@ poster: "assets/posters/mahjong-1996.jpg"
 
 # Mahjong (1996)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mahjong-1996.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/mahjong-1996.jpg"
 | Country | Taiwan |
 | Runtime | 121 min |
 | Genre | Comedy, Drama, Crime |
+
+</div>
+</div>
 
 ## Description
 

@@ -17,6 +17,15 @@ poster: "assets/posters/FILE-NAME.webp"
 
 # TITLE (YEAR)
 
+<div class="film-profile">
+<div class="film-poster">
+
+%% PASTE THE POSTER IMAGE HERE (replace the line below). Keep it between the blank lines. %%
+![[assets/posters/FILE-NAME.webp]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +38,9 @@ poster: "assets/posters/FILE-NAME.webp"
 | Country | COUNTRY |
 | Runtime | MINUTES min |
 | Genre | GENRE, GENRE |
+
+</div>
+</div>
 
 ## Description
 

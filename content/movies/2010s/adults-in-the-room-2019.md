@@ -15,6 +15,14 @@ poster: "assets/posters/adults-in-the-room-2019.jpg"
 
 # Adults in the Room (2019)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/adults-in-the-room-2019.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/adults-in-the-room-2019.jpg"
 | Country | France, Greece |
 | Runtime | 124 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/the-square-2017.jpg"
 
 # The Square (2017)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-square-2017.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-square-2017.jpg"
 | Country | Denmark, France, Germany, Sweden, United States of America |
 | Runtime | 151 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

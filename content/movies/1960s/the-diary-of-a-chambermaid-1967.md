@@ -17,6 +17,14 @@ poster: "assets/posters/the-diary-of-a-chambermaid-1967.jpg"
 
 # The Diary of a Chambermaid (1967)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-diary-of-a-chambermaid-1967.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-diary-of-a-chambermaid-1967.jpg"
 | Country | United States of America |
 | Runtime | 91 min |
 | Genre | Drama, Romance, Comedy |
+
+</div>
+</div>
 
 ## Description
 

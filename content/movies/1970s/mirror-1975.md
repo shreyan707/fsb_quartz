@@ -16,6 +16,14 @@ poster: "assets/posters/mirror-1975.jpg"
 
 # Mirror (1975)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mirror-1975.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/mirror-1975.jpg"
 | Country | Soviet Union |
 | Runtime | 107 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

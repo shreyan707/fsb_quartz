@@ -15,6 +15,14 @@ poster: "assets/posters/bpm-beats-per-minute-2017.jpg"
 
 # BPM (Beats per Minute) (2017)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bpm-beats-per-minute-2017.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/bpm-beats-per-minute-2017.jpg"
 | Country | France |
 | Runtime | 143 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

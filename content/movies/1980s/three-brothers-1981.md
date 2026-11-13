@@ -15,6 +15,14 @@ poster: "assets/posters/three-brothers-1981.jpg"
 
 # Three Brothers (1981)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/three-brothers-1981.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/three-brothers-1981.jpg"
 | Country | France, Italy |
 | Runtime | 113 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

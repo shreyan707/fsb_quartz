@@ -15,6 +15,14 @@ poster: "assets/posters/just-another-love-story-2010.jpg"
 
 # Just Another Love Story (2010)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/just-another-love-story-2010.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/just-another-love-story-2010.jpg"
 | Country | India |
 | Runtime | 128 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

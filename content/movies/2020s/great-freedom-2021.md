@@ -17,6 +17,14 @@ poster: "assets/posters/great-freedom-2021.jpg"
 
 # Great Freedom (2021)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/great-freedom-2021.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/great-freedom-2021.jpg"
 | Country | Austria, Germany |
 | Runtime | 116 min |
 | Genre | Drama, Romance, Crime |
+
+</div>
+</div>
 
 ## Description
 

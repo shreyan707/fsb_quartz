@@ -15,6 +15,14 @@ poster: "assets/posters/i-will-buy-you-1956.jpg"
 
 # I Will Buy You (1956)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/i-will-buy-you-1956.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/i-will-buy-you-1956.jpg"
 | Country | Japan |
 | Runtime | 111 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

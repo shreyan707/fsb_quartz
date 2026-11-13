@@ -15,6 +15,14 @@ poster: "assets/posters/the-holy-girl-2004.jpg"
 
 # The Holy Girl (2004)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-holy-girl-2004.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-holy-girl-2004.jpg"
 | Country | Argentina, Italy, Netherlands, Spain |
 | Runtime | 106 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

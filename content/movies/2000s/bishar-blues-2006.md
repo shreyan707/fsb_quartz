@@ -15,6 +15,14 @@ poster: "assets/posters/bishar-blues-2006.jpg"
 
 # Bishar Blues (2006)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bishar-blues-2006.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/bishar-blues-2006.jpg"
 | Country | India |
 | Runtime | 79 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

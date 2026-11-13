@@ -15,6 +15,14 @@ poster: "assets/posters/father-son-and-holy-war-1994.jpg"
 
 # Father, Son and Holy War (1994)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/father-son-and-holy-war-1994.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/father-son-and-holy-war-1994.jpg"
 | Country | India |
 | Runtime | 120 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

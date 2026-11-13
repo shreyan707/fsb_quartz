@@ -15,6 +15,14 @@ poster: "assets/posters/tori-and-lokita-2022.jpg"
 
 # Tori and Lokita (2022)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/tori-and-lokita-2022.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/tori-and-lokita-2022.jpg"
 | Country | Belgium, France |
 | Runtime | 88 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

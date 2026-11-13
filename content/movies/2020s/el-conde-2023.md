@@ -17,6 +17,14 @@ poster: "assets/posters/el-conde-2023.jpg"
 
 # El Conde (2023)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/el-conde-2023.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/el-conde-2023.jpg"
 | Country | Chile |
 | Runtime | 111 min |
 | Genre | Fantasy, Comedy, Horror |
+
+</div>
+</div>
 
 ## Description
 

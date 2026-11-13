@@ -16,6 +16,14 @@ poster: "assets/posters/oldboy-2003.jpg"
 
 # Oldboy (2003)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/oldboy-2003.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/oldboy-2003.jpg"
 | Country | South Korea |
 | Runtime | 120 min |
 | Genre | Thriller, Mystery |
+
+</div>
+</div>
 
 ## Description
 

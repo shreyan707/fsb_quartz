@@ -17,6 +17,14 @@ poster: "assets/posters/shoplifters-2018.jpg"
 
 # Shoplifters (2018)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/shoplifters-2018.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/shoplifters-2018.jpg"
 | Country | Japan |
 | Runtime | 120 min |
 | Genre | Drama, Crime, Thriller |
+
+</div>
+</div>
 
 ## Description
 

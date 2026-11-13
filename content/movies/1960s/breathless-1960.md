@@ -17,6 +17,14 @@ poster: "assets/posters/breathless-1960.jpg"
 
 # Breathless (1960)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/breathless-1960.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/breathless-1960.jpg"
 | Country | France |
 | Runtime | 90 min |
 | Genre | Drama, Crime, Romance |
+
+</div>
+</div>
 
 ## Description
 

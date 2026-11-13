@@ -16,6 +16,14 @@ poster: "assets/posters/suraj-ka-satvan-ghoda-1992.jpg"
 
 # Suraj Ka Satvan Ghoda (1992)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/suraj-ka-satvan-ghoda-1992.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/suraj-ka-satvan-ghoda-1992.jpg"
 | Country | India |
 | Runtime | 130 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

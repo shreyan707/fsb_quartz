@@ -15,6 +15,14 @@ poster: "assets/posters/the-salt-of-the-earth-2014.jpg"
 
 # The Salt of the Earth (2014)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-salt-of-the-earth-2014.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-salt-of-the-earth-2014.jpg"
 | Country | Italy, France, Brazil |
 | Runtime | 110 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

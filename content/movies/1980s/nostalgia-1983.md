@@ -16,6 +16,14 @@ poster: "assets/posters/nostalgia-1983.jpg"
 
 # Nostalgia (1983)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/nostalgia-1983.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/nostalgia-1983.jpg"
 | Country | Italy, Soviet Union |
 | Runtime | 124 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

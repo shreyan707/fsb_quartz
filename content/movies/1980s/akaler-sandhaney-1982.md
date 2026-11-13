@@ -15,6 +15,14 @@ poster: "assets/posters/akaler-sandhaney-1982.jpg"
 
 # Akaler Sandhaney (1982)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/akaler-sandhaney-1982.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/akaler-sandhaney-1982.jpg"
 | Country | India |
 | Runtime | 128 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

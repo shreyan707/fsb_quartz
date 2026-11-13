@@ -15,6 +15,14 @@ poster: "assets/posters/bhuvan-shome-1969.jpg"
 
 # Bhuvan Shome (1969)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bhuvan-shome-1969.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/bhuvan-shome-1969.jpg"
 | Country | India |
 | Runtime | 96 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

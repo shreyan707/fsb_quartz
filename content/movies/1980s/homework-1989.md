@@ -15,6 +15,14 @@ poster: "assets/posters/homework-1989.jpg"
 
 # Homework (1989)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/homework-1989.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/homework-1989.jpg"
 | Country | Iran |
 | Runtime | 78 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

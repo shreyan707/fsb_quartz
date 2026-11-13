@@ -15,6 +15,14 @@ poster: "assets/posters/chaityabhumi-2023.jpg"
 
 # Chaityabhumi (2023)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/chaityabhumi-2023.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/chaityabhumi-2023.jpg"
 | Country | India |
 | Runtime | N/A |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

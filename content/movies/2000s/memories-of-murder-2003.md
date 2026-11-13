@@ -17,6 +17,14 @@ poster: "assets/posters/memories-of-murder-2003.jpg"
 
 # Memories of Murder (2003)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/memories-of-murder-2003.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/memories-of-murder-2003.jpg"
 | Country | South Korea |
 | Runtime | 131 min |
 | Genre | Crime, Drama, Thriller |
+
+</div>
+</div>
 
 ## Description
 

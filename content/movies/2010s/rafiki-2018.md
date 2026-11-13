@@ -16,6 +16,14 @@ poster: "assets/posters/rafiki-2018.jpg"
 
 # Rafiki (2018)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/rafiki-2018.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/rafiki-2018.jpg"
 | Country | Germany, Netherlands, France, Norway, United States of America, South Africa, Belgium |
 | Runtime | 82 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

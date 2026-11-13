@@ -16,6 +16,14 @@ poster: "assets/posters/trances-1981.jpg"
 
 # Trances (1981)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/trances-1981.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/trances-1981.jpg"
 | Country | France, Morocco |
 | Runtime | 90 min |
 | Genre | Documentary, Music |
+
+</div>
+</div>
 
 ## Description
 

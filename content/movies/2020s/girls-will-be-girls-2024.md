@@ -16,6 +16,14 @@ poster: "assets/posters/girls-will-be-girls-2024.jpg"
 
 # Girls Will Be Girls (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/girls-will-be-girls-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/girls-will-be-girls-2024.jpg"
 | Country | France, India, Norway |
 | Runtime | 119 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

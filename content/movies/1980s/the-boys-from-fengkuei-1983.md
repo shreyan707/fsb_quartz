@@ -15,6 +15,14 @@ poster: "assets/posters/the-boys-from-fengkuei-1983.jpg"
 
 # The Boys from Fengkuei (1983)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-boys-from-fengkuei-1983.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-boys-from-fengkuei-1983.jpg"
 | Country | Taiwan |
 | Runtime | 98 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

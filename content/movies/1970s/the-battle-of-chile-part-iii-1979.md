@@ -15,6 +15,14 @@ poster: "assets/posters/the-battle-of-chile-part-iii-1979.jpg"
 
 # The Battle of Chile: Part III (1979)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-battle-of-chile-part-iii-1979.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-battle-of-chile-part-iii-1979.jpg"
 | Country | Chile, France, Cuba |
 | Runtime | 78 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

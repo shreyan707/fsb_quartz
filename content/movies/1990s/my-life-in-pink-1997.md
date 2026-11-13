@@ -16,6 +16,14 @@ poster: "assets/posters/my-life-in-pink-1997.jpg"
 
 # My Life in Pink (1997)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/my-life-in-pink-1997.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/my-life-in-pink-1997.jpg"
 | Country | France, Belgium, Switzerland, United Kingdom |
 | Runtime | 88 min |
 | Genre | Drama, Comedy |
+
+</div>
+</div>
 
 ## Description
 

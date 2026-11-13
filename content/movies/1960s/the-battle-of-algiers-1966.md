@@ -17,6 +17,14 @@ poster: "assets/posters/the-battle-of-algiers-1966.jpg"
 
 # The Battle of Algiers (1966)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-battle-of-algiers-1966.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-battle-of-algiers-1966.jpg"
 | Country | Italy, Algeria |
 | Runtime | 122 min |
 | Genre | Drama, War, History |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/shadows-in-paradise-1986.jpg"
 
 # Shadows in Paradise (1986)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/shadows-in-paradise-1986.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/shadows-in-paradise-1986.jpg"
 | Country | Finland |
 | Runtime | 74 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

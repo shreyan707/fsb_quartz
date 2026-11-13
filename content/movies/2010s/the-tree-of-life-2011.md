@@ -16,6 +16,14 @@ poster: "assets/posters/the-tree-of-life-2011.jpg"
 
 # The Tree of Life (2011)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-tree-of-life-2011.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-tree-of-life-2011.jpg"
 | Country | United States of America |
 | Runtime | 139 min |
 | Genre | Drama, Fantasy |
+
+</div>
+</div>
 
 ## Description
 

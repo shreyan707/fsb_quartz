@@ -16,6 +16,14 @@ poster: "assets/posters/the-discreet-charm-of-the-bourgeoisie-1972.jpg"
 
 # The Discreet Charm of the Bourgeoisie (1972)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-discreet-charm-of-the-bourgeoisie-1972.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-discreet-charm-of-the-bourgeoisie-1972.jpg"
 | Country | France |
 | Runtime | 101 min |
 | Genre | Comedy, Fantasy |
+
+</div>
+</div>
 
 ## Description
 

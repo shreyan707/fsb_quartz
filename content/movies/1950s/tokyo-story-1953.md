@@ -15,6 +15,14 @@ poster: "assets/posters/tokyo-story-1953.jpg"
 
 # Tokyo Story (1953)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/tokyo-story-1953.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/tokyo-story-1953.jpg"
 | Country | Japan |
 | Runtime | 137 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

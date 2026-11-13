@@ -15,6 +15,14 @@ poster: "assets/posters/once-upon-a-time-in-gaza-2025.jpg"
 
 # Once Upon a Time in Gaza (2025)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/once-upon-a-time-in-gaza-2025.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/once-upon-a-time-in-gaza-2025.jpg"
 | Country | France, Portugal, Germany, United Kingdom, Palestinian Territory, United Arab Emirates, Jordan, Qatar, Syrian Arab Republic |
 | Runtime | 87 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

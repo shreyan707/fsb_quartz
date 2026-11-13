@@ -15,6 +15,14 @@ poster: "assets/posters/and-life-goes-on-1992.jpg"
 
 # And Life Goes On (1992)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/and-life-goes-on-1992.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/and-life-goes-on-1992.jpg"
 | Country | Iran |
 | Runtime | 95 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

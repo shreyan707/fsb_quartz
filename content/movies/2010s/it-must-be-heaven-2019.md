@@ -16,6 +16,14 @@ poster: "assets/posters/it-must-be-heaven-2019.jpg"
 
 # It Must Be Heaven (2019)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/it-must-be-heaven-2019.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/it-must-be-heaven-2019.jpg"
 | Country | France, Germany, Qatar, Canada, Turkey, Luxembourg, Lebanon |
 | Runtime | 103 min |
 | Genre | Comedy, Drama |
+
+</div>
+</div>
 
 ## Description
 

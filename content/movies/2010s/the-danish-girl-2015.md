@@ -15,6 +15,14 @@ poster: "assets/posters/the-danish-girl-2015.jpg"
 
 # The Danish Girl (2015)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-danish-girl-2015.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-danish-girl-2015.jpg"
 | Country | Belgium, United Kingdom, United States of America |
 | Runtime | 119 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

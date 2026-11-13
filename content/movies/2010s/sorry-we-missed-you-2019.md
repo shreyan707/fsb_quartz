@@ -15,6 +15,14 @@ poster: "assets/posters/sorry-we-missed-you-2019.jpg"
 
 # Sorry We Missed You (2019)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/sorry-we-missed-you-2019.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/sorry-we-missed-you-2019.jpg"
 | Country | United Kingdom, France, Belgium |
 | Runtime | 101 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

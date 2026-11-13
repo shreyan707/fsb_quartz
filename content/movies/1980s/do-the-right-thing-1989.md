@@ -15,6 +15,14 @@ poster: "assets/posters/do-the-right-thing-1989.jpg"
 
 # Do the Right Thing (1989)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/do-the-right-thing-1989.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/do-the-right-thing-1989.jpg"
 | Country | United States of America |
 | Runtime | 120 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

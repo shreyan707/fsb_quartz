@@ -15,6 +15,14 @@ poster: "assets/posters/the-gospel-according-to-matthew-1964.jpg"
 
 # The Gospel According To Matthew (1964)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-gospel-according-to-matthew-1964.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-gospel-according-to-matthew-1964.jpg"
 | Country | Italy, France |
 | Runtime | 137 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

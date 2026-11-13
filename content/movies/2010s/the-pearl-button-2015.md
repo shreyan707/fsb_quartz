@@ -15,6 +15,14 @@ poster: "assets/posters/the-pearl-button-2015.jpg"
 
 # The Pearl Button (2015)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-pearl-button-2015.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-pearl-button-2015.jpg"
 | Country | Chile, France, Spain, Switzerland |
 | Runtime | 82 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

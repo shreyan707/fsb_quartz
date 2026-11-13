@@ -16,6 +16,14 @@ poster: "assets/posters/salim-langde-pe-mat-ro-1989.jpg"
 
 # Salim Langde Pe Mat Ro (1989)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/salim-langde-pe-mat-ro-1989.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/salim-langde-pe-mat-ro-1989.jpg"
 | Country | India |
 | Runtime | 111 min |
 | Genre | Crime, Drama |
+
+</div>
+</div>
 
 ## Description
 

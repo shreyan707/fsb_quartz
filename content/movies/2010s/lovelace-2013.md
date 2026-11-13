@@ -15,6 +15,14 @@ poster: "assets/posters/lovelace-2013.jpg"
 
 # Lovelace (2013)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/lovelace-2013.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/lovelace-2013.jpg"
 | Country | United States of America |
 | Runtime | 92 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -17,6 +17,14 @@ poster: "assets/posters/solaris-1972.jpg"
 
 # Solaris (1972)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/solaris-1972.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/solaris-1972.jpg"
 | Country | Soviet Union |
 | Runtime | 167 min |
 | Genre | Drama, Science Fiction, Mystery |
+
+</div>
+</div>
 
 ## Description
 

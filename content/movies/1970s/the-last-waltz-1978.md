@@ -16,6 +16,14 @@ poster: "assets/posters/the-last-waltz-1978.jpg"
 
 # The Last Waltz (1978)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-last-waltz-1978.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-last-waltz-1978.jpg"
 | Country | United States of America |
 | Runtime | 117 min |
 | Genre | Documentary, Music |
+
+</div>
+</div>
 
 ## Description
 

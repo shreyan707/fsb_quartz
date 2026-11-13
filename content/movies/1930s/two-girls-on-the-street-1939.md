@@ -16,6 +16,14 @@ poster: "assets/posters/two-girls-on-the-street-1939.jpg"
 
 # Two Girls on the Street (1939)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/two-girls-on-the-street-1939.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/two-girls-on-the-street-1939.jpg"
 | Country | Hungary |
 | Runtime | 84 min |
 | Genre | Drama, Comedy |
+
+</div>
+</div>
 
 ## Description
 

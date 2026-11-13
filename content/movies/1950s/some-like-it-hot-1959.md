@@ -17,6 +17,14 @@ poster: "assets/posters/some-like-it-hot-1959.jpg"
 
 # Some Like It Hot (1959)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/some-like-it-hot-1959.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/some-like-it-hot-1959.jpg"
 | Country | United States of America |
 | Runtime | 123 min |
 | Genre | Comedy, Romance, Crime |
+
+</div>
+</div>
 
 ## Description
 

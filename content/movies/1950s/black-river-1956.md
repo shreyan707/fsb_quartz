@@ -16,6 +16,14 @@ poster: "assets/posters/black-river-1956.jpg"
 
 # Black River (1956)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/black-river-1956.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/black-river-1956.jpg"
 | Country | Japan |
 | Runtime | 114 min |
 | Genre | Crime, Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/timbuktu-2014.jpg"
 
 # Timbuktu (2014)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/timbuktu-2014.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/timbuktu-2014.jpg"
 | Country | France |
 | Runtime | 96 min |
 | Genre | Drama, War |
+
+</div>
+</div>
 
 ## Description
 

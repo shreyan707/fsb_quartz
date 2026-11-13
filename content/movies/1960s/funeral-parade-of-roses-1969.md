@@ -15,6 +15,14 @@ poster: "assets/posters/funeral-parade-of-roses-1969.jpg"
 
 # Funeral Parade of Roses (1969)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/funeral-parade-of-roses-1969.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/funeral-parade-of-roses-1969.jpg"
 | Country | Japan |
 | Runtime | 105 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

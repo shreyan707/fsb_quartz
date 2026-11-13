@@ -15,6 +15,14 @@ poster: "assets/posters/ceddo-1977.jpg"
 
 # Ceddo (1977)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/ceddo-1977.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/ceddo-1977.jpg"
 | Country | Senegal, France |
 | Runtime | 117 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

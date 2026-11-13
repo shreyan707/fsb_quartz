@@ -16,6 +16,14 @@ poster: "assets/posters/leviathan-2014.jpg"
 
 # Leviathan (2014)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/leviathan-2014.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/leviathan-2014.jpg"
 | Country | Russia |
 | Runtime | 141 min |
 | Genre | Drama, Crime |
+
+</div>
+</div>
 
 ## Description
 

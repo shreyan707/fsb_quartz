@@ -15,6 +15,14 @@ poster: "assets/posters/merchants-of-doubt-2014.jpg"
 
 # Merchants of Doubt (2014)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/merchants-of-doubt-2014.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/merchants-of-doubt-2014.jpg"
 | Country | United States of America |
 | Runtime | 96 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

@@ -17,6 +17,14 @@ poster: "assets/posters/downpour-1972.jpg"
 
 # Downpour (1972)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/downpour-1972.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/downpour-1972.jpg"
 | Country | Iran |
 | Runtime | 130 min |
 | Genre | Drama, Romance, Comedy |
+
+</div>
+</div>
 
 ## Description
 

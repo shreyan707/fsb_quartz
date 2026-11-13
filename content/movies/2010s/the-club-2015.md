@@ -15,6 +15,14 @@ poster: "assets/posters/the-club-2015.jpg"
 
 # The Club (2015)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-club-2015.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-club-2015.jpg"
 | Country | United Kingdom |
 | Runtime | 107 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

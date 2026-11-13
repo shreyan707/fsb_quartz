@@ -15,6 +15,14 @@ poster: "assets/posters/drive-my-car-2021.jpg"
 
 # Drive My Car (2021)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/drive-my-car-2021.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/drive-my-car-2021.jpg"
 | Country | Japan |
 | Runtime | 179 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/the-headless-woman-2008.jpg"
 
 # The Headless Woman (2008)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-headless-woman-2008.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-headless-woman-2008.jpg"
 | Country | Argentina, France, Italy, Spain |
 | Runtime | 87 min |
 | Genre | Drama, Mystery |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/poetry-2010.jpg"
 
 # Poetry (2010)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/poetry-2010.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/poetry-2010.jpg"
 | Country | South Korea |
 | Runtime | 139 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

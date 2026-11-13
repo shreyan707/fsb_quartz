@@ -16,6 +16,14 @@ poster: "assets/posters/paris-is-burning-1991.jpg"
 
 # Paris Is Burning (1991)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/paris-is-burning-1991.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/paris-is-burning-1991.jpg"
 | Country | United States of America |
 | Runtime | 78 min |
 | Genre | Documentary, History |
+
+</div>
+</div>
 
 ## Description
 

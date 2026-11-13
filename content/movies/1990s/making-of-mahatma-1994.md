@@ -15,6 +15,14 @@ poster: "assets/posters/making-of-mahatma-1994.jpg"
 
 # Making of Mahatma (1994)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/making-of-mahatma-1994.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/making-of-mahatma-1994.jpg"
 | Country | South Africa, India |
 | Runtime | 144 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

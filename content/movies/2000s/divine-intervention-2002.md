@@ -17,6 +17,14 @@ poster: "assets/posters/divine-intervention-2002.jpg"
 
 # Divine Intervention (2002)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/divine-intervention-2002.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/divine-intervention-2002.jpg"
 | Country | France, Morocco, Germany, Netherlands, Palestinian Territory |
 | Runtime | 92 min |
 | Genre | Drama, Romance, Comedy |
+
+</div>
+</div>
 
 ## Description
 

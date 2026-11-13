@@ -15,6 +15,14 @@ poster: "assets/posters/firaaq-2009.jpg"
 
 # Firaaq (2009)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/firaaq-2009.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/firaaq-2009.jpg"
 | Country | India |
 | Runtime | 101 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

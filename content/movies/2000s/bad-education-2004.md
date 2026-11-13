@@ -16,6 +16,14 @@ poster: "assets/posters/bad-education-2004.jpg"
 
 # Bad Education (2004)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bad-education-2004.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/bad-education-2004.jpg"
 | Country | Spain |
 | Runtime | 105 min |
 | Genre | Drama, Crime |
+
+</div>
+</div>
 
 ## Description
 

@@ -17,6 +17,14 @@ poster: "assets/posters/the-assassin-2015.jpg"
 
 # The Assassin (2015)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-assassin-2015.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-assassin-2015.jpg"
 | Country | Hong Kong, Taiwan, China, France |
 | Runtime | 105 min |
 | Genre | Action, Adventure, History |
+
+</div>
+</div>
 
 ## Description
 

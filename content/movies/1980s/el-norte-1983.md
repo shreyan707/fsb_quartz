@@ -16,6 +16,14 @@ poster: "assets/posters/el-norte-1983.jpg"
 
 # El Norte (1983)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/el-norte-1983.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/el-norte-1983.jpg"
 | Country | United States of America, United Kingdom, Mexico |
 | Runtime | 141 min |
 | Genre | Adventure, Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/reason-2018.jpg"
 
 # Reason (2018)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/reason-2018.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/reason-2018.jpg"
 | Country | India |
 | Runtime | 218 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

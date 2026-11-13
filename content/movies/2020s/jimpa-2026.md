@@ -15,6 +15,14 @@ poster: "assets/posters/jimpa-2026.jpg"
 
 # Jimpa (2026)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/jimpa-2026.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/jimpa-2026.jpg"
 | Country | Australia, Netherlands, United States of America, Finland, Belgium |
 | Runtime | 113 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/devils-on-the-doorstep-2000.jpg"
 
 # Devils on the Doorstep (2000)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/devils-on-the-doorstep-2000.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/devils-on-the-doorstep-2000.jpg"
 | Country | China |
 | Runtime | 139 min |
 | Genre | Drama, War |
+
+</div>
+</div>
 
 ## Description
 

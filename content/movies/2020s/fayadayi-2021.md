@@ -15,6 +15,14 @@ poster: "assets/posters/fayadayi-2021.jpg"
 
 # Fayadayi (2021)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/fayadayi-2021.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/fayadayi-2021.jpg"
 | Country | Ethiopia, United States of America |
 | Runtime | 120 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

@@ -17,6 +17,14 @@ poster: assets/posters/love-lies-bleeding-2024.webp
 ---
 # Love Lies Bleeding (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/love-lies-bleeding-2024.webp]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field          | Details                  |
@@ -29,6 +37,9 @@ poster: assets/posters/love-lies-bleeding-2024.webp
 | Country        | United States of America |
 | Runtime        | 104 min                  |
 | Genre          | Crime, Romance, Thriller |
+
+</div>
+</div>
 
 ## Description
 

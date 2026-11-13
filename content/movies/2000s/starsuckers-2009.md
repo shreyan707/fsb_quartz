@@ -15,6 +15,14 @@ poster: "assets/posters/starsuckers-2009.jpg"
 
 # Starsuckers (2009)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/starsuckers-2009.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/starsuckers-2009.jpg"
 | Country | N/A |
 | Runtime | 103 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

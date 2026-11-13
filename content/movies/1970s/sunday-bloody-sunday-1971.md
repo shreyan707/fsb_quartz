@@ -15,6 +15,14 @@ poster: "assets/posters/sunday-bloody-sunday-1971.jpg"
 
 # Sunday Bloody Sunday (1971)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/sunday-bloody-sunday-1971.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/sunday-bloody-sunday-1971.jpg"
 | Country | United Kingdom |
 | Runtime | 110 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

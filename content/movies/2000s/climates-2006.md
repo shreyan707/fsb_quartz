@@ -15,6 +15,14 @@ poster: "assets/posters/climates-2006.jpg"
 
 # Climates (2006)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/climates-2006.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/climates-2006.jpg"
 | Country | France, Turkey, Netherlands |
 | Runtime | 98 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

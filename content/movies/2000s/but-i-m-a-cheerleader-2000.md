@@ -17,6 +17,14 @@ poster: "assets/posters/but-i-m-a-cheerleader-2000.jpg"
 
 # But I'm a Cheerleader (2000)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/but-i-m-a-cheerleader-2000.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/but-i-m-a-cheerleader-2000.jpg"
 | Country | United States of America |
 | Runtime | 85 min |
 | Genre | Comedy, Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

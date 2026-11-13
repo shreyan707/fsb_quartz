@@ -16,6 +16,14 @@ poster: "assets/posters/andrei-rublev-1966.jpg"
 
 # Andrei Rublev (1966)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/andrei-rublev-1966.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/andrei-rublev-1966.jpg"
 | Country | Soviet Union |
 | Runtime | 183 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

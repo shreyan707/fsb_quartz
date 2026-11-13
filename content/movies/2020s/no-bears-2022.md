@@ -16,6 +16,14 @@ poster: "assets/posters/no-bears-2022.jpg"
 
 # No Bears (2022)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/no-bears-2022.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/no-bears-2022.jpg"
 | Country | Iran |
 | Runtime | 107 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

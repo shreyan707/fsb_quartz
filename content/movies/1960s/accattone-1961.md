@@ -15,6 +15,14 @@ poster: "assets/posters/accattone-1961.jpg"
 
 # Accattone (1961)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/accattone-1961.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/accattone-1961.jpg"
 | Country | Italy |
 | Runtime | 117 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/the-substance-2024.jpg"
 
 # The Substance (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-substance-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-substance-2024.jpg"
 | Country | France, United Kingdom, United States of America |
 | Runtime | 141 min |
 | Genre | Horror, Science Fiction |
+
+</div>
+</div>
 
 ## Description
 

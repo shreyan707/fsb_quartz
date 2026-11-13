@@ -15,6 +15,14 @@ poster: "assets/posters/russian-ark-2022.jpg"
 
 # Russian Ark (2022)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/russian-ark-2022.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/russian-ark-2022.jpg"
 | Country | Germany, Russia |
 | Runtime | 44 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/the-antisocial-network-memes-to-mayhem-2024.jpg"
 
 # The Antisocial Network: Memes to Mayhem (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-antisocial-network-memes-to-mayhem-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-antisocial-network-memes-to-mayhem-2024.jpg"
 | Country | United States of America |
 | Runtime | 86 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

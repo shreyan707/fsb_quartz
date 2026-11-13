@@ -17,6 +17,14 @@ poster: "assets/posters/the-time-that-remains-2009.jpg"
 
 # The Time That Remains (2009)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-time-that-remains-2009.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-time-that-remains-2009.jpg"
 | Country | France, Belgium, Italy, United Kingdom |
 | Runtime | 109 min |
 | Genre | Drama, History, Comedy |
+
+</div>
+</div>
 
 ## Description
 

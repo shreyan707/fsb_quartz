@@ -16,6 +16,14 @@ poster: "assets/posters/long-day-s-journey-into-night-2018.jpg"
 
 # Long Day's Journey Into Night (2018)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/long-day-s-journey-into-night-2018.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/long-day-s-journey-into-night-2018.jpg"
 | Country | China, France, Taiwan |
 | Runtime | 138 min |
 | Genre | Drama, Mystery |
+
+</div>
+</div>
 
 ## Description
 

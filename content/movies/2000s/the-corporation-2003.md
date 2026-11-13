@@ -15,6 +15,14 @@ poster: "assets/posters/the-corporation-2003.jpg"
 
 # The Corporation (2003)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-corporation-2003.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-corporation-2003.jpg"
 | Country | Canada |
 | Runtime | 145 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

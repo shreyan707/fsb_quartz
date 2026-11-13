@@ -15,6 +15,14 @@ poster: "assets/posters/chronicle-of-a-summer-1961.jpg"
 
 # Chronicle of a Summer (1961)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/chronicle-of-a-summer-1961.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/chronicle-of-a-summer-1961.jpg"
 | Country | France |
 | Runtime | 91 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

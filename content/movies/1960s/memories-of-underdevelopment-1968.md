@@ -15,6 +15,14 @@ poster: "assets/posters/memories-of-underdevelopment-1968.jpg"
 
 # Memories of Underdevelopment (1968)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/memories-of-underdevelopment-1968.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/memories-of-underdevelopment-1968.jpg"
 | Country | Cuba |
 | Runtime | 99 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

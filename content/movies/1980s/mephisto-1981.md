@@ -15,6 +15,14 @@ poster: "assets/posters/mephisto-1981.jpg"
 
 # Mephisto (1981)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mephisto-1981.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/mephisto-1981.jpg"
 | Country | Germany, Hungary |
 | Runtime | 145 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

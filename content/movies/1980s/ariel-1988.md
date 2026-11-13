@@ -17,6 +17,14 @@ poster: "assets/posters/ariel-1988.jpg"
 
 # Ariel (1988)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/ariel-1988.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/ariel-1988.jpg"
 | Country | Finland |
 | Runtime | 73 min |
 | Genre | Drama, Romance, Crime |
+
+</div>
+</div>
 
 ## Description
 

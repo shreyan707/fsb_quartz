@@ -16,6 +16,14 @@ poster: "assets/posters/in-the-mood-for-love-2000.jpg"
 
 # In the Mood for Love (2000)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/in-the-mood-for-love-2000.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/in-the-mood-for-love-2000.jpg"
 | Country | Hong Kong, France |
 | Runtime | 99 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

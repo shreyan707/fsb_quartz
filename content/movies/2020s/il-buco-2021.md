@@ -15,6 +15,14 @@ poster: "assets/posters/il-buco-2021.jpg"
 
 # il buco (2021)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/il-buco-2021.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/il-buco-2021.jpg"
 | Country | Germany, France, Italy |
 | Runtime | 93 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

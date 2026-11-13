@@ -15,6 +15,14 @@ poster: "assets/posters/bird-of-dusk-2018.jpg"
 
 # Bird of Dusk (2018)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bird-of-dusk-2018.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/bird-of-dusk-2018.jpg"
 | Country | India, Spain, United Kingdom |
 | Runtime | 92 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

@@ -16,6 +16,14 @@ poster: "assets/posters/triangle-of-sadness-2022.jpg"
 
 # Triangle of Sadness (2022)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/triangle-of-sadness-2022.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/triangle-of-sadness-2022.jpg"
 | Country | Denmark, France, Germany, Greece, Mexico, Sweden, Switzerland, Turkey, United Kingdom, United States of America |
 | Runtime | 147 min |
 | Genre | Comedy, Drama |
+
+</div>
+</div>
 
 ## Description
 

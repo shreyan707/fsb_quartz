@@ -16,6 +16,14 @@ poster: "assets/posters/the-river-1951.jpg"
 
 # The River (1951)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-river-1951.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-river-1951.jpg"
 | Country | France, India |
 | Runtime | 99 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

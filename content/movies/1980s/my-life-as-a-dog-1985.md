@@ -16,6 +16,14 @@ poster: "assets/posters/my-life-as-a-dog-1985.jpg"
 
 # My Life as a Dog (1985)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/my-life-as-a-dog-1985.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/my-life-as-a-dog-1985.jpg"
 | Country | Sweden |
 | Runtime | 102 min |
 | Genre | Drama, Comedy |
+
+</div>
+</div>
 
 ## Description
 

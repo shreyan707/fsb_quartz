@@ -16,6 +16,14 @@ poster: "assets/posters/gertrud-1964.jpg"
 
 # Gertrud (1964)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/gertrud-1964.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/gertrud-1964.jpg"
 | Country | Denmark |
 | Runtime | 119 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

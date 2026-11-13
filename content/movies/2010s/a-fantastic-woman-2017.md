@@ -17,6 +17,14 @@ poster: "assets/posters/a-fantastic-woman-2017.jpg"
 
 # A Fantastic Woman (2017)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/a-fantastic-woman-2017.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/a-fantastic-woman-2017.jpg"
 | Country | Chile, Germany, Spain, United States of America |
 | Runtime | 104 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

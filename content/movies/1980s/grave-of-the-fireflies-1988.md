@@ -17,6 +17,14 @@ poster: "assets/posters/grave-of-the-fireflies-1988.jpg"
 
 # Grave of the Fireflies (1988)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/grave-of-the-fireflies-1988.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/grave-of-the-fireflies-1988.jpg"
 | Country | Japan |
 | Runtime | 89 min |
 | Genre | Animation, Drama, War |
+
+</div>
+</div>
 
 ## Description
 

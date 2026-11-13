@@ -17,6 +17,14 @@ poster: "assets/posters/chess-of-the-wind-1976.jpg"
 
 # Chess of the Wind (1976)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/chess-of-the-wind-1976.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/chess-of-the-wind-1976.jpg"
 | Country | Iran |
 | Runtime | 100 min |
 | Genre | Drama, Mystery, Thriller |
+
+</div>
+</div>
 
 ## Description
 

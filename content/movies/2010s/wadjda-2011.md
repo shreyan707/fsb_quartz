@@ -13,6 +13,14 @@ poster: "assets/posters/wadjda-2011.jpg"
 
 # Wadjda (2011)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/wadjda-2011.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -25,6 +33,9 @@ poster: "assets/posters/wadjda-2011.jpg"
 | Country | Germany, Saudi Arabia |
 | Runtime | 98 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

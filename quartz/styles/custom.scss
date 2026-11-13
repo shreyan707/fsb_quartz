@@ -700,7 +700,8 @@ ul.tags a,
   color: var(--gray);
 }
 
-.director-profile {
+.director-profile,
+.film-profile {
   display: flex;
   gap: 1.5rem;
   align-items: flex-start;
@@ -718,7 +719,26 @@ ul.tags a,
     border-radius: 4px;
   }
 
-  .director-facts {
+  .film-poster {
+    flex: none;
+    width: 180px;
+
+    // pasted/embedded poster is the only thing in this slot
+    p {
+      margin: 0;
+    }
+
+    &:not(:has(img)) {
+      display: none;
+    }
+
+    @media (max-width: 600px) {
+      width: 160px;
+    }
+  }
+
+  .director-facts,
+  .film-facts {
     flex: 1;
     min-width: 0;
 

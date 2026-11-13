@@ -16,6 +16,14 @@ poster: "assets/posters/shadow-world-2016.jpg"
 
 # Shadow World (2016)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/shadow-world-2016.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/shadow-world-2016.jpg"
 | Country | Belgium, Denmark, Switzerland, United Kingdom, United States of America |
 | Runtime | 94 min |
 | Genre | Documentary, History |
+
+</div>
+</div>
 
 ## Description
 

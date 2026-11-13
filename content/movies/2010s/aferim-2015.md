@@ -16,6 +16,14 @@ poster: "assets/posters/aferim-2015.jpg"
 
 # Aferim (2015)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/aferim-2015.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/aferim-2015.jpg"
 | Country | Bulgaria, Czech Republic, Romania |
 | Runtime | 108 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

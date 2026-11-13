@@ -16,6 +16,14 @@ poster: "assets/posters/the-untold-history-of-the-united-states-2012.jpg"
 
 # The Untold History Of The United States (2012)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-untold-history-of-the-united-states-2012.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-untold-history-of-the-united-states-2012.jpg"
 | Country | United States of America |
 | Runtime | 585 min |
 | Genre | Documentary, History |
+
+</div>
+</div>
 
 ## Description
 

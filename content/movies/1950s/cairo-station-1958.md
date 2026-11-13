@@ -17,6 +17,14 @@ poster: "assets/posters/cairo-station-1958.jpg"
 
 # Cairo Station (1958)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/cairo-station-1958.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/cairo-station-1958.jpg"
 | Country | Egypt |
 | Runtime | 77 min |
 | Genre | Crime, Drama, Thriller |
+
+</div>
+</div>
 
 ## Description
 

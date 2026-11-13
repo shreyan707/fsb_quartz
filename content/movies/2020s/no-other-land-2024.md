@@ -15,6 +15,14 @@ poster: "assets/posters/no-other-land-2024.jpg"
 
 # No Other Land (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/no-other-land-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/no-other-land-2024.jpg"
 | Country | Norway, Palestinian Territory |
 | Runtime | 92 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

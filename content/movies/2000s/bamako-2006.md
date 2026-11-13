@@ -15,6 +15,14 @@ poster: "assets/posters/bamako-2006.jpg"
 
 # Bamako (2006)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bamako-2006.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/bamako-2006.jpg"
 | Country | France, Mali, United States of America |
 | Runtime | 115 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

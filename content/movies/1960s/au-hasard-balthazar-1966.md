@@ -15,6 +15,14 @@ poster: "assets/posters/au-hasard-balthazar-1966.jpg"
 
 # Au Hasard Balthazar (1966)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/au-hasard-balthazar-1966.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/au-hasard-balthazar-1966.jpg"
 | Country | France, Sweden |
 | Runtime | 96 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

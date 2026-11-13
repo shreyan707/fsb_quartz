@@ -18,6 +18,14 @@ poster: "assets/posters/the-wild-robot-2024.jpg"
 
 # The Wild Robot (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-wild-robot-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -30,6 +38,9 @@ poster: "assets/posters/the-wild-robot-2024.jpg"
 | Country | United States of America |
 | Runtime | 102 min |
 | Genre | Family, Animation, Science Fiction, Adventure |
+
+</div>
+</div>
 
 ## Description
 

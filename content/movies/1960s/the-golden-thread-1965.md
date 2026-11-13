@@ -15,6 +15,14 @@ poster: "assets/posters/the-golden-thread-1965.jpg"
 
 # The Golden Thread (1965)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-golden-thread-1965.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-golden-thread-1965.jpg"
 | Country | India |
 | Runtime | 123 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

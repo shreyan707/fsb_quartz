@@ -16,6 +16,14 @@ poster: "assets/posters/stalker-1979.jpg"
 
 # Stalker (1979)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/stalker-1979.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/stalker-1979.jpg"
 | Country | Soviet Union |
 | Runtime | 162 min |
 | Genre | Science Fiction, Drama |
+
+</div>
+</div>
 
 ## Description
 

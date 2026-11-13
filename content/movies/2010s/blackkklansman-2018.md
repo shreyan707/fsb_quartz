@@ -17,6 +17,14 @@ poster: "assets/posters/blackkklansman-2018.jpg"
 
 # BlacKkKlansman (2018)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/blackkklansman-2018.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/blackkklansman-2018.jpg"
 | Country | United States of America |
 | Runtime | 136 min |
 | Genre | Crime, Drama, History |
+
+</div>
+</div>
 
 ## Description
 

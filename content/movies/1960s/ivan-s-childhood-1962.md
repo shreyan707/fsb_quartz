@@ -16,6 +16,14 @@ poster: "assets/posters/ivan-s-childhood-1962.jpg"
 
 # Ivan's Childhood (1962)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/ivan-s-childhood-1962.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/ivan-s-childhood-1962.jpg"
 | Country | Soviet Union |
 | Runtime | 95 min |
 | Genre | Drama, War |
+
+</div>
+</div>
 
 ## Description
 

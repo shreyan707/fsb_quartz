@@ -15,6 +15,14 @@ poster: "assets/posters/jai-bhim-comrade-2012.jpg"
 
 # Jai Bhim Comrade (2012)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/jai-bhim-comrade-2012.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/jai-bhim-comrade-2012.jpg"
 | Country | India |
 | Runtime | 185 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

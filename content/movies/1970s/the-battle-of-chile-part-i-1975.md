@@ -16,6 +16,14 @@ poster: "assets/posters/the-battle-of-chile-part-i-1975.jpg"
 
 # The Battle of Chile: Part I (1975)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-battle-of-chile-part-i-1975.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-battle-of-chile-part-i-1975.jpg"
 | Country | Chile, France, Cuba, Venezuela |
 | Runtime | 97 min |
 | Genre | Documentary, History |
+
+</div>
+</div>
 
 ## Description
 

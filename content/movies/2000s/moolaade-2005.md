@@ -17,6 +17,14 @@ poster: "assets/posters/moolaade-2005.jpg"
 
 # Moolaade (2005)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/moolaade-2005.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/moolaade-2005.jpg"
 | Country | Burkina Faso, Cameroon, France, Morocco, Senegal, Tunisia |
 | Runtime | 124 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

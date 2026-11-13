@@ -16,6 +16,14 @@ poster: "assets/posters/pride-2014.jpg"
 
 # Pride (2014)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/pride-2014.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/pride-2014.jpg"
 | Country | France, United Kingdom |
 | Runtime | 120 min |
 | Genre | Drama, Comedy |
+
+</div>
+</div>
 
 ## Description
 

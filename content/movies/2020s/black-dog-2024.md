@@ -15,6 +15,14 @@ poster: "assets/posters/black-dog-2024.jpg"
 
 # Black Dog (2024)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/black-dog-2024.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/black-dog-2024.jpg"
 | Country | China |
 | Runtime | 116 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

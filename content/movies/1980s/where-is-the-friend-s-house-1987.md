@@ -16,6 +16,14 @@ poster: "assets/posters/where-is-the-friend-s-house-1987.jpg"
 
 # Where is the Friend's House? (1987)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/where-is-the-friend-s-house-1987.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/where-is-the-friend-s-house-1987.jpg"
 | Country | Iran |
 | Runtime | 83 min |
 | Genre | Drama, Adventure |
+
+</div>
+</div>
 
 ## Description
 

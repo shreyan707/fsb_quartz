@@ -16,6 +16,14 @@ poster: "assets/posters/mr-turner-2014.jpg"
 
 # Mr. Turner (2014)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mr-turner-2014.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/mr-turner-2014.jpg"
 | Country | France, Germany, United Kingdom, United States of America |
 | Runtime | 150 min |
 | Genre | History, Drama |
+
+</div>
+</div>
 
 ## Description
 

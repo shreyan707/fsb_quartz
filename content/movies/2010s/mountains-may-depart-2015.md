@@ -16,6 +16,14 @@ poster: "assets/posters/mountains-may-depart-2015.jpg"
 
 # Mountains May Depart (2015)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/mountains-may-depart-2015.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/mountains-may-depart-2015.jpg"
 | Country | China, France, Japan |
 | Runtime | 127 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

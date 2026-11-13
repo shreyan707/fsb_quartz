@@ -15,6 +15,14 @@ poster: "assets/posters/flowers-of-shanghai-1998.jpg"
 
 # Flowers of Shanghai (1998)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/flowers-of-shanghai-1998.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/flowers-of-shanghai-1998.jpg"
 | Country | Taiwan |
 | Runtime | 113 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -17,6 +17,14 @@ poster: "assets/posters/gabbeh-1996.jpg"
 
 # Gabbeh (1996)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/gabbeh-1996.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/gabbeh-1996.jpg"
 | Country | Iran, France |
 | Runtime | 72 min |
 | Genre | Drama, Mystery, Romance |
+
+</div>
+</div>
 
 ## Description
 

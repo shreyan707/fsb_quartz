@@ -18,6 +18,14 @@ poster: "assets/posters/bacurau-2019.jpg"
 
 # Bacurau (2019)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/bacurau-2019.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -30,6 +38,9 @@ poster: "assets/posters/bacurau-2019.jpg"
 | Country | Brazil, France |
 | Runtime | 131 min |
 | Genre | Mystery, Western, Thriller |
+
+</div>
+</div>
 
 ## Description
 

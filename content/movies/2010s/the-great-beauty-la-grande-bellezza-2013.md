@@ -15,6 +15,14 @@ poster: "assets/posters/the-great-beauty-la-grande-bellezza-2013.jpg"
 
 # The Great Beauty (La Grande Bellezza) (2013)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-great-beauty-la-grande-bellezza-2013.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-great-beauty-la-grande-bellezza-2013.jpg"
 | Country | France, Italy |
 | Runtime | 142 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

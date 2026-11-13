@@ -15,6 +15,14 @@ poster: "assets/posters/la-promesse-1996.jpg"
 
 # La Promesse (1996)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/la-promesse-1996.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/la-promesse-1996.jpg"
 | Country | Belgium, Luxembourg, Tunisia |
 | Runtime | 94 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

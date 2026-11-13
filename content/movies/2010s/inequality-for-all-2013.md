@@ -15,6 +15,14 @@ poster: "assets/posters/inequality-for-all-2013.jpg"
 
 # Inequality for All (2013)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/inequality-for-all-2013.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/inequality-for-all-2013.jpg"
 | Country | United States of America |
 | Runtime | 88 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

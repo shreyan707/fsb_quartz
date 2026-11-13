@@ -15,6 +15,14 @@ poster: "assets/posters/american-dharma-2019.jpg"
 
 # American Dharma (2019)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/american-dharma-2019.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/american-dharma-2019.jpg"
 | Country | United Kingdom, United States of America |
 | Runtime | 95 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

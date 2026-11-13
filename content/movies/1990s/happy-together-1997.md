@@ -16,6 +16,14 @@ poster: "assets/posters/happy-together-1997.jpg"
 
 # Happy Together (1997)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/happy-together-1997.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/happy-together-1997.jpg"
 | Country | Hong Kong, South Korea, Japan |
 | Runtime | 96 min |
 | Genre | Drama, Romance |
+
+</div>
+</div>
 
 ## Description
 

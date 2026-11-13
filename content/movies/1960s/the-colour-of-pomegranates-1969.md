@@ -16,6 +16,14 @@ poster: "assets/posters/the-colour-of-pomegranates-1969.jpg"
 
 # The Colour of Pomegranates (1969)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-colour-of-pomegranates-1969.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-colour-of-pomegranates-1969.jpg"
 | Country | Soviet Union |
 | Runtime | 80 min |
 | Genre | Drama, History |
+
+</div>
+</div>
 
 ## Description
 

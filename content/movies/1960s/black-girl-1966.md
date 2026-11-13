@@ -17,6 +17,14 @@ poster: "assets/posters/black-girl-1966.jpg"
 
 # Black Girl (1966)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/black-girl-1966.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/black-girl-1966.jpg"
 | Country | France, Senegal |
 | Runtime | 65 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/through-the-olive-trees-1994.jpg"
 
 # Through the Olive Trees (1994)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/through-the-olive-trees-1994.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/through-the-olive-trees-1994.jpg"
 | Country | Iran, France |
 | Runtime | 104 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

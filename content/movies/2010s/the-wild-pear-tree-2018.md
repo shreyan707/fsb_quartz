@@ -15,6 +15,14 @@ poster: "assets/posters/the-wild-pear-tree-2018.jpg"
 
 # The Wild Pear Tree (2018)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-wild-pear-tree-2018.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-wild-pear-tree-2018.jpg"
 | Country | Bosnia and Herzegovina, Bulgaria, France, Germany, Macedonia, Qatar, Sweden, Turkey |
 | Runtime | 188 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

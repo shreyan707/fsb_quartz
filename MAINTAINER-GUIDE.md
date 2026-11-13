@@ -420,6 +420,25 @@ npx quartz build --serve
 
 Wait for "Started a Quartz server", then open **http://localhost:8080** in a browser and look at the new pages. When you're done, press **Ctrl+C** in PowerShell to stop it.
 
+> **Don't see your changes? Do a hard refresh.** The browser keeps old copies of pages, images and scripts. A normal reload (the reload button or **F5**) may still show the old version. Press **Ctrl+Shift+R** (or **Ctrl+F5**) instead. This is called a *hard refresh*, and it makes the browser fetch everything again. Do this whenever a change doesn't appear, in the preview and on the live site.
+
+### Test the full production build (optional, advanced)
+
+`quartz build --serve` is quick, but it skips the extra processing steps that run on the real site (tag link fixes, accessibility fixes, search index splitting, image optimization). To test exactly what gets published, build and process the site, then serve the `public/` folder. Run from the website folder:
+
+```powershell
+cd $HOME\Documents\fsb_quartz
+npx quartz build
+npm run postprocess
+node scripts/serve.mjs
+```
+
+Then open **http://localhost:8123/**. Press **Ctrl+C** to stop. The server runs from the site root, like the live site, so the graph, search and fonts load the same way. (Don't use an old copy of `serve.mjs` that adds a `/fsb_quartz` prefix. That was for the old GitHub Pages address and breaks the graph.)
+
+- `scripts/serve.mjs` is part of the repository. To use another folder or port: `node scripts/serve.mjs public 9000`.
+- To pick up new changes, run `npx quartz build` and `npm run postprocess` again. You don't need to restart the server. Then do a **hard refresh (Ctrl+Shift+R)** in the browser.
+- If old pages still appear, delete the `public` folder first and rebuild. Don't run `postprocess` twice on the same build.
+- If plugins are missing or were updated, run `npm run install-plugins` before building.
 ### Publish
 
 In PowerShell:
@@ -458,6 +477,7 @@ Change the text in quotes to describe what you did. Wait 2–3 minutes, then che
 | Table row looks broken | The link inside the table needs `\|`, not `|`. |
 | Page looks broken at the top | Something is wrong between the `---` lines: a missing quote, or genre lines without the two spaces and the dash. |
 | Template didn't fill in | Ctrl+P → "Templater: Open insert template modal" → pick the template. |
+| Changes don't show in the browser (preview or live site) | The browser is showing an old saved copy. Do a hard refresh with **Ctrl+Shift+R**. F5 or the reload button may not be enough. |
 | `git pull` says "conflict" | Stop and contact the website owner; don't try to fix it. |
 | Publish asks to sign in | Sign in to GitHub in the browser window that opens. |
 | Publish says "permission denied" | Your GitHub account doesn't have access yet. Ask the owner (Part 1.2). |

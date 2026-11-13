@@ -15,6 +15,14 @@ poster: "assets/posters/father-mother-sister-brother-2025.jpg"
 
 # Father Mother Sister Brother (2025)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/father-mother-sister-brother-2025.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/father-mother-sister-brother-2025.jpg"
 | Country | United States of America, France, Ireland, Italy, Germany, United Kingdom |
 | Runtime | 111 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

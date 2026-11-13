@@ -16,6 +16,14 @@ poster: "assets/posters/amores-perros-2000.jpg"
 
 # Amores Perros (2000)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/amores-perros-2000.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/amores-perros-2000.jpg"
 | Country | Mexico |
 | Runtime | 154 min |
 | Genre | Drama, Thriller |
+
+</div>
+</div>
 
 ## Description
 

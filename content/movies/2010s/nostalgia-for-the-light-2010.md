@@ -15,6 +15,14 @@ poster: "assets/posters/nostalgia-for-the-light-2010.jpg"
 
 # Nostalgia for the Light (2010)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/nostalgia-for-the-light-2010.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/nostalgia-for-the-light-2010.jpg"
 | Country | Chile, France, Germany |
 | Runtime | 93 min |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

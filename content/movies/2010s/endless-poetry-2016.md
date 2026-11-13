@@ -16,6 +16,14 @@ poster: "assets/posters/endless-poetry-2016.jpg"
 
 # Endless Poetry (2016)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/endless-poetry-2016.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/endless-poetry-2016.jpg"
 | Country | Chile, Mexico, France, Japan, United Kingdom |
 | Runtime | 128 min |
 | Genre | Fantasy, Drama |
+
+</div>
+</div>
 
 ## Description
 

@@ -15,6 +15,14 @@ poster: "assets/posters/love-in-india-2009.jpg"
 
 # Love in India (2009)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/love-in-india-2009.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/love-in-india-2009.jpg"
 | Country | India |
 | Runtime | N/A |
 | Genre | Documentary |
+
+</div>
+</div>
 
 ## Description
 

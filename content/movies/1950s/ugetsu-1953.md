@@ -17,6 +17,14 @@ poster: "assets/posters/ugetsu-1953.jpg"
 
 # Ugetsu (1953)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/ugetsu-1953.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/ugetsu-1953.jpg"
 | Country | Japan |
 | Runtime | 96 min |
 | Genre | Fantasy, Drama, Mystery |
+
+</div>
+</div>
 
 ## Description
 

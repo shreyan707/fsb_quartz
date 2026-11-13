@@ -15,6 +15,14 @@ poster: "assets/posters/loveless-2017.jpg"
 
 # Loveless (2017)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/loveless-2017.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/loveless-2017.jpg"
 | Country | Belgium, France, Germany, Russia |
 | Runtime | 122 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

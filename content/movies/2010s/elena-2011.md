@@ -16,6 +16,14 @@ poster: "assets/posters/elena-2011.jpg"
 
 # Elena (2011)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/elena-2011.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/elena-2011.jpg"
 | Country | Russia |
 | Runtime | 110 min |
 | Genre | Drama, Thriller |
+
+</div>
+</div>
 
 ## Description
 

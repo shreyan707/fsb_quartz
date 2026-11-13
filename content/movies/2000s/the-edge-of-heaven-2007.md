@@ -15,6 +15,14 @@ poster: "assets/posters/the-edge-of-heaven-2007.jpg"
 
 # The Edge of Heaven (2007)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-edge-of-heaven-2007.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/the-edge-of-heaven-2007.jpg"
 | Country | Germany, Turkey |
 | Runtime | 122 min |
 | Genre | Drama |
+
+</div>
+</div>
 
 ## Description
 

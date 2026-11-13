@@ -15,6 +15,14 @@ poster: "assets/posters/pearls-of-the-deep-1966.jpg"
 
 # Pearls of the Deep (1966)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/pearls-of-the-deep-1966.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -27,6 +35,9 @@ poster: "assets/posters/pearls-of-the-deep-1966.jpg"
 | Country | Czechoslovakia |
 | Runtime | 107 min |
 | Genre | Comedy |
+
+</div>
+</div>
 
 ## Description
 

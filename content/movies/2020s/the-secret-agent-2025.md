@@ -17,6 +17,14 @@ poster: "assets/posters/the-secret-agent-2025.jpg"
 
 # The Secret Agent (2025)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-secret-agent-2025.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/the-secret-agent-2025.jpg"
 | Country | Brazil, France, Germany, Netherlands, Argentina |
 | Runtime | 161 min |
 | Genre | Thriller, Drama, Crime |
+
+</div>
+</div>
 
 ## Description
 

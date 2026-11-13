@@ -17,6 +17,14 @@ poster: "assets/posters/lsd-love-sex-aur-dhokha-2010.jpg"
 
 # LSD: Love, Sex aur Dhokha (2010)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/lsd-love-sex-aur-dhokha-2010.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -29,6 +37,9 @@ poster: "assets/posters/lsd-love-sex-aur-dhokha-2010.jpg"
 | Country | India |
 | Runtime | 108 min |
 | Genre | Drama, Crime, Comedy |
+
+</div>
+</div>
 
 ## Description
 

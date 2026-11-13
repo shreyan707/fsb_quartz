@@ -16,6 +16,14 @@ poster: "assets/posters/the-internet-s-own-boy-the-story-of-aaron-swartz-2014.jp
 
 # The Internet's Own Boy: The Story of Aaron Swartz (2014)
 
+<div class="film-profile">
+<div class="film-poster">
+
+![[assets/posters/the-internet-s-own-boy-the-story-of-aaron-swartz-2014.jpg]]
+
+</div>
+<div class="film-facts">
+
 ## Movie Information
 
 | Field | Details |
@@ -28,6 +36,9 @@ poster: "assets/posters/the-internet-s-own-boy-the-story-of-aaron-swartz-2014.jp
 | Country | United States of America |
 | Runtime | 105 min |
 | Genre | Documentary, Crime |
+
+</div>
+</div>
 
 ## Description
 
