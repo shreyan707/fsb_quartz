@@ -1,9 +1,10 @@
 # Film Society Bhubaneswar website: Maintainer Guide
 
-This guide has two parts:
+This guide has three parts:
 
 - **Part 1: Setting up the computer.** For the person preparing the PC. Done once.
 - **Part 2: Adding a film.** For the person maintaining the website. Done every time a film is screened.
+- **Part 3: Themes and subject pages.** For turning the subjects listed on a theme page into their own pages. Done whenever a theme page gets new subjects.
 
 The website is built from a folder of notes. You write and edit the notes in **Obsidian** (a note-taking app). When you **publish**, the website updates by itself within a few minutes.
 
@@ -481,3 +482,59 @@ Change the text in quotes to describe what you did. Wait 2–3 minutes, then che
 | `git pull` says "conflict" | Stop and contact the website owner; don't try to fix it. |
 | Publish asks to sign in | Sign in to GitHub in the browser window that opens. |
 | Publish says "permission denied" | Your GitHub account doesn't have access yet. Ask the owner (Part 1.2). |
+
+---
+
+# Part 3: Themes and subject pages
+
+A **theme** page (in the `Themes` folder, e.g. *Decoding American Wet Dream (DAWD)*) lists films and the **secondary subjects** each film explores. Every subject should have its own page in the `Subjects` folder, which lists all the films that touch it. You don't create those pages by hand: a small tool does it.
+
+## Step 1: Write the subjects as plain links
+
+On the theme page, type each subject as a plain link: two square brackets around its name. Nothing else.
+
+```
+[[Climate Change]]
+```
+
+- Don't write `Subjects/` or a `|`. The tool adds them.
+- To show different text than the name, use `[[Climate Change|the climate crisis]]`.
+- In a film table, put the subjects in the same row as the film. The tool uses the row to list that film on each subject's page.
+- If a subject already has a page, just type its name. The tool reuses the existing page and adds the new film to it.
+
+> **Don't click the new links in Obsidian yet.** Clicking an unresolved link makes an empty note in the wrong folder. Run the tool first (Step 2).
+
+## Step 2: Turn the links into subject pages
+
+Save the theme page. Then open PowerShell and run, with the page's file name in quotes:
+
+```powershell
+cd $HOME\Documents\fsb_quartz
+npm run subjects -- "content/Themes/Decoding American Wet Dream (DAWD).md"
+```
+
+To preview what it would do without changing anything, add `--dry` at the end.
+
+For every plain link that isn't already a page, the tool:
+
+1. creates `Subjects/climate-change.md` (a title, a line linking back to the theme, and the film list), and
+2. rewrites the link on the theme page to `[[Subjects/climate-change|Climate Change]]`.
+
+It prints a summary, such as `2 subject page(s) created, 1 updated`. Obsidian shows the changes straight away.
+
+It is safe to run again: it never overwrites a subject page, and it skips links that are already done, links to real pages (like the theme link), and anything in a code block.
+
+## Step 3: Check and publish
+
+Open one or two of the new subject pages in Obsidian and check that the title and film list look right. Then publish as in **Part 2, Step 8**.
+
+> The website build **doesn't** run this tool. If you publish a theme page that still has plain `[[Name]]` links, those links show as broken on the site. Always run Step 2 first.
+
+## Part 3 troubleshooting
+
+| Problem | Likely cause and fix |
+|---|---|
+| `npm run subjects` says "File not found" | The page name or path is wrong. Check the spelling, keep the quotes, and make sure it starts with `content/Themes/`. |
+| A link wasn't converted | It already has a `/` or `#` in it, it's inside a code block, or a page with that name already exists somewhere else. |
+| A subject page is in the wrong folder or empty | The link was clicked in Obsidian before running the tool. Delete the stray note and run the tool again. |
+| A subject is missing a film | The subject link wasn't in the same table row as the film link. Move it into that row and run the tool again. |
